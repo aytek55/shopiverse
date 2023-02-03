@@ -81,53 +81,70 @@ const config = {
             type: 'doc',
             docId: 'tutorial/intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Başlarken',
           },
           {
             type: 'doc',
             docId: 'dashboard/dashboard',
             position: 'left',
-            label: 'Dashboard',
+            label: 'Panel',
           },
           {
             type: 'localeDropdown',
             position: 'right',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://shopiverse.com/blog/', label: 'Blog', position: 'left'},
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Doküman',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Başlarken',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Sosyal Medya',
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/shopiverseuk',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/shopiverseuk/',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/shopiverseuk/',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@shopiverse/featured',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/shopiverseuk',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Daha...',
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'https://shopiverse.com/blog/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: ` © Copyright ${new Date().getFullYear()} ShopiVerse, All Rights Reserved.
+        ShopiVerse is a WORLDEF and ShipEntegra joint venture.`,
       },
       prism: {
         theme: lightCodeTheme,
