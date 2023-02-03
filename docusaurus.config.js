@@ -104,15 +104,15 @@ const config = {
             items: [
               {
                 label: 'API',
-                to: 'api/api',
+                to: 'docs/api/api',
               },
               {
                 label: 'Başlarken',
-                to: '/intro',
+                to: 'docs/intro',
               },
               {
                 label: 'Panel',
-                to: 'dashboard/dashboard',
+                to: 'docs/dashboard/dashboard',
               },
             ],
           },
