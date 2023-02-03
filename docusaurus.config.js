@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'API',
-                to: 'docs/api/api',
+                to: 'docs/api',
               },
               {
                 label: 'Başlarken',
@@ -112,7 +112,7 @@ const config = {
               },
               {
                 label: 'Panel',
-                to: 'docs/dashboard/dashboard',
+                to: 'docs/dashboard',
               },
             ],
           },
