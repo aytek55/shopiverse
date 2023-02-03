@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/shopiverse-logo-h100-1.png',
       navbar: {
-        title: 'ShopiVerse',
+        title: '',
         logo: {
-          alt: 'ShopiVerse',
-          src: 'img/logo.svg',
+          alt: '',
+          src: 'img/shopiverse-logo-h100-1.png',
         },
         items: [
           {
@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Başlarken',
-                to: 'docs/intro',
+                to: 'docs/tutorial/intro',
               },
               {
                 label: 'Panel',
