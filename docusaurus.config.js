@@ -103,8 +103,16 @@ const config = {
             title: 'Doküman',
             items: [
               {
+                label: 'API',
+                to: '/api/api',
+              },
+              {
                 label: 'Başlarken',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Panel',
+                to: '/dashboard/dashboard',
               },
             ],
           },
@@ -127,10 +135,6 @@ const config = {
                 label: 'YouTube',
                 href: 'https://www.youtube.com/@shopiverse/featured',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/shopiverseuk',
-              },
             ],
           },
           {
@@ -143,8 +147,8 @@ const config = {
             ],
           },
         ],
-        copyright: ` © Copyright ${new Date().getFullYear()} ShopiVerse, All Rights Reserved.
-        ShopiVerse is a WORLDEF and ShipEntegra joint venture.`,
+        copyright: ` © Copyright ${new Date().getFullYear()} ShopiVerse, Tüm Hakkı Saklıdır.
+        ShopiVerse, bir WORLDEF ve ShipEntegra ortak girişimidir.`,
       },
       prism: {
         theme: lightCodeTheme,
