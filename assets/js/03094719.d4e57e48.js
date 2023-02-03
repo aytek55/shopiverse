@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshopiverse=self.webpackChunkshopiverse||[]).push([[493],{2054:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/shopiverse/blog/tags/docusaurus","allTagsPath":"/shopiverse/blog/tags","count":4}')}}]);

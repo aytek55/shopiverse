@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshopiverse=self.webpackChunkshopiverse||[]).push([[412],{6585:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/shopiverse/blog/tags/facebook","allTagsPath":"/shopiverse/blog/tags","count":1}')}}]);
