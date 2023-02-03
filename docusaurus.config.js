@@ -73,9 +73,21 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'api/api',
+            position: 'left',
+            label: 'API',
+          },
+          {
+            type: 'doc',
+            docId: 'tutorial/intro',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            type: 'doc',
+            docId: 'dashboard/dashboard',
+            position: 'left',
+            label: 'Dashboard',
           },
           {
             type: 'localeDropdown',
