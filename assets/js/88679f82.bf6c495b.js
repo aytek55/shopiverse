@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkshopiverse=self.webpackChunkshopiverse||[]).push([[264],{7411:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/shopiverse/blog/tags/hola","allTagsPath":"/shopiverse/blog/tags","count":1}')}}]);
