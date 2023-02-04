@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'API',
-    Svg: require('@site/static/img/api.svg').default,
+    Svg: require('@site/static/img/api4.svg').default,
     description: (
       <>
         Tüm ShopiVerse veri modelleri ve uygulamalarınız ile entegrasyonlarınız için nasıl veri alacağınız hakkında bilgi edinin.YAKINDA...
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Panel',
-    Svg: require('@site/static/img/dashboard.svg').default,
+    Svg: require('@site/static/img/panel2.svg').default,
     description: (
       <>
         Bu bölümde kullanıcılar için dashboard özelliklerini anlatacağız
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Başlarken',
-    Svg: require('@site/static/img/tutorial.svg').default,
+    Svg: require('@site/static/img/tutorial2.svg').default,
     description: (
       <>
        Sistem Tanıtımı...
