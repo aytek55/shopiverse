@@ -1,4 +1,7 @@
-
+---
+sidebar_label: 'Panel'
+sidebar_position: 1
+---
 
 # Panel Önyüz
 
