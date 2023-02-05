@@ -13,15 +13,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Panel',
-    Svg: require('@site/static/img/panel2.svg').default,
-    description: (
-      <>
-        Bu bölümde kullanıcılar için dashboard özelliklerini anlatacağız
-      </>
-    ),
-  },
-  {
     title: 'Başlarken',
     Svg: require('@site/static/img/tutorial2.svg').default,
     description: (
@@ -30,6 +21,16 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Panel',
+    Svg: require('@site/static/img/panel2.svg').default,
+    description: (
+      <>
+        Bu bölümde kullanıcılar için dashboard özelliklerini anlatacağız
+      </>
+    ),
+  },
+ 
 ];
 
 function Feature({Svg, title, description}) {
