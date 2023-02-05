@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/api4.svg').default,
     description: (
       <>
-        Tüm ShopiVerse veri modelleri ve uygulamalarınız ile entegrasyonlarınız için nasıl veri alacağınız hakkında bilgi edinin.YAKINDA...
+        Tüm ShopiVerse veri modelleri ve uygulamalarınız ile entegrasyonlarınız için nasıl veri alacağınız hakkında bilgi edinin.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/tutorial2.svg').default,
     description: (
       <>
-       Sistem Tanıtımı...
+       Sistem Tanıtımı ve Dokümantasyon bilgilendirmesi...
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/panel2.svg').default,
     description: (
       <>
-        Bu bölümde kullanıcılar için dashboard özelliklerini anlatacağız
+        Kullanıcı paneli hakkında bilgi edinin.
       </>
     ),
   },
