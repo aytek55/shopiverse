@@ -145,8 +145,8 @@ const config = {
             ],
           },
         ],
-        copyright: ` © Copyright ${new Date().getFullYear()} ShopiVerse, Tüm Hakkı Saklıdır.
-        ShopiVerse, bir WORLDEF ve ShipEntegra ortak girişimidir.`,
+        copyright: ` © Copyright ${new Date().getFullYear()} ShopiVerse, All Rights Reserved.
+        ShopiVerse is a WORLDEF and ShipEntegra joint venture`,
       },
       prism: {
         theme: lightCodeTheme,
