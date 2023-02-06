@@ -99,10 +99,6 @@ const config = {
                 to: 'docs/api',
               },
               {
-                label: 'Başlarken',
-                to: 'docs/tutorial/intro',
-              },
-              {
                 label: 'Panel',
                 to: 'docs/dashboard',
               },

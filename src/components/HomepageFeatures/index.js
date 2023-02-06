@@ -21,6 +21,15 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Blog',
+    Svg: require('@site/static/img/blog.svg').default,
+    description: (
+      <>
+        ShopiVerse Blog.
+      </>
+    ),
+  },
  
 ];
 
