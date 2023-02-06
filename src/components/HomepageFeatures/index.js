@@ -13,15 +13,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Başlarken',
-    Svg: require('@site/static/img/tutorial2.svg').default,
-    description: (
-      <>
-       Sistem Tanıtımı ve Dokümantasyon bilgilendirmesi...
-      </>
-    ),
-  },
-  {
     title: 'Panel',
     Svg: require('@site/static/img/panel2.svg').default,
     description: (

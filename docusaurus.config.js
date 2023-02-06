@@ -77,12 +77,6 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tutorial/intro',
-            position: 'left',
-            label: 'Başlarken',
-          },
-          {
-            type: 'doc',
             docId: 'dashboard/dashboard',
             position: 'left',
             label: 'Panel',
