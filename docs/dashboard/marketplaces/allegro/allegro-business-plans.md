@@ -14,9 +14,4 @@ Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Allegro tab’i 
 
 Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Allegro’da satışa başarılı bir şekilde açılır. 
 
-:::caution
 
-Not: 
-
-
-:::

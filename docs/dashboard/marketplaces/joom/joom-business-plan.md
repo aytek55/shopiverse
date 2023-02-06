@@ -15,9 +15,4 @@ Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Joom tab’i alt
 Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Joom pazaryerinde satışa başarılı bir şekilde açılır. 
 
 
-:::caution
 
-Not: 
-
-
-:::

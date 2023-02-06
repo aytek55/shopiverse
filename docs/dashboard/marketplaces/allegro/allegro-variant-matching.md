@@ -12,9 +12,3 @@ Kategori eşleştirmeleri tamamlandıktan sonra **Ürünler > Platform Eşleşti
 
 Renk eşleştirmelerini kategori eşleştirme sayfasında yaptığımız için burada sadece beden eşleştirmelerini yapmamız yeterli olacaktır. 
 
-:::caution
-
-Not: 
-
-
-:::

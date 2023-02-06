@@ -14,9 +14,4 @@ Bu işlemi yaptıktan sonra yine Ürünler sayfası altında **Excel İşlemleri
 
 
 
-:::caution
 
-Not: 
-
-
-:::

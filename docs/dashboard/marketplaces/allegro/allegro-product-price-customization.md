@@ -12,9 +12,4 @@ Daha sonra Ayarlar > Mağazalar > Allegro > Parametre sayfası altında “Mağa
 
 Bu işlemi yaptıktan sonra yine Ürünler sayfası altında Excel İşlemleri > Mağaza Ürün Excel kısmından Şablon İndir diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. 
 
-:::caution
 
-Not: 
-
-
-:::

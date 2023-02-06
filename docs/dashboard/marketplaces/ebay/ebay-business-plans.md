@@ -14,9 +14,4 @@ Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Ebay tab’i alt
 
 Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Ebay’de satışa başarılı bir şekilde açılır. 
 
-:::caution
 
-Not: 
-
-
-:::

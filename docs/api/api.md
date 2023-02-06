@@ -7,4 +7,4 @@ sidebar_position: 1
 
 **ShopiVerse** *sistem veri modelleri ve uygulamalarınız için API bilgileri*.
 
-![API](../../static/img/api4.svg)
+![API](../../static/img/api11.png)

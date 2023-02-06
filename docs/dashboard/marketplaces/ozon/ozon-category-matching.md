@@ -17,9 +17,4 @@ Kategori seçildikten sonra aşağıda Ana Ürün Kodu bazında ürünleriniz ve
 Eşleştirmeleri tek tek yapmak istemediğiniz durumda sağ alandaki excel işlemleri altından “**Excel Şablonu**” indir diyerek zorunlu değer alanlarına excelde bulunan “**Kategori Özellikleri**” sheetindeki “**Özellik Değer Kodu**” altında yazan bilgileri Kategori Eşleştir sheetindeki Ana Ürün Kodlarına karşılık gelen sütunlarda doğru bir şekilde doldurarak kaydetmeniz gerekir. Exceli hazırladıktan sonra ShopiVerse panelinde aynı sayfa üzerinden excel işlemleri altında “**Dosya Seç**” diyerek ilgili exceli seçip “**Excel Şablonu Yükle**” diyerek yükleme işlemini sağlayabilirsiniz.
 
 
-:::caution
 
-Not: 
-
-
-:::

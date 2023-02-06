@@ -15,9 +15,3 @@ Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Ozon tab’i alt
 Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Ozon’da moderasyon sürecine girer ve onaylandıklarında ürünleriniz satışa başarılı bir şekilde açılır. 
 
 
-:::caution
-
-Not: 
-
-
-:::

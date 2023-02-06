@@ -10,9 +10,3 @@ Kategori eşleştirmeleri tamamlandıktan sonra **Ürünler > Platform Eşleşti
 
 İlgili kategorinin sağ tarafında bulunan **düzenle** butonu ile **varyant eşleştirme** sayfasını açıyoruz. Buradaki *Nitelik Değeri* alanını karşılık gelen düzenle butonu ile açılan sayfada “*Temizle*” butonu ile değerleri sıfırlayıp “*Ara*” diyerek platformun sunmuş olduğu nitelik değeri karşılıklarından uygun olan seçilir ve bu her nitelik değeri için yapılır. 
 
-:::caution
-
-Not: 
-
-
-:::

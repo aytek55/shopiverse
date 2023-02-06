@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'API',
-    Svg: require('@site/static/img/api4.svg').default,
+    Svg: require('@site/static/img/api11.svg').default,
     description: (
       <>
         Tüm ShopiVerse veri modelleri ve uygulamalarınız için nasıl veri alacağınız hakkında bilgi edinin.
