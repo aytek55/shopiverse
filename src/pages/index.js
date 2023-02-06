@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/dashboard/dashboard">
+            to="/docs/dashboard/">
             ShopiVerse öğrenin - 5 dk ⏱️
           </Link>
         </div>
