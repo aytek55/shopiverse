@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/api4.svg').default,
     description: (
       <>
-        Tüm ShopiVerse veri modelleri ve uygulamalarınız ile entegrasyonlarınız için nasıl veri alacağınız hakkında bilgi edinin.
+        Tüm ShopiVerse veri modelleri ve uygulamalarınız için nasıl veri alacağınız hakkında bilgi edinin.
       </>
     ),
   },

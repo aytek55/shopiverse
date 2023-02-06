@@ -5,6 +5,6 @@ sidebar_position: 1
 
 # API 
 
-**ShopiVerse** *sistem API entegrasyonları ve API bilgileri*.
+**ShopiVerse** *sistem veri modelleri ve uygulamalarınız için API bilgileri*.
 
-![API](../../static/img/api3.svg)
+![API](../../static/img/api4.svg)

@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/shopiverseuk',
+                href: 'https://twitter.com/shopiverseuk',                
               },
               {
                 label: 'Instagram',
@@ -146,7 +146,7 @@ const config = {
           },
         ],
         copyright: ` © Copyright ${new Date().getFullYear()} ShopiVerse, All Rights Reserved.
-        ShopiVerse is a WORLDEF and ShipEntegra joint venture`,
+        ShopiVerse is a WORLDEF and ShipEntegra joint venture.`,
       },
       prism: {
         theme: lightCodeTheme,
