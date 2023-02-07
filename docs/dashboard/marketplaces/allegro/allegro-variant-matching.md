@@ -5,7 +5,7 @@ sidebar_position: 2
 
 
 # Allegro Varyant Eşleştirme 
-
+ 
 Kategori eşleştirmeleri tamamlandıktan sonra **Ürünler > Platform Eşleştirme > Varyant Eşleştirme** sayfası açılır. *Mağaza* alanından *Allegro* seçilir ve aşağıda kategori eşleştirmelerini yaptığınız kategorilerin bilgileri listelenir. 
 
 ![AllegroVariantMatch](../allegro/img/allegroproductvariant.png)
