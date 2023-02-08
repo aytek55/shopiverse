@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Panel',
-    Svg: require('@site/static/img/panel2.svg').default,
+    Svg: require('@site/docs/dashboard/img/panel2.svg').default,
     description: (
       <>
         Kullanıcı paneli hakkında bilgi edinin.

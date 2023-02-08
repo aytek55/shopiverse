@@ -23,6 +23,6 @@ sidebar_position: 2
 :::caution
 
 Not: **Ebay paneline** giderek kullanıcı girişi yapıp, **istenilen bilgilere** izin veriniz.
-
+Dikkat edilmesi gereken nokta, yetki talep edilirken ShopiVerse panelindeki dil seçeneği **Türkçe** olarak seçili olmalı.
 
 :::
