@@ -8,9 +8,20 @@ sidebar_position: 2
 ## Firma Bilgileri
 
 **Paraşüt** panelinde **Ayarlar> Firma Bilgileri** ekranına gidilir.
+
+![Paraşütcode](../commercial-system/img/para%C5%9F%C3%BCtCode.png)
+
 Firma bilgileri ekranındayken **url** adresinde görüntülenen numara şirket kodudur.
 
-Url üzerinden alınan numara, ShopiVerse ticari sistem ayarlarında **Ticari Sistem Parametre Tanım** sekmesinde **Şirket Kodu** alanına kaydedilir.
+![ParaşütSet](../commercial-system/img/Para%C5%9F%C3%BCtset.png)
+
+![ParaşütSetEdit](../commercial-system/img/Para%C5%9F%C3%BCtsetEdit.png)
+
+
+Url üzerinden alınan numara, **ShopiVerse > Ayarlar > Ticari Sistem Tanımı** *Ticari Sistem Parametre Tanım* sekmesinde **Şirket Kodu** alanına kaydedilir.
+
+![ParaşütSetEditCode](../commercial-system/img/Para%C5%9F%C3%BCtsetEditCode.png)
+
 
 ShopiVerse panelde Kasa Kodu alanının doldurulmasına gerek yoktur. Sabit Müşteri Kodu, Kategori Kodu ve Etiket alanları zorunlu değildir. 
 

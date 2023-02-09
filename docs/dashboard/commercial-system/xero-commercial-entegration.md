@@ -27,12 +27,21 @@ Kayıt işleminden sonra böyle bir ekran görüntülenir.
 
 ![XeroClient](../commercial-system/img/Xeroclient.png)
 
+## Ticari Sistem Tanımları
+
 Buradan kopyalanan **Client Id ve Client Secret** bilgileri, **ShopiVerse > Ayarlar > Ticari Sistem Ayarlar > Parametre Tanım** sekmesine kaydedilir.
+
+![XeroEdit](../commercial-system/img/Xeroedit.png)
+
+![XeroEditParameter](../commercial-system/img/XeroeditParamaeter.png)
 
 Daha sonra tekrar Xero paneline giriş yapılır. **Accounting** butonu üzerinden hesap detaylarına gidilir.
 
-Hesap detaylarında bulunan **Account Number** alanındaki değer kopyalanarak yine **ShopiVerse parametrelerine** kaydedilir.( Xero panelindeki Account Number bilgisi boş ise doldurularak kayıt edilmelidir. )
+Hesap detaylarında bulunan **Account Number** alanındaki değer kopyalanarak yine **ShopiVerse parametrelerine** kaydedilir.
 
+:::caution
+Xero panelindeki **Account Number** bilgisi boş ise doldurularak kayıt edilmelidir.
+:::
 
 
 
