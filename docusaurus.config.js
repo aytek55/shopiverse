@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/shopiverseicon.jpg',
 
   // Set the production url of your site here
-  url: 'https://github.com/',
+  url: 'http://docs.shopiverse.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/shopiverse/',
