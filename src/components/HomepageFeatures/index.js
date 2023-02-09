@@ -14,10 +14,10 @@ const FeatureList = [
   },
   {
     title: 'Panel',
-    Svg: require('@site/docs/dashboard/img/panel2.svg').default,
+    Svg: require('@site/docs/dashboard/img/Panel3.svg').default,
     description: (
       <>
-        Kullanıcı paneli hakkında bilgi edinin.
+        Kullanıcı paneli , Raporlar , Pazaryerleri ve Entegrasyonlar hakkında bilgi edinin.
       </>
     ),
   },
