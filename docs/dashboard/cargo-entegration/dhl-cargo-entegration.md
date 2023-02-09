@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'DHL'
+sidebar_label: 'DHL Express'
 sidebar_position: 1
 ---
 
@@ -9,10 +9,21 @@ sidebar_position: 1
 
 **Kullanıcı Adı ve Şifre** bilgisi Dhl Ekibi tarafından **siteId ve password** olarak size verilir.
 
-https://xmlportal.dhl.com/userCustomerListing linki üzerinden **Dhl Hesap Numarası**na ulaşılabilir.
-
 ![DHL](../cargo-entegration/img/DHL.png)
 
-Bu bilgiler ve gönderici ile ilgili diğer özel bilgiler ( ad, soyad vs.) ShopiVerse  kargo firma  ayarlarında parametre olarak eklenir.
+https://xmlportal.dhl.com/userCustomerListing linki üzerinden **Dhl Hesap Numarası**na ulaşılabilir.
+
+Bu bilgiler ve gönderici ile ilgili diğer özel bilgiler ( ad, soyad vs.) **ShopiVerse > Ayarlar > Kargo Firma Tanımları**  ayarlarında parametre olarak eklenir.
+
+![DHLE](../cargo-entegration/img/DHLe.png)
+
+![DHLEDit](../cargo-entegration/img/DHLEdit.png)
+
+![DHLEdit Parameter](../cargo-entegration/img/DHLEditParameter.png)
+
+Aşağıdaki panelde kullanıcı bilgilerini ve Sistemden aldığınız **Kullanıcı Adı , Şifre , Dhl Hesap Numarası** doldurup **kaydet butonu**na tıklıyoruz.
+
+![DHLEdit Parameter](../cargo-entegration/img/DHLEditParameterSave.png)
+
 
  

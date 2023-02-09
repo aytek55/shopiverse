@@ -7,6 +7,8 @@ sidebar_position: 1
 
 ## Byrd Destek
 
+
+
 **Byrd destek** ekranlarından **Api Key ve Api Secret** bilgileri talep edilir.
 
 https://developers.getbyrd.com/docs/obtaining-api-credentials (bu link üzerinde detaylı bilgi verilmektedir.)
