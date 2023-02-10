@@ -18,5 +18,18 @@ Hesap oluşturduktan sonra ekranın **sol tarafı**ndaki isim üzerine tıklanar
 ![HubooReferans](../fullfillment-entegration/img/HubooRef.png)
 
 **Hub butonu**na tıklandığında **Huboo Ref Kodu** gözükür.
+
+## Ayarlar > Fulfillment
+
 **Api key ve Ref Kodu** , **ShopiVerse > Ayarlar > FulFillment > Parametre** olarak eklenir.
 Ayrıca **Depo Kodu** parametresine ihtiyaç vardır. Bu kod ShopiVerse yazılım ekibi tarafından arka planda tanımlanır.
+
+![Huboo](../../dashboard/fullfillment-entegration/img/Huboo.png)
+
+## Düzenle
+
+![HubooEdit](../../dashboard/fullfillment-entegration/img/HubooEdit.png)
+
+## Parametre
+
+![HubooEditParameter](../../dashboard/fullfillment-entegration/img/HubooEditParameter.png)
