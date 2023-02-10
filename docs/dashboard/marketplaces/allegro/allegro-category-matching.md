@@ -7,7 +7,7 @@ sidebar_position: 1
 # Allegro Kategori Eşleştirme
 
 Ürünlerim sayfasında **Allegro** özelinde satışa açılmasını istediğiniz ürünler seçilir ya da *filtrelenir*.  
-## Ürünler > Ürünllerim
+## Ürünler > Ürünlerim
 ![SvMyProducts](../allegro/img/svmyproducts.png)
 ## Platform İşlemleri > Seçili / Filtreli Ürünleri Yayınlar
 Daha sonra **Platform İşlemleri** altından “*Seçilen Ürünleri Yayınla*” ya da “*Filtreli Ürünleri Yayınla*” seçeneği seçilerek açılan pop-up sayfasında Allegro seçilir ve Kaydet yapılır.
