@@ -1,0 +1,8 @@
+{
+    "label": "Ana Sayfa",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "öğrenmek istediğiniz işlemi seçiniz. "
+    }
+  }
