@@ -1,7 +1,7 @@
 ---
-sidebar_label: 'Horoz Lojistik Karayolları'
+sidebar_label: 'Horoz Lojistik-Karayolları'
 ---
 
-# Horoz Entegrasyon
+# Horoz Lojistik-Karayolları Entegrasyon
 
  

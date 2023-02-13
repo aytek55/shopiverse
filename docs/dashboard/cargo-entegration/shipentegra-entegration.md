@@ -1,7 +1,7 @@
 ---
-sidebar_label: 'Shipentegra'
+sidebar_label: 'ShipEntegra'
 ---
 
-# Shipentegra Entegrasyon
+# ShipEntegra Entegrasyon
 
  
