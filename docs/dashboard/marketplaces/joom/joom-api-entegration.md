@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Joom'
+sidebar_label: 'API Entegrasyonu'
 sidebar_position: 5
 ---
 
@@ -10,14 +10,14 @@ sidebar_position: 5
 
 
 ## Ayarlar
-![Ayarlar](../../../static/img/svayarlar.png)
+![Ayarlar](../joom/img/svayarlar.png)
 
  
 ## Mağazalar > Joom
-![Joom](../../../static/img/svjoom.png)
+![Joom](../joom/img/svjoom.png)
 
 ## Joom > API Tanımı
-![JoomAPI](../../../static/img/svjoomapi.png)
+![JoomAPI](../joom/img/svjoomapi.png)
 
 ## Entegrasyon İçn Gerekli Bilgiler
  

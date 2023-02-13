@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Allegro Varyant Eşleştirme'
+sidebar_label: 'Varyant Eşleştirme'
 sidebar_position: 2
 ---
 

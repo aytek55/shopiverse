@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Allegro İş Planları'
+sidebar_label: 'İş Planları'
 sidebar_position: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Ozon'
-sidebar_position: 6
+sidebar_label: 'API Entegrasyonu'
+sidebar_position: 5
 ---
 
 
@@ -9,13 +9,13 @@ sidebar_position: 6
 **Ozon** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Ozon >  API Tanımı** alanı altındaki “`Client ID`” ve “`Api Key`” bilgilerini doldurmamız gerekiyor. 
 
 ## Ayarlar
-![Ayarlar](../../../static/img/svayarlar.png)
+![Ayarlar](../ozon/img/svayarlar.png)
 
 ## Mağazalar > Ozon
-![Ozon](../../../static/img/svozon.png)
+![Ozon](../ozon/img/svozon.png)
  
 ## Ozon > API Tanımı
-![Ozonapi](../../../static/img/svozonapi.png)
+![Ozonapi](../ozon/img/svozonapi.png)
 
 
 ## Client ID - API Key Almak İçin

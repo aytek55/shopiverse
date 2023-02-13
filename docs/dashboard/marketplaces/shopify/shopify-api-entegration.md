@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Shopify'
-sidebar_position: 7
+sidebar_label: 'API Entegrasyon'
+sidebar_position: 5
 ---
 
 # Shopify API Entegrasyonu
@@ -13,12 +13,12 @@ sidebar_position: 7
 ShopiVerse panelinden **Ayarlar > Mağazalar > Shopify >  API Tanımı** alanı altındaki “**Store Name**” alanını doldurmamız gerekiyor. 
 
 ## Ayarlar
-![ShopiVerseSetting](../../../docs/dashboard/img/shopiverseSetting.png)
+![ShopiVerseSetting](../shopify/img/shopiverseSetting.png)
 
  
 ## Mağazalar > Shopify
-![Shopif](../../../docs/dashboard/img/shopiverseSettingShopify.png)
+![Shopif](../shopify/img/shopiverseSettingShopify.png)
 
 ## Shopify > API Tanımı
-![ShopifyAPI](../../../docs/dashboard/img/shopiverseSettingShopifyApi.png)
+![ShopifyAPI](../shopify/img/shopiverseSettingShopifyApi.png)
 

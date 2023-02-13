@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Amazon'
+sidebar_label: 'API Entegrasyonu'
 sidebar_position: 1
 ---
 
@@ -9,14 +9,14 @@ sidebar_position: 1
 **Amazon** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Amazon >  API Tanımı** alanı altındaki “**Merchant Token**” alanını doldurmamız gerekiyor. 
 
 ## Ayarlar
-![Ayarlar](../../../static/img/svayarlar.png)
+![Ayarlar](../amazon/img/svayarlar.png)
 
  
 ## Mağazalar > Amazon
-![Amazon](../../../static/img/svamazon.png)
+![Amazon](../amazon/img/svamazon.png)
 
 ## Amazon > API Tanımı
-![AmazonAPI](../../../static/img/svamazonapi.png)
+![AmazonAPI](../amazon/img/svamazonapi.png)
 
 
 ## Merchant Token Almak İçin

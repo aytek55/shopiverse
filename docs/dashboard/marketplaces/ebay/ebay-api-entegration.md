@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Ebay'
-sidebar_position: 2
+sidebar_label: 'API Entegrasyonu'
+sidebar_position: 5
 ---
 
 
@@ -10,14 +10,14 @@ sidebar_position: 2
 
 
 ## Ayarlar
-![Ayarlar](../../../static/img/svayarlar.png)
+![Ayarlar](../ebay/img/svayarlar.png)
 
  
 ## Mağazalar > Ebay
-![Ebay](../../../static/img/svebay.png)
+![Ebay](../ebay/img/svebay.png)
 
 ## Ebay > API Tanımı
-![EbayAPI](../../../static/img/svebayapi.png)
+![EbayAPI](../ebay/img/svebayapi.png)
 
 
 :::caution

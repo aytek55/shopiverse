@@ -1,6 +1,5 @@
 ---
-sidebar_label: 'Fruugo'
-sidebar_position: 4
+sidebar_label: 'API Entegrasyonu'
 ---
 
 # Fruugo API Entegrasyonu
@@ -8,14 +7,14 @@ sidebar_position: 4
 **Fruugo** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Fruugo >  API Tanımı** alanı altındaki “`Kullanıcı Adı`” ve “`Şifre`” bilgilerinizi girerek sipariş entegrasyonunu sağlıyoruz.
 
 ## Ayarlar
-![Ayarlar](../../../static/img/svayarlar.png)
+![Ayarlar](../fruugo/img/svayarlar.png)
 
  
 ## Mağazalar > Fruugo
-![Fruugo](../../../static/img/svfruugo.png)
+![Fruugo](../fruugo/img/svfruugo.png)
 
 ## Fruugo > API Tanımı
-![FruugoAPI](../../../static/img/svfruugoapi.png)
+![FruugoAPI](../fruugo/img/svfruugoapi.png)
 
 
 **Ürün gönderim, stok fiyat güncellemeleri** için ise kategori eşleştirmeleri yapıldıktan sonra feed gönderimi yaparak ürünlerimizi Fruugo’ya aktarıyoruz. 

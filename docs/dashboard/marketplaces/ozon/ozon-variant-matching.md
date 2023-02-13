@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Ozon Nitelik Eşleştirme'
+sidebar_label: 'Nitelik Eşleştirme'
 sidebar_position: 2
 ---
 

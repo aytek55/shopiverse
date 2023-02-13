@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Joom Nitelik Eşleştirme'
+sidebar_label: 'Nitelik Eşleştirme'
 sidebar_position: 2
 ---
 

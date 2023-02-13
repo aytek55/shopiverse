@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Etsy Varyant Eşleştirme'
+sidebar_label: 'Varyant Eşleştirme'
 sidebar_position: 2
 ---
 
