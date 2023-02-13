@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Kategori Eşleştirme'
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 

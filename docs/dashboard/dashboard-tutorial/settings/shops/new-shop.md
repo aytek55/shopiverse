@@ -1,25 +1,25 @@
 ---
 sidebar_label: 'Yeni Mağaza Ekleme'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Yeni Mağaza Ekleme
 
 ## Ayarlar
 
-![PanelSetting](../../docs/dashboard/img/shopiverseNewShop.png)
+![PanelSetting](../img/shopiverseNewShop.png)
 
 **ShopiVerse** kullanıcı panelinde **Ayarlar > Mağazalar**  içerisinde *Ekle Butonu* ile eklemek istediğimiz mağazanın bilgilerini ekliyoruz.
 
-![PanelSettingShop](../../docs/dashboard/img/shopiverseNewShopShop.png)
+![PanelSettingShop](../img/shopiverseNewShopShop.png)
 
 ## Mağaza Ekleme
 
-![PanelSettingShopAdd](../../docs/dashboard/img/shopiverseNewShopShopAdd.png)
+![PanelSettingShopAdd](../img/shopiverseNewShopShopAdd.png)
 
 **Mağaza ekleme paneli**nde bulunan **Mağaza Durumu (Aktif / Pasif)** , **Yayınlamak istediğimiz platform adı ve Mağazamız adı** bölümlerini dolduruyoruz.
 Daha sonra **kaydet butonu** ile mağazamızı kaydediyoruz.
 
-![PanelSettingShopAddName](../../docs/dashboard/img/shopiverseNewShopShopAddName.png)
+![PanelSettingShopAddName](../img/shopiverseNewShopShopAddName.png)
 
  

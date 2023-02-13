@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'T-Soft'
-sidebar_position: 1
+
 ---
 
 # T-Soft Entegrasyon

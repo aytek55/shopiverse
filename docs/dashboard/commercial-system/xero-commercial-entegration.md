@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Xero'
-sidebar_position: 3
+
 ---
 
 # Xero Entegrasyon

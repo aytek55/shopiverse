@@ -1,6 +1,5 @@
 ---
 sidebar_label: 'DHL Express'
-sidebar_position: 1
 ---
 
 # DHL Entegrasyon

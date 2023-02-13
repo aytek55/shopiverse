@@ -1,5 +1,6 @@
 ---
 sidebar_label: 'API Entegrasyonu'
+sidebar_position: 1
 ---
 
 # Fruugo API Entegrasyonu

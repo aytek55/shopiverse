@@ -1,6 +1,5 @@
 ---
 sidebar_label: 'Paraşüt'
-sidebar_position: 2
 ---
 
 # Paraşüt Entegrasyon

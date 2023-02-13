@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Nitelik Eşleştirme'
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 
