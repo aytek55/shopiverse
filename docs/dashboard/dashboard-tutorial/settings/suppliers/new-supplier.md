@@ -18,14 +18,19 @@ Yeni bir **tedarikçi tanımı** yapmak için ***ShopiVerse Panel > Ayarlar > Te
 
 Tedarikçinin **aktif veya pasif** olma durumuna bağlı olarak durum bilgisi seçilir. 
 
-![SupplierNewAddProduct](../img/SupplierNewAddProduct.png)
-
 **Ad ve Kod** tanımlamaları yapılır, kaynağın **hangi dil**de olduğu bilgisi seçilir. 
 
-Daha sonra "**Kaydet**" butonuna basılarak **yeni tedarikçi** tanımı yapılmış olur.  
+Daha sonra "**Kaydet**" butonuna basılarak **yeni tedarikçi** tanımı yapılmış olur. 
 
-![SupplierNewAddProductPer](../img/SupplierNewAddProductPer.png)
+## Ürün Kaynak Tanım
+
+![SupplierNewAddProduct](../img/SupplierNewAddProduct.png) 
 
 :::caution
 Açılan ekranda “**Ürün Kaynak Tanım**” sekmesinde ürün kaynağı ile ilgili doldurulması gereken bilgiler vardır. Bu bilgiler ShopiVerse’e iletilir ve tanımlamaları ShopiVerse tarafından yapılır.  
 :::
+
+## Ürün Kar Marjı
+
+![SupplierNewAddProductPer](../img/SupplierNewAddProductPer.png)
+
