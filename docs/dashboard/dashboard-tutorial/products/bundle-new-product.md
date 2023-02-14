@@ -1,29 +1,17 @@
 ---
-sidebar_label: 'Standart Ürün Ekleme'
-sidebar_position: 2
+sidebar_label: 'Bundle Ürün Ekleme'
+sidebar_position: 3
 ---
 
-# Ürün Ekleme
+# Panel Üzerinden Ürün Yükleme 
 
-## Kaynak Yoluyla Ürün Yükleme 
-
-**ShopiVerse Panel > Ayarlar > [Tedarikçiler](/docs/dashboard/dashboard-tutorial/settings/suppliers/new-supplier)** ekranından tedarikçi tanımı yapılır. 
-
-Tedarikçi tanımlama tamamlandıktan sonra ürünlerin ShopiVerse'e aktarılması için iş planının çalıştırılması gereklidir. 
-
-**ShopiVerse Panel >Ayarlar > İş Planı** sayfasındaki "*Tedarikçi Ürün Aktar*" iş planı çalıştırılır.
-
-İş planı tamamlandığında ürünlerin içeri aktarımı bitmiştir. 
-
-## Panel Üzerinden Ürün Yükleme 
-
-### Standart Ürün Ekleme
+## Bundle Ürün Ekleme
 
 **ShopiVerse Panel > Ürünler > Yeni Ürün** butonuna basılarak açılan ekranda ürün bilgileri doldurularak kaydedilir. 
 
-![MyProductsAdd](../products/img/MyProductsAdd.png)
+**Standart** veya **Bundle** ürün eklenebilir. Bundle Ürün tanımı yapmak için, Ürün Türü “**Bundle**” olarak seçilir. 
 
-**Standart** veya **Bundle** ürün eklenebilir. Standart Ürün tanımı yapmak için, Ürün Türü “**Standart**” olarak seçilir. 
+![MyProductsAddBundle](../products/img/MyProductsAddBundle.png)
 
 Ürün bilgileri doldurulur. **Tedarikçi Adı, Ana Ürün Kodu, Stok Kodu, Barkod, Marka ve Kategori alanları** zorunlu alanlardır ve kesinlikle doldurulması gereklidir. 
 
@@ -58,4 +46,22 @@ Tedarikçi tanımlama tamamlandıktan sonra ürünlerin ShopiVerse'e aktarılmas
 - Resme ait video varsa video yolu olarak tanımlanabilir. 
 
 - “**Kaydet**” butonuna basılarak ürün kaydedilir. 
+
+![MyProductsAddBundleAdd](../products/img/MyProductsAddBundleAdd.png)
+
+**Bundle** içerisine ürün eklemek için “***Bundle***” sekmesi açılır. 
+
+:::caution
+“**Ürün Ekle**” butonuna basılarak açılan ekranda bundle içine eklenebilir durumda olan ürünler listelenir. Bu ürünler standart ürünlerdir. Bundle içerisine başka bir bundle ürün eklenemez. 
+:::
+
+![MyProductsAddBundleAddChoose](../products/img//MyProductsAddBundleAddChoose.png)
+
+Bundle içine eklenmek istenilen ürünler seçilir, her alt ürün için bundle içine eklenmek istenilen adet sayısı Adet alanına tanımlanır. 
+
+“**Seçili Olanları Ekle**” butonuna basılarak ürünler eklenir. 
+
+**Bundle içinden çıkarılmak** istenen ürünler **Sil** butonuna basılarak silinebilir. 
+
+Bundle içine eklenen ürünler seçildikten sonra “**Kaydet**” butonuna basılarak bundle ürün tanımlaması tamamlanır. 
 
