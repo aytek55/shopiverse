@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Fulfillment Merkezleri
 
-**Ana Sayfa > Fulfillment > Fulfillment Merkezleri** sayfasında ShopiVerse'ın anlaşmalı olduğu tüm fulfillmentlar listelenmektedir. Bu fulfillmentlar arasından çalışmak istenilen fulfillment seçimi yapılabilir. 
+**ShopiVerse Panel > Fulfillment > Fulfillment Merkezleri** sayfasında ShopiVerse'ın anlaşmalı olduğu tüm fulfillmentlar listelenmektedir. Bu fulfillmentlar arasından çalışmak istenilen fulfillment seçimi yapılabilir. 
 
 ![FulfillmentCenters](../fulfillment/img/Fullfilmentcenters.png)
 
@@ -17,7 +17,7 @@ sidebar_position: 1
 
 ## Aktif Fulfillment
 
-Tanımlama işlemi tamamlanan ve aktif olarak kullanılan fulfillmentlar **Ana Sayfa > Fulfillment > Aktif Fulfillment** listelenmektedir.
+Tanımlama işlemi tamamlanan ve aktif olarak kullanılan fulfillmentlar **ShopiVerse Panel > Fulfillment > Aktif Fulfillment** listelenmektedir.
 
 ![FulfillmentCentersActive](../fulfillment/img/FullfilmentActive.png)
 
