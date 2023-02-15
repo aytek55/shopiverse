@@ -34,3 +34,6 @@ Açılan ekranda “**Ürün Kaynak Tanım**” sekmesinde ürün kaynağı ile 
 
 ![SupplierNewAddProductPer](../img/SupplierNewAddProductPer.png)
 
+**Tedarikçi Ürün Kar Marjı**  ekranında Ürünlere Platformlar üzerinden ne kadar ve nasıl Kar verileceğine dair bilgilerin bulunduğu panel.
+*Hesaplama İşlemini* **Kar/İskonto** , *Hesaplama Şeklini* **Yüzde/Sabit** , ***Kriter Tipi***'ni seçerek **Aratabilirsiniz**.
+

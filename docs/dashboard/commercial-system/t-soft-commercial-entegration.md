@@ -21,6 +21,10 @@ Kullanıcı Adı ve Şifre bilgileri **T-Soft paneline giriş** yapılırken kul
 
 ![T-SoftSetEdit](../commercial-system/img/T-SoftSetEdit.png)
 
+:::caution
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+:::
+
 ## Ticari Sistem Tanımı
 
 ![T-SoftSetEditUserName](../commercial-system/img/T-SoftSetEditUserName.png)

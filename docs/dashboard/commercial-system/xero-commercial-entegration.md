@@ -33,6 +33,10 @@ Buradan kopyalanan **Client Id ve Client Secret** bilgileri, **ShopiVerse > Ayar
 
 ![XeroEdit](../commercial-system/img/Xeroedit.png)
 
+:::caution
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+:::
+
 ![XeroEditParameter](../commercial-system/img/XeroeditParamaeter.png)
 
 Daha sonra tekrar Xero paneline giriş yapılır. **Accounting** butonu üzerinden hesap detaylarına gidilir.

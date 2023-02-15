@@ -14,6 +14,10 @@ Firma bilgileri ekranındayken **url** adresinde görüntülenen numara şirket 
 
 ![ParaşütSet](../commercial-system/img/Para%C5%9F%C3%BCtset.png)
 
+:::caution
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+:::
+
 ![ParaşütSetEdit](../commercial-system/img/Para%C5%9F%C3%BCtsetEdit.png)
 
 
