@@ -7,7 +7,7 @@ sidebar_position: 7
 
 **İş planları**, ShopiVerse paneli ve platformlar arasındaki veri akışını sağlamak için tetiklenmesi gereken *görevlerdir*. 
 
-![BusinessPlan](../settings/img/BusinessPlan.png)
+![BusinessPlan](../img/BusinessPlan.png)
 
 İş planlarını görüntülemek **ShopiVerse Panel > Ayarlar > İş Planı** ekranına gidilir. 
 
@@ -15,7 +15,7 @@ Tüm **iş planları detayları**yla birlikte burada görünmektedir. Her platfo
 
 (İş planları, **ShopiVerse Panel > Ayarlar > Mağazalar > İş Planı Ayarları** ekranından **Aktif-Pasif** ve **Otomatik-Manuel** olarak ayarlanmaktadır.) 
 
-![BusinessPlanRun](../settings/img/BusinessPlanRun.png)
+![BusinessPlanRun](../img/BusinessPlanRun.png)
 
 İş planını çalıştırmak için "**Çalıştır**" butonuna basılır. 
 
