@@ -7,11 +7,11 @@ sidebar_position: 3
 
 ## Api Key
 
-**Api Key** bilgisi Logsta tarafından alınır. (Kullanıcı oluşturulduğunda Logsta ekibi tarafından bu bilgi verilir.)
+***Api Key*** bilgisi Logsta tarafından alınır. (Kullanıcı oluşturulduğunda Logsta ekibi tarafından bu bilgi verilir.)
 
 ## Parametre
 
-**Kullanıcı Adı, Şifre ve Api Key** bilgileri, **Shopiverse > Ayarlar > Fulfillment**  *Parametre* sekmesine kaydedilir. 
+***Kullanıcı Adı, Şifre ve Api Key*** bilgileri, **Shopiverse > Ayarlar > Fulfillment**  *Parametre* sekmesine kaydedilir. 
 
 :::caution
 **Kullanıcı Adı ve Şifre bilgi**leri **Logsta paneline giriş** yapılırken kullanılan bilgilerdir.

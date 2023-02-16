@@ -17,8 +17,7 @@ ShipEntegra’dan alınan **Api Key** bilgisi tanımlanır.
 Fatura için gerekli olan diğer bilgiler doldurulur ve kaydedilir. 
 
 :::caution
-ShipEntegra panelinizden **telefon ve kimlik bilgilerinizi doğrulama** yaptığınızdan emin olun.
+ShipEntegra panelinizden **Telefon ve Kimlik bilgilerinizi doğrulama** yaptığınızdan emin olun.
 **Api key** bilgisini **ShipEntegra destek birimini** arayarak temin edebilirsiniz.
 :::
 
- 

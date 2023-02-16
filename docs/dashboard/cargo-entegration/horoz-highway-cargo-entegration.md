@@ -24,6 +24,6 @@ sidebar_label: 'Horoz Lojistik-Karayolları'
 **Process Key** ile birlikte diğer bilgilerin de doldurularak kaydedilmesi yeterlidir. 
 
 :::caution
-**Sipariş bildirimi** için gerekli olan diğer tüm parametrelerin de tanımlanması zorunludur (**alım tipi, çıkış yeri vs**). 
+**Sipariş Bildirimi** için gerekli olan diğer tüm parametrelerin de tanımlanması zorunludur (**Alım Tipi, Çıkış Yeri vs**). 
 :::
  
