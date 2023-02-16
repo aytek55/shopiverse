@@ -18,6 +18,10 @@ Bu bilgiler ve gönderici ile ilgili diğer özel bilgiler ( ad, soyad vs.) **Sh
 
 ![DHLEDit](../cargo-entegration/img/DHLEdit.png)
 
+:::caution
+Listede kargo firmanız bulunmuyorsa [Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)'ndan tanımlayabilirsiniz.
+:::
+
 ![DHLEdit Parameter](../cargo-entegration/img/DHLEditParameter.png)
 
 Aşağıdaki panelde kullanıcı bilgilerini ve Sistemden aldığınız **Kullanıcı Adı , Şifre , Dhl Hesap Numarası** doldurup **Kaydet Butonu**na tıklıyoruz.

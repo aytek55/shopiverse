@@ -12,6 +12,10 @@ sidebar_label: 'Horoz Lojistik-Karayolları'
 
 ![CargoFirmaEdit](../cargo-entegration/img/CargoFirmaEdit.png)
 
+:::caution
+Listede kargo firmanız bulunmuyorsa [Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)'ndan tanımlayabilirsiniz.
+:::
+
 ## Api Tanımı > Düzenle
 
 ![CargoFirmaEditApi](../cargo-entegration/img/CargoFirmaEditApi.png)
@@ -25,5 +29,7 @@ sidebar_label: 'Horoz Lojistik-Karayolları'
 
 :::caution
 **Sipariş Bildirimi** için gerekli olan diğer tüm parametrelerin de tanımlanması zorunludur (**Alım Tipi, Çıkış Yeri vs**). 
+**Alım Tipi** bilgisi '**Adresten Alınacak**' olarak seçildiği durumda **Çıkış Yeri** bilgisine '**Satıcı Çıkış Noktası Adı**' girilmelidir.
+**Alım Tipi** bilgisi '**Kendisi Getirecek**' olarak seçildiği durumda **Çıkış Yeri** bilgisine '**Depo Adı**' girilmelidir.
 :::
  
