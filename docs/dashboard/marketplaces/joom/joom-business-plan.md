@@ -8,7 +8,7 @@ sidebar_position: 5
 
 ## Joom > İş Planı
 
-*Joom* için **kategori eşleştirme, nitelik eşleştirme, ürün içeriği ve fiyat düzenlemeleri** yapıldıktan sonra **Ayarlar > Mağazalar > Joom > İş Planı** sayfasında ilgili iş planlarını *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir. 
+*Joom* için **kategori eşleştirme, nitelik eşleştirme, ürün içeriği ve fiyat düzenlemeleri** yapıldıktan sonra **Ayarlar > Mağazalar > Joom > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir. 
 
 ![JoomBusinessPlan](../joom/img/JoomBusinessPlan.png)
 

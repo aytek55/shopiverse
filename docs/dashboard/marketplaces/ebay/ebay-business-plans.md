@@ -6,7 +6,7 @@ sidebar_position: 5
 
 # Ebay İş Planları 
 
-Ebay için *kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Ebay > İş Planı** sayfasında ilgili iş planlarını *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+Ebay için *kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Ebay > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
 
 ![EbaySettingsBusiessPlanOto](../ebay/img/EbaySettingsBusinessPlanOto.png)
 

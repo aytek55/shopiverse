@@ -7,7 +7,7 @@ sidebar_position: 5
 
 ## Ozon > İş Planı
 
-*Ozon* için **kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri** yapıldıktan sonra **Ayarlar > Mağazalar > Ozon > İş Planı** sayfasında ilgili iş planlarını *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+*Ozon* için **kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri** yapıldıktan sonra **Ayarlar > Mağazalar > Ozon > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
 
 ![OzonBusinessPlan](../ozon/img/OzonBusinessPlan.png)
 

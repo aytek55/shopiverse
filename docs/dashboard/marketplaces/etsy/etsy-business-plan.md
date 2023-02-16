@@ -8,7 +8,7 @@ sidebar_position: 5
 
 ## Ayarlar > Mağazalar 
 
-*Etsy* için *kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Etsy > İş Planı** sayfasında ilgili iş planlarını *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir. 
+*Etsy* için *kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Etsy > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir. 
 
 ![EtsyBusinessPlan](../etsy/img/EtsyBusinessPlanOto.png)
 

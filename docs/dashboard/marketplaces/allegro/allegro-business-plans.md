@@ -6,7 +6,7 @@ sidebar_position: 5
 
 # Allegro İş Planları 
 
-Allegro için *kategori eşleştirme*, *varyant eşleştirme*, *ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Allegro > İş Planı** sayfasında ilgili iş planlarını *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+Allegro için *kategori eşleştirme*, *varyant eşleştirme*, *ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Allegro > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
 
 ## Allegro > İş Planı
 ![AllegroBusinessPlan](../allegro/img/allegrosettingbusinesplan.png)
