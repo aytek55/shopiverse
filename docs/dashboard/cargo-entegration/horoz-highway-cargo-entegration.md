@@ -13,7 +13,7 @@ sidebar_label: 'Horoz Lojistik-Karayolları'
 ![CargoFirmaEdit](../cargo-entegration/img/CargoFirmaEdit.png)
 
 :::caution
-Listede kargo firmanız bulunmuyorsa [Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)'ndan tanımlayabilirsiniz.
+Listede kargo firmanız bulunmuyorsa **[Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)**'ndan tanımlayabilirsiniz.
 :::
 
 ## Api Tanımı > Düzenle

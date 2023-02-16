@@ -9,7 +9,7 @@ sidebar_label: 'ShipEntegra'
 ![ShipEntegraEdit](../cargo-entegration/img/ShipEntegraEdit.png)
 
 :::caution
-Listede kargo firmanız bulunmuyorsa [Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)'ndan tanımlayabilirsiniz.
+Listede kargo firmanız bulunmuyorsa **[Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)**'ndan tanımlayabilirsiniz.
 :::
 
 ![CargoApi](../cargo-entegration/img/CargoApiAdd.png)
