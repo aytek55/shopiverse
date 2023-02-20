@@ -17,20 +17,20 @@ Burada müşterilerin **kendine özel kur tanımlama** özelliği vardır.
 
 ![ExchangeAddNew](../settings/img/ExchangeAddNew.png)
 
-- Durumu aktif veya pasif olarak seçilir. 
+- **Durumu** aktif veya pasif olarak seçilir. 
 
-- Döviz Kodu, dönüştürülen döviz biriminin kodu seçilir. 
+- **Döviz Kodu**, dönüştürülen döviz biriminin kodu seçilir. 
 
-   - Döviz Kodu, dönüştürülen para biriminin kodu olarak tanımlanır. 
+   - **Döviz Kodu**, dönüştürülen para biriminin kodu olarak tanımlanır. 
 
-- Döviz Para Birimi, dönüştürülmek istenen para birimi seçilir. 
+- **Döviz Para Birim**i, dönüştürülmek istenen para birimi seçilir. 
 
-- Döviz Para Birimi, dönüştürülmek istenen para birimi olarak tanımlanır. 
+- **Döviz Para Birim**i, dönüştürülmek istenen para birimi olarak tanımlanır. 
 
-- Döviz Alış alanına istenen alış fiyatı tanımlanır. 
+- **Döviz Alış** alanına istenen alış fiyatı tanımlanır. 
 
-- Döviz Satış alanına istenen satış fiyatı tanımlanır ve kaydedilir. 
+- **Döviz Satış** alanına istenen satış fiyatı tanımlanır ve kaydedilir. 
 
-- Manuel kur tanımlama işlemi tamamlanmıştır. 
+- **Manuel kur tanımlama** işlemi tamamlanmıştır. 
 
 
