@@ -8,13 +8,16 @@ sidebar_position: 1
 
 # Wayfair API Entegrasyonu
 
-https://partners.wayfair.com/developer/applicatons adresine gidilir , "**New application**" basılır. Açılan alanda istenilen bilgiler doldurulur. **Name** alanına “**ShopiVerse**” yazılır. **Description** alanına kısa bir açıklama yazılır. **Sendbox** aktif olarak seçilir. Alanlar doldurulup onaylandıktan sonra ekranda **Client Id ve Client Secret** bilgileri görünür. **Client Id ve Client Secret** bilgileri, **ShopiVerse mağaza ayarlarında Api Tanım** sekmesine kaydedilir.
+**Wayfair** panelinde ***Developer > Applications*** sayfasına gidilir.
+**New Application** üzerinden *Name ve Description* alanları doldurulur. Bu alanlara ***ShopiVerse*** bilgisi girilir.
 
-![ShopiVerseSetting](../wayfair/img/Wayfair.png)
+![WayfairCreateApplication](../wayfair/img/WayfairCreate.png)
 
-## Wayfair
+Burada 2 kayıt oluşturup bir tanesini **sandbox** diğerini **production** olarak oluşturulması gerekiyor.
 
-![ShopiVerseSettingShop](../wayfair/img/Wayfairshop.png)
+![ShopiVerseSetting](../wayfair/img/WayfairManagement.png)
+
+Oluşturulduktan sonra **Edit** alanı üzerinden giriş sağlanarak **Client ID ve Rotate Secret** butonuna bastıktan sonraki **key** bilgilerini kopyalarak *ShopiVerse* üzerinde ***Wayfair mağazası > Api Tanım*** alanı altında ilgili yerlere kaydetmeniz gerekmektedir.
 
 ## Client ID - Client Secret
 
