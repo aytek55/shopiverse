@@ -1,0 +1,8 @@
+{
+    "label": "Mağazalar",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Mağazalar API servislerinde yapmak istediğiniz işlemi seçiniz."
+    }
+  }

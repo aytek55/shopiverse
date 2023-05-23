@@ -1,0 +1,8 @@
+{
+    "label": "Yetkilendirme",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Yetkilendirme API servislerinde yapmak istediğiniz işlemi seçiniz."
+    }
+  }

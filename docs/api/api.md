@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'API'
+sidebar_label: 'API Giriş'
 sidebar_position: 1
 ---
 
