@@ -10,7 +10,7 @@ sidebar_label: 'Token Alma'
 **Api-Key (Required) , User-Name(Required) , Password(Required)** parametre bilgilerinize Shopiverse panelde bulunan **Ana Sayfa > Ayarlar > Api Key** bölümünden ulaşabilirsiniz.
 
 :::caution
-ShopiVerse Api üzerinden gerekli isteği oluşturarak **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** metodunu deneyebilirsiniz.
+ShopiVerse Api üzerinden gerekli isteği oluşturarak Token alabileceğiniz **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** metodunu deneyebilirsiniz.
 :::
 
 ### Responses
