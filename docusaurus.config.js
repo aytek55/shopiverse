@@ -64,12 +64,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/shopiverse-logo-h100-1.png',
       navbar: {
-        title: '',
+        title: '      ',
         logo: {
           alt: '',
-          src: 'img/shopiverse-logo-h100-1.png',
+          src: 'img/shopiverse-logo-h100-1.png',        
         },
-        items: [
+        items: [         
           {
             type: 'doc',
             docId: 'api/api',
@@ -87,6 +87,10 @@ const config = {
             position: 'right',
           },
           {to: 'https://shopiverse.com/blog/', label: 'Blog', position: 'left'},
+          {
+            type: 'search',
+            position: 'left',            
+          },
         ],
       },
       footer: {

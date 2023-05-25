@@ -7,9 +7,11 @@ sidebar_label: 'Token Alma'
 ### Request
 ![AutRequest](../auth/img/Auth.png)
 
-**Api-Key (Required) , User-Name(Required) , Password(Required)** parametre bilgilerinize Shopiverse panelde bulunan **Ana Sayfa > Ayarlar > Api Key** bölümünden ulaşabilirsiniz.
+**Api-Key (Required)** parametre bilgilerinize Shopiverse panelde bulunan **Ana Sayfa > Ayarlar > Api Tanımları** bölümünden ulaşabilirsiniz.
 
-:::caution
+![ApiKey](../auth/img/ApiKey.png)
+
+:::note
 ShopiVerse Api üzerinden gerekli isteği oluşturarak Token alabileceğiniz **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** metodunu deneyebilirsiniz.
 :::
 
@@ -21,7 +23,7 @@ ShopiVerse Api üzerinden gerekli isteği oluşturarak Token alabileceğiniz **[
   "data": {
     "token": "string",
     "tokenType": "string",
-    "expiration": "2023-05-23T12:54:29.714Z"
+    "expiration": "2023-05-24T14:15:06.683Z"
   },
   "success": true,
   "message": "string"

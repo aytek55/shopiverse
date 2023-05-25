@@ -22,7 +22,7 @@ sidebar_label: 'Sipariş Getirme'
 }
 ```
 
-:::caution
+:::note
 Shopiverse üzerinde bulunan siparişlerinizi çekmek için ShopiVerse Api üzerinden gerekli bilgileri yukarıdaki gibi girip isteği oluşturarak **[Order Api GetOrders](https://api.shopiverse.com/swagger/index.html "Order Api GetOrders")** metodunu deneyebilirsiniz.
 :::
 

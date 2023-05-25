@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #ee7b47;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0);
 }
+
+.navbar__logo img {
+  height: 150%;
+  margin-top: -10px;
+  margin-left: 5px;
+}
+
+.navbar__search-input {
+  width: 500px;
+}

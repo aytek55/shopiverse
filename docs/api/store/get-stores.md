@@ -16,7 +16,7 @@ sidebar_label: 'Mağazaları Getirme'
 }
 ```
 
-:::caution
+:::note
 Shopiverse üzerinde bulunan mağazalarınızı çekmek için ShopiVerse Api üzerinden gerekli bilgileri yukarıdaki gibi girip gerekli isteği oluşturarak **[Store Api GetStores](https://api.shopiverse.com/swagger/index.html "Store Api GetStores")** metodunu deneyebilirsiniz.
 :::
 
