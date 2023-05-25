@@ -30,9 +30,8 @@
 }
 
 .navbar__logo img {
-  height: 150%;
+  height: 175%;
   margin-top: -10px;
-  margin-left: 5px;
 }
 
 .navbar__search-input {

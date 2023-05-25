@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ShopiVerse',
-  tagline: 'Universe of E-Commerce',
+  tagline: 'Universe Of Ecommerce',
   favicon: 'img/shopiverseicon.jpg',
 
   // Set the production url of your site here
