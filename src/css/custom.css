@@ -30,19 +30,46 @@
 }
 
 .navbar__logo img {
-  height: 350%;
-  margin-top: -40px;
-  margin-left: -10px;
+  height: 200%;
+  width: 100%;
+  margin-top: -20px;
+  margin-left: 15px;
+}
+
+.navbar__brand {
+  margin-left: -20px;
 }
 
 .navbar__search-input {
   width: 600px;
-  margin-right: 0px;
-  margin-left: 230px;
+  margin-left: 50px;
+  justify-content: auto;;
 }
-.navbar {
-  display: flex;
-  justify-content: center;
+
+
+.navbar__item.dropdown.dropdown {
+  /* Add your custom styles here */
+  background-color: rgb(247, 120, 23);
+  color: #ee7b47;
+  margin-left: 20px;
+  margin-right: 10px;
+  border-radius: 30px; /* Adjust the value as needed */
+  /* Add more styles as needed */
 }
+
+.navbar__item.navbar__link {
+  /* Add your custom styles here */
+  font-size: 16px;
+  margin-left: -5px;
+  /* Add more styles as needed */
+}
+
+
+
+
+
+
+
+
 
 

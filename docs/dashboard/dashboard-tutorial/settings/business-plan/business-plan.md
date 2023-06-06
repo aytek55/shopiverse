@@ -1,6 +1,5 @@
 ---
 sidebar_label: 'İş Planı'
-sidebar_position: 7
 ---
 
 # İş Planı

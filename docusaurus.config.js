@@ -62,9 +62,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/shopiverse-logo-h100-1.png',
+      
       navbar: {
-        title: '      ',
+        title: '  ',
         logo: {
           alt: '',
           src: 'img/shopiverse-logo-h100-1.png',        
@@ -81,16 +81,16 @@ const config = {
             docId: 'dashboard/dashboard',
             position: 'left',
             label: 'Panel',
-          },
+          },          
+          {to: 'https://shopiverse.com/blog/', label: 'Blog', position: 'left'},
           {
             type: 'localeDropdown',
-            position: 'right',
+            position: 'left',
           },
-          {to: 'https://shopiverse.com/blog/', label: 'Blog', position: 'left'},
           {
             type: 'search',
             position: 'left',            
-          },
+          },          
         ],
       },
       footer: {
