@@ -1,1 +1,0 @@
-(self.webpackChunkshopiverse=self.webpackChunkshopiverse||[]).push([[5525],{5525:()=>{}}]);
