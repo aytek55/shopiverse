@@ -85,7 +85,7 @@ const config = {
           {to: 'https://shopiverse.com/blog/', label: 'Blog', position: 'left'},
           {
             type: 'localeDropdown',
-            position: 'left',
+            position: 'right',
           },
           {
             type: 'search',

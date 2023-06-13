@@ -42,15 +42,14 @@
 
 .navbar__search-input {
   width: 600px;
-  margin-left: 50px;
+  margin-left: 120px;
   justify-content: auto;;
 }
 
 
 .navbar__item.dropdown.dropdown {
   /* Add your custom styles here */
-  background-color: rgb(247, 120, 23);
-  color: #ee7b47;
+  background-color: rgb(255, 255, 255);
   margin-left: 20px;
   margin-right: 10px;
   border-radius: 30px; /* Adjust the value as needed */
