@@ -23,4 +23,4 @@ Shopiverse içerisinde bulunan **Token Alma , Mağazaları Çekme , Siparişleri
 
 Client API dökümantasyon sayfamız, kullanıcıların API'mizi etkin bir şekilde kullanabilmelerini sağlamak için sürekli olarak güncellenmektedir. Bu sayede, API'nin yeni sürümleri ve ek özellikleri hakkında en güncel bilgilere erişebilirsiniz.
 
-![API](../../static/img/api11.png)
+![API](../../static/img/APIT1.svg)
