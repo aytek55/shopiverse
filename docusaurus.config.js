@@ -111,26 +111,28 @@ const config = {
           },
           {
             title: 'Sosyal Medya',
-            items: [              
+            items: [ 
               {
-                html: `
-                <a href="https://www.facebook.com/shopiverseuk" target="_blank" rel="noreferrer noopener" aria-label="Superapp Of Ecommerce">
-                <img src="img/icons8-facebook.svg" alt="ShopiVerse" width="40" height="40" />
-                </a>  
-                <a href="https://twitter.com/shopiverseuk" target="_blank" rel="noreferrer noopener" aria-label="Superapp Of Ecommerce">
-                <img src="img/icons8-twitter.svg" alt="ShopiVerse" width="40" height="40" />
-                </a>  
-                <a href="https://www.instagram.com/shopiverseuk/" target="_blank" rel="noreferrer noopener" aria-label="Superapp Of Ecommerce">
-                <img src="img/Instagram-Logo.wine.svg" alt="ShopiVerse" width="40" height="40" />
-                </a> 
-                <a href="https://www.linkedin.com/company/shopiverseuk/" target="_blank" rel="noreferrer noopener" aria-label="Superapp Of Ecommerce">
-                <img src="img/linkedin-svgrepo-com.svg" alt="ShopiVerse" width="40" height="40" />
-                </a>  
-                <a href="https://www.youtube.com/channel/UCKFIU7X1jlqGu3REDtxbWqQ" target="_blank" rel="noreferrer noopener" aria-label="Superapp Of Ecommerce">
-                <img src="img/youtube-svgrepo-com.svg" alt="ShopiVerse" width="40" height="40" />
-                </a>        
-                  `,
+                label: 'Twitter',
+                to: 'https://twitter.com/shopiverseuk',
               },
+              {
+                label: 'Instagram',
+                to: 'https://www.instagram.com/shopiverseuk/',
+              },             
+              {
+                label: 'Facebook',
+                to: 'https://www.facebook.com/shopiverseuk',                      
+              },              
+              {
+                label: 'Linkedın',
+                to: 'https://www.linkedin.com/company/shopiverseuk/',
+              },
+              {
+                label: 'YouTube',
+                to: 'https://www.youtube.com/channel/UCKFIU7X1jlqGu3REDtxbWqQ',
+              },
+
             ],
           },
           {
