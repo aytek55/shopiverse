@@ -21,7 +21,7 @@ sidebar_position: 1
 
 ## Entegrasyon İçn Gerekli Bilgiler
  
-Bunun için https://merchant.joom.com/panel/stores adresi altında “**Yeni Mağaza Aç**” ile mağaza oluşturup daha sonra oluşturduğumuz mağaza adına tıklayarak mağaza detay sayfasına gidiyoruz, buradaki “**Genel Bilgi**” alanındaki “**Kimlik Bilgileri**” altında yazan **kodu** kopyalıyoruz. 
+Bunun için https://merchant.joom.com/panel/stores adresi altında “**Yeni Mağaza Aç**” ile mağaza oluşturup daha sonra oluşturduğumuz mağaza adına tıklayarak mağaza detay sayfasına gidiyoruz, buradaki “**Genel Bilgi**” alanındaki “**Kimlik No**” altında yazan **kodu** kopyalıyoruz ve *Shopiverse Mağaza Apı Tanımında* **StoreId** bölümüne yapıştırıyoruz.
 
 Daha sonra Joom panelinde sağ üst tarafta bulunan hesap bilgileriniz alanında “**API Uygulamaları**” sayfasına gidiyoruz. Burada “**Yeni Uygulama Oluştur**” butonuna tıklıyoruz. Burada Unvan kısmına “**ShopiVerse**” Mağaza kısmında oluşturduğunuz mağazayı seçiyoruz. “**Yeniden Yönlendirme URL’si**” alanına ise “`https://app.shopiverse.tech/tr/settings/store/joomcallbackcode`” yazıyoruz ve kaydet diyoruz. 
 
