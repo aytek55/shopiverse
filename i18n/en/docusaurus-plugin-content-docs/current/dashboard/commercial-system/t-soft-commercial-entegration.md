@@ -16,7 +16,7 @@ sidebar_label: 'T-Soft'
 ![T-SoftSetEdit](../commercial-system/T-SoftSetEdit.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](../dashboar-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
 :::
 
 ## Ticari Sistem Tanımı

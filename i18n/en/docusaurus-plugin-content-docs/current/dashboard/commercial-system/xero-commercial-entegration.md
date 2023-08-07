@@ -34,7 +34,7 @@ Buradan kopyalanan **Client Id ve Client Secret** bilgileri, **ShopiVerse > Ayar
 ![XeroEdit](../commercial-system/Xeroedit.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](../dashboar-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
 :::
 
 ![XeroEditParameter](../commercial-system/XeroeditParamaeter.png)

@@ -9,7 +9,7 @@ sidebar_label: 'LogoGo3'
 ![LogoGo3](../commercial-system/T-SoftSet.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](../dashboar-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
 :::
 
 ![LogoGo3Edit](../commercial-system/NebimW3Edit.png)

@@ -15,7 +15,7 @@ Firma bilgileri ekranındayken **url** adresinde görüntülenen numara şirket 
 ![ParachuteSet](../commercial-system/parachuteSet.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](../dashboar-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
 :::
 
 ![ParachuteSetEdit](../commercial-system/parachuteEdit.png)

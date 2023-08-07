@@ -9,7 +9,7 @@ sidebar_label: 'NebimV3'
 **ShopiVerse Panel > Ayarlar > Ticari Sistemler** Ekranına giderek kayıtlı Ticari Sistemleri listeleyebilirsiniz. 
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](../dashboar-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
 :::
 
 ![NebimW3Edit](../commercial-system/NebimW3Edit.png)
