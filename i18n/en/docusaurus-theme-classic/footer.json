@@ -1,0 +1,50 @@
+{
+  "link.title.Doküman": {
+    "message": "Document",
+    "description": "The title of the footer links column with title=Doküman in the footer"
+  },
+  "link.title.Sosyal Medya": {
+    "message": "Social Media",
+    "description": "The title of the footer links column with title=Sosyal Medya in the footer"
+  },
+  "link.title.Daha...": {
+    "message": "More...",
+    "description": "The title of the footer links column with title=Daha... in the footer"
+  },
+  "link.item.label.API": {
+    "message": "API",
+    "description": "The label of footer link with label=API linking to docs/api"
+  },
+  "link.item.label.Panel": {
+    "message": "Panel",
+    "description": "The label of footer link with label=Panel linking to docs/dashboard"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/shopiverseuk"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/shopiverseuk/"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/shopiverseuk"
+  },
+  "link.item.label.Linkedın": {
+    "message": "Linkedın",
+    "description": "The label of footer link with label=Linkedın linking to https://www.linkedin.com/company/shopiverseuk/"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/channel/UCKFIU7X1jlqGu3REDtxbWqQ"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://shopiverse.com/blog/"
+  },
+  "copyright": {
+    "message": " © Copyright 2023 ShopiVerse, All Rights Reserved.\n        ShopiVerse is a WORLDEF and ShipEntegra joint venture.",
+    "description": "The footer copyright"
+  }
+}
