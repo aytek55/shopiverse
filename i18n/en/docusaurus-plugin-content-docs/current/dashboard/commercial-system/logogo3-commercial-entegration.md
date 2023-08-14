@@ -2,18 +2,18 @@
 sidebar_label: 'LogoGo3'
 ---
 
-# LogoGo3 Entegrasyon
+# LogoGo3 Integration
 
-**ShopiVerse Panel > Ayarlar > Ticari Sistemler** Ekranına giderek kayıtlı Ticari Sistemleri listeleyebilirsiniz. 
+You can list the registered Commercial Systems by going to the **ShopiVerse Panel > Settings > Commercial Systems** Screen.
 
 ![LogoGo3](../commercial-system/T-SoftSet.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
+If your **Commercial System** is not listed, you can define a new Commercial System from **[Commercial System Definitions](/shopiverse/en/docs/category/ticari-sistem-tanımları)**.
 :::
 
 ![LogoGo3Edit](../commercial-system/NebimW3Edit.png)
 
-**Düzenle** butonu ile **Ticari Sistem Parametre Tanım** sekmesinde gerekli bilgileri ***LogoGo3*** uygulamasından alıp doldurarak kaydedebilirsiniz.
+With the **Edit** button, you can fill in the required information from the ***LogoGo3*** application and save it in the **Commercial System Parameter Definition** tab.
 
 ![LogoGo3Parameters](../commercial-system/LogoGo3Parameters.png)

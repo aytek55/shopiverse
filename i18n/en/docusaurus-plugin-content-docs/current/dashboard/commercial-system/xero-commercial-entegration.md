@@ -3,48 +3,48 @@ sidebar_label: 'Xero'
 
 ---
 
-# Xero Entegrasyon
+# Xero Integration
 
 ## Client ID - Client Secret
 
-https://developer.xero.com/documentation/getting-started-guide/  (bu link üzerinde entegrasyon adımları ile ilgili detaylı bilgi mevcut.)
+https://developer.xero.com/documentation/getting-started-guide/ (There is detailed information about the integration steps on this link.)
 
 ![XeroGet](../commercial-system/XeroGet.png)
 
-**Add your application** linkine tıklanarak açılan ekrandan Client Id ve Client Secret bilgileri talep edilir.
+Client Id and Client Secret information are requested from the screen opened by clicking the **Add your application** link.
 
 ![XeroGetCreate](../commercial-system/XeroGetcreate.png)
 
-Form doldurularak **Create App** butonuna basılır. 
+Fill the form and click the **Create App** button.
 
 **App Name** : *ShopiVerse* , **Company Url** : *https://app.shopiverse.tech*  ,  **Redirect Url**: *https://app.shopiverse.tech/tr/settings/commercialsystem/xeroaccept* 
 
-Kayıt işleminden sonra böyle bir ekran görüntülenir.
+Such a screen is displayed after registration.
 
 ![XeroGenerate](../commercial-system/XeroGenerate.png)
 
-**Generate a Secret** butonuna basılarak detay bilgi görüntülenir.
+Detail information is displayed by pressing the **Generate a Secret** button.
 
 ![XeroClient](../commercial-system/Xeroclient.png)
 
-## Ticari Sistem Tanımları
+## Commercial System Definitions
 
-Buradan kopyalanan **Client Id ve Client Secret** bilgileri, **ShopiVerse > Ayarlar > Ticari Sistem Ayarlar > Parametre Tanım** sekmesine kaydedilir.
+**Client Id and Client Secret** information copied from here is saved in **ShopiVerse > Settings > Commercial System Settings > Parameter Definition** tab.
 
 ![XeroEdit](../commercial-system/Xeroedit.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
+If your **Commercial System** is not listed, you can define a new Commercial System from **[Commercial System Definitions](/shopiverse/en/docs/category/ticari-sistem-tanımları)**.
 :::
 
 ![XeroEditParameter](../commercial-system/XeroeditParamaeter.png)
 
-Daha sonra tekrar Xero paneline giriş yapılır. **Accounting** butonu üzerinden hesap detaylarına gidilir.
+Then log in to the Xero panel again. You can access the account details via the **Accounting** button.
 
-Hesap detaylarında bulunan **Account Number** alanındaki değer kopyalanarak yine **ShopiVerse parametrelerine** kaydedilir.
+The value in the **Account Number** field in the account details is copied and saved in the **ShopiVerse parameters**.
 
 :::caution
-Xero panelindeki **Account Number** bilgisi boş ise doldurularak kayıt edilmelidir.
+If the **Account Number** information on the Xero panel is empty, it should be filled and registered.
 :::
 
 

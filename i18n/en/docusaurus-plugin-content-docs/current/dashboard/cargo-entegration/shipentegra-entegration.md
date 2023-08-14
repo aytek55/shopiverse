@@ -2,30 +2,30 @@
 sidebar_label: 'ShipEntegra'
 ---
 
-# ShipEntegra Entegrasyon
+# ShipIntegration Integration
 
-***ShipEntegra*** entegrasyon için **ShopiVerse Panel > Ayarlar > Kargo Firması Tanımmları** Ekranında *ShipEntegra* düzenleme seçilir.
+For ***ShipEntegra*** integration, *ShipEntegra* arrangement is selected on the **ShopiVerse Panel > Settings > Shipping Company Definitions** Screen.
 
 ![ShipEntegraEdit](../cargo-entegration/ShipEntegraEdit.png)
 
 :::caution
-Listede kargo firmanız bulunmuyorsa **[Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)**'ndan tanımlayabilirsiniz.
+If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/shopiverse/en/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**.
 :::
 
 ![CargoApi](../cargo-entegration/CargoApiAdd.png)
 
-Api Tanım sekmesinde kargo firması ve ShopiVerse entegrasyonunu sağlayacak olan bilgiler tanımlanır. 
+In the API Definition tab, the information that will provide the integration of the shipping company and ShopiVerse is defined.
 
-**"Yeni"**veya **"Düzenle"** butonuna basılarak açılan ekranda kargo ödemelerinin kim tarafından yapılacağını belirleyen (alıcı veya satıcı) Ödeme Tipi bilgisi seçilir. 
+On the screen opened by pressing the **"New"**or **"Edit"** button, the Payment Type information, which determines who will make the cargo payments (buyer or seller), is selected.
 
-ShipEntegra’dan alınan **Api Key** bilgisi tanımlanır. 
+**Api Key** information received from ShipEntegra is defined.
 
 ![CargoApiAdd](../cargo-entegration/CargoApiAddNew.png)
 
-Fatura için gerekli olan diğer bilgiler doldurulur ve kaydedilir. 
+Other information required for the invoice is filled in and saved.
 
 :::caution
-ShipEntegra panelinizden **Telefon ve Kimlik bilgilerinizi doğrulama** yaptığınızdan emin olun.
-**Api key** bilgisini **ShipEntegra destek birimini** arayarak temin edebilirsiniz.
+Make sure to **Verify your Phone and ID** from your ShipEntegra panel.
+**Api key** information can be obtained by calling **ShipEntegra support unit**.
 :::
 

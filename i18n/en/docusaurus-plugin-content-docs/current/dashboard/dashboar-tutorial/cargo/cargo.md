@@ -1,19 +1,19 @@
 ---
-sidebar_label: 'Kargo Gönderileri'
+sidebar_label: 'Cargo Shipments'
 ---
 
-# Kargo
+# Cargo
 
-## Kargo Gönderileri
+## Cargo Shipments
 
-**Siparişler** ekranında sipariş için kargo bildirimi yapıldığında bu sipariş **ShopiVerse Panel > Kargo Gönderileri** ekranına düşer. 
+When a cargo notification is made for the order on the **Orders** screen, this order drops to the **ShopiVerse Panel > Cargo Shipments** screen.
 
 ![Cargo](../cargo/img/CargoSend.png)
 
-Kargo gönderileri tüm detaylarıyla birlikte burada listelenmektedir. 
+Cargo shipments are listed here with all their details.
 
-Kargonun durumu buradan takip edilebilir.  
+The status of the cargo can be tracked here.
 
-Kargo gönderisine ait hareket bilgisi varsa “**Kargo Hareketleri**” butonuna basılarak açılan ekranda görüntülenebilir. 
+If there is movement information of the cargo shipment, it can be viewed on the screen opened by pressing the "**Cargo Movements**" button.
 
-Kargo gönderisine ait etiket bilgisi varsa “**Kargo Etiketi**” butonuna basılarak kargo etiketi indirilebilir. 
+If there is label information for the cargo shipment, the cargo label can be downloaded by clicking the “**Cargo Label**” button.

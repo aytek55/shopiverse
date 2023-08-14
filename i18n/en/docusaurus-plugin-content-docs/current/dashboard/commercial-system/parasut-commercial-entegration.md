@@ -2,33 +2,33 @@
 sidebar_label: 'Paraşüt'
 ---
 
-# Paraşüt Entegrasyon
+# Parachute Integration
 
-## Firma Bilgileri
+## Company Info
 
-**Paraşüt** panelinde **Ayarlar> Firma Bilgileri** ekranına gidilir.
+In the **Parachut** panel, the **Settings> Company Information** screen is accessed.
 
 ![Parachutecode](../commercial-system/parachuteCode.png)
 
-Firma bilgileri ekranındayken **url** adresinde görüntülenen numara şirket kodudur.
+When you are on the company information screen, the number displayed in the **url** address is the company code.
 
 ![ParachuteSet](../commercial-system/parachuteSet.png)
 
 :::caution
-Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/shopiverse/en/docs/category/ticari-sistem-tanımları)**'ndan yapabilirsiniz.
+If your **Commercial System** is not listed, you can define a new Commercial System from **[Commercial System Definitions](/shopiverse/en/docs/category/ticari-sistem-tanımları)**.
 :::
 
 ![ParachuteSetEdit](../commercial-system/parachuteEdit.png)
 
 
-Url üzerinden alınan numara, **ShopiVerse > Ayarlar > Ticari Sistem Tanımı** *Ticari Sistem Parametre Tanım* sekmesinde **Şirket Kodu** alanına kaydedilir.
+The number obtained from the URL is saved in the **Company Code** field in the **ShopiVerse > Settings > Commercial System Definition** *Commercial System Parameter Definition* tab.
 
 ![ParachuteSetEditCode](../commercial-system/parachuteEditCode.png)
 
 
-ShopiVerse panelde **Kasa Kodu** alanının doldurulmasına gerek yoktur. **Sabit Müşteri Kodu**, **Kategori Kodu** ve **Etiket** alanları zorunlu değildir. 
+There is no need to fill in the **Vault Code** field in the ShopiVerse panel. **Fixed Customer Code**, **Category Code** and **Label** fields are not required.
 
-“**Yetki talep et**” butonun basılarak açılan sayfada Paraşüt bilgileri ile giriş yapılır. “**Yetki talebi doğrulandı**” uyarısı verildiyse işlem tamamlanmıştır.
+By clicking the "**Request Authorization**" button, you can enter the page with the Parachute information. If the "**Authorization request has been confirmed**" warning is given, the transaction is completed.
 
 
  

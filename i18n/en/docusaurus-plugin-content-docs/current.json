@@ -7,10 +7,6 @@
     "message": "Authorization",
     "description": "The label for category Yetkilendirme in sidebar apiSidebar"
   },
-  "sidebar.apiSidebar.category.": {
-    "message": "Authorization",
-    "description": "The label for category Yetkilendirme in sidebar apiSidebar"
-  },
   "sidebar.apiSidebar.category.Yetkilendirme.link.generated-index.description": {
     "message": "Select the action you want to perform in the authorization API services.",
     "description": "The generated-index page description for category Yetkilendirme in sidebar apiSidebar"

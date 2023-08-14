@@ -1,8 +1,8 @@
 {
-    "label": "Kargo",
+    "label": "Cargo",
     "position": 4,
     "link": {
       "type": "generated-index",
-      "description": "Kargo hakkında öğrenmek istediğiniz işlemi seçiniz. "
+      "description": "Select the transaction you want to learn about the cargo. "
     }
   }

@@ -2,29 +2,29 @@
 sidebar_label: 'DHL Express'
 ---
 
-# DHL Entegrasyon
+# DHL Integration
 
-## Kullanıcı Adı - Şifre
+## Username Password
 
-**Kullanıcı Adı ve Şifre** bilgisi Dhl Ekibi tarafından **SiteId ve Password** olarak size verilir.
+**Username and Password** information is given to you by DHL Team as **SiteId and Password**.
 
 ![DHL](../cargo-entegration/DHL.png)
 
-https://xmlportal.dhl.com/userCustomerListing linki üzerinden **Dhl Hesap Numarası**na ulaşılabilir.
+**Dhl Account Number** can be accessed via https://xmlportal.dhl.com/userCustomerListing link.
 
-Bu bilgiler ve gönderici ile ilgili diğer özel bilgiler ( ad, soyad vs.) **ShopiVerse > Ayarlar > Kargo Firma Tanımları**  ayarlarında parametre olarak eklenir.
+This information and other special information about the sender (name, surname, etc.) are added as a parameter in the **ShopiVerse > Settings > Cargo Company Definitions** settings.
 
 ![DHLE](../cargo-entegration/DHLe.png)
 
 ![DHLEDit](../cargo-entegration/DHLEdit.png)
 
 :::caution
-Listede kargo firmanız bulunmuyorsa **[Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)**'ndan tanımlayabilirsiniz.
+If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/shopiverse/en/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**.
 :::
 
 ![DHLEdit Parameter](../cargo-entegration/DHLEditParameter.png)
 
-Aşağıdaki panelde kullanıcı bilgilerini ve Sistemden aldığınız **Kullanıcı Adı , Şifre , Dhl Hesap Numarası** doldurup **Kaydet Butonu**na tıklıyoruz.
+In the panel below, we fill in the user information and **Username, Password, DHL Account Number** that you received from the System and click on the **Save Button**.
 
 ![DHLEdit Parameter](../cargo-entegration/DHLEditParameterSave.png)
 
