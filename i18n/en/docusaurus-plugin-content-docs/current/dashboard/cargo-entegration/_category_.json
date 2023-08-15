@@ -1,8 +1,8 @@
 {
-    "label": "Cargo Integration",
+    "label": "Kargo Entegrasyon",
     "position": 5,
     "link": {
       "type": "generated-index",
-      "description": "Select Cargo Company to learn about integrations. "
+      "description": "Entegrasyonları öğrenmek için Kargo Firması seçiniz. "
     }
   }

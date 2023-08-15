@@ -1,19 +1,18 @@
 ---
-sidebar_label: 'Getting Tokens'
+sidebar_label: 'Token Alma'
 ---
 
-# Getting Tokens
+# Token Alma
 
 ### Request
-
 ![AutRequest](../auth/img/Auth.png)
 
-You can access your **Api-Key (Required)** parameter information from the **Home Page > Settings > Api Definitions** section in the Shopiverse panel.
+**Api-Key (Required)** parametre bilgilerinize Shopiverse panelde bulunan **Ana Sayfa > Ayarlar > Api Tanımları** bölümünden ulaşabilirsiniz.
 
 ![ApiKey](../auth/img/ApiKey.png)
 
 :::note
-You can try the **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** method where you can get Tokens by creating the required request via ShopiVerse Api.
+ShopiVerse Api üzerinden gerekli isteği oluşturarak Token alabileceğiniz **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** metodunu deneyebilirsiniz.
 :::
 
 ### Responses

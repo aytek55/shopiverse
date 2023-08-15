@@ -1,238 +1,473 @@
 {
   "version.label": {
+
     "message": "Next",
+
     "description": "The label for version current"
+
   },
+  
   "sidebar.apiSidebar.category.Yetkilendirme": {
+
     "message": "Authorization",
+
     "description": "The label for category Yetkilendirme in sidebar apiSidebar"
+
   },
+
   "sidebar.apiSidebar.category.Yetkilendirme.link.generated-index.description": {
+
     "message": "Select the action you want to perform in the authorization API services.",
+
     "description": "The generated-index page description for category Yetkilendirme in sidebar apiSidebar"
+
   },
+
   "sidebar.apiSidebar.category.Siparişler": {
+
     "message": "Orders",
+
     "description": "The label for category Siparişler in sidebar apiSidebar"
+
   },
+
   "sidebar.apiSidebar.category.Siparişler.link.generated-index.description": {
+
     "message": "Select the action you want to perform in the order API services.",
+
     "description": "The generated-index page description for category Siparişler in sidebar apiSidebar"
+
   },
+
   "sidebar.apiSidebar.category.Mağazalar": {
+
     "message": "Stores",
+
     "description": "The label for category Mağazalar in sidebar apiSidebar"
+
   },
+
   "sidebar.apiSidebar.category.Mağazalar.link.generated-index.description": {
+
     "message": "Select the action you want to do in the Stores API services.",
+
     "description": "The generated-index page description for category Mağazalar in sidebar apiSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Panel Anlatımı": {
+
     "message": "Panel Narration",
+
     "description": "The label for category Panel Anlatımı in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Panel Anlatımı.link.generated-index.description": {
+
     "message": "Sections available in the ShopiVerse Panel. ",
+
     "description": "The generated-index page description for category Panel Anlatımı in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ürünler": {
+
     "message": "Products",
+
     "description": "The label for category Ürünler in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ürünler.link.generated-index.description": {
+
     "message": "Select the action you want to do on the products. ",
+
     "description": "The generated-index page description for category Ürünler in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Siparişler": {
+
     "message": "Orders",
+
     "description": "The label for category Siparişler in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Siparişler.link.generated-index.description": {
+
     "message": "Select the action you want to make on the orders. ",
+
     "description": "The generated-index page description for category Siparişler in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Fulfillment": {
+
     "message": "Fulfillment",
+
     "description": "The label for category Fulfillment in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Fulfillment.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn.",
+
     "description": "The generated-index page description for category Fulfillment in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Kargo": {
+
     "message": "Cargo",
+
     "description": "The label for category Kargo in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Kargo.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn about the cargo. ",
+
     "description": "The generated-index page description for category Kargo in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ayarlar": {
+
     "message": "Settings",
+
     "description": "The label for category Ayarlar in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ayarlar.link.generated-index.description": {
+
     "message": "Sections in the settings. ",
+
     "description": "The generated-index page description for category Ayarlar in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Tedarikçiler": {
+
     "message": "Suppliers",
+
     "description": "The label for category Tedarikçiler in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Tedarikçiler.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn. ",
+
     "description": "The generated-index page description for category Tedarikçiler in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Mağazalar": {
+
     "message": "Stores",
+
     "description": "The label for category Mağazalar in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Mağazalar.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn. ",
+
     "description": "The generated-index page description for category Mağazalar in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Kargo Firma Tanımları": {
+
     "message": "Cargo Company Definitions",
+
     "description": "The label for category Kargo Firma Tanımları in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Kargo Firma Tanımları.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn. ",
+
     "description": "The generated-index page description for category Kargo Firma Tanımları in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.İş Planı": {
+
     "message": "Job Plan",
+
     "description": "The label for category İş Planı in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.İş Planı.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn.",
+
     "description": "The generated-index page description for category İş Planı in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ticari Sistem Tanımları": {
+
     "message": "Commercial System Definitions",
+
     "description": "The label for category Ticari Sistem Tanımları in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ticari Sistem Tanımları.link.generated-index.description": {
+
     "message": "Select the transaction you want to learn. ",
+
     "description": "The generated-index page description for category Ticari Sistem Tanımları in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Pazaryerleri": {
+
     "message": "Marketplaces",
+
     "description": "The label for category Pazaryerleri in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Pazaryerleri.link.generated-index.description": {
+
     "message": "Select the marketplace to learn about integrations. ",
+
     "description": "The generated-index page description for category Pazaryerleri in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Allegro": {
+
     "message": "Allegro",
+
     "description": "The label for category Allegro in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Allegro.link.generated-index.description": {
+
     "message": "Select Process for Allegro Integrations. ",
+
     "description": "The generated-index page description for category Allegro in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Amazon": {
+
     "message": "Amazon",
+
     "description": "The label for category Amazon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Amazon.link.generated-index.description": {
+
     "message": "Select Process for Amazon Integrations. ",
+
     "description": "The generated-index page description for category Amazon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ebay": {
+
     "message": "Ebay",
+
     "description": "The label for category Ebay in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ebay.link.generated-index.description": {
+
     "message": "Select Process for Ebay Integrations. ",
+
     "description": "The generated-index page description for category Ebay in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Etsy": {
+
     "message": "Etsy",
+
     "description": "The label for category Etsy in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Etsy.link.generated-index.description": {
+
     "message": "Select Process for Etsy Integrations. ",
+
     "description": "The generated-index page description for category Etsy in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Fruugo": {
+
     "message": "Fruugo",
+
     "description": "The label for category Fruugo in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Fruugo.link.generated-index.description": {
+
     "message": "Select Process for Fruugo Integrations. ",
+
     "description": "The generated-index page description for category Fruugo in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.İkas": {
+
     "message": "İkas",
+
     "description": "The label for category İkas in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.İkas.link.generated-index.description": {
+
     "message": "Select Process for Ikas Integrations. ",
+
     "description": "The generated-index page description for category İkas in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Joom": {
+
     "message": "Joom",
+
     "description": "The label for category Joom in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Joom.link.generated-index.description": {
+
     "message": "Select Process for Joom Integrations. ",
+
     "description": "The generated-index page description for category Joom in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ozon": {
+
     "message": "Ozon",
+
     "description": "The label for category Ozon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ozon.link.generated-index.description": {
+
     "message": "Select Process for Ozon Integrations. ",
+
     "description": "The generated-index page description for category Ozon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Shopify": {
+
     "message": "Shopify",
+
     "description": "The label for category Shopify in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Shopify.link.generated-index.description": {
+
     "message": "Select Process for Shopify Integrations. ",
+
     "description": "The generated-index page description for category Shopify in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Wallmart": {
+
     "message": "Wallmart",
+
     "description": "The label for category Wallmart in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Wallmart.link.generated-index.description": {
+
     "message": "Select Process for Wallmart Integrations. ",
+
     "description": "The generated-index page description for category Wallmart in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Wayfair": {
+
     "message": "Wayfair",
+
     "description": "The label for category Wayfair in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Wayfair.link.generated-index.description": {
+
     "message": "Select Process for Wayfair Integrations. ",
+
     "description": "The generated-index page description for category Wayfair in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Kargo Entegrasyon": {
+
     "message": "Cargo Integrations",
+
     "description": "The label for category Kargo Entegrasyon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Kargo Entegrasyon.link.generated-index.description": {
+
     "message": "Select Cargo Company to learn about integrations. ",
+
     "description": "The generated-index page description for category Kargo Entegrasyon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.FulFillment Entegrasyon": {
+
     "message": "FulFillment Integrations",
+
     "description": "The label for category FulFillment Entegrasyon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.FulFillment Entegrasyon.link.generated-index.description": {
+
     "message": "Select Fulfillment to learn about integrations. ",
+
     "description": "The generated-index page description for category FulFillment Entegrasyon in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ticari Sistem Entegrasyonu": {
+
     "message": "Commercial System Integrations",
+
     "description": "The label for category Ticari Sistem Entegrasyonu in sidebar dashboardSidebar"
+
   },
+
   "sidebar.dashboardSidebar.category.Ticari Sistem Entegrasyonu.link.generated-index.description": {
+
     "message": "Select Commercial System to learn about integrations. ",
+
     "description": "The generated-index page description for category Ticari Sistem Entegrasyonu in sidebar dashboardSidebar"
+
   }
 }

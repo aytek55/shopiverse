@@ -2,31 +2,31 @@
 sidebar_label: 'DHL Express'
 ---
 
-# DHL Integration
+# DHL Entegrasyon
 
-## Username Password
+## Kullanıcı Adı - Şifre
 
-**Username and Password** information is given to you by DHL Team as **SiteId and Password**.
+**Kullanıcı Adı ve Şifre** bilgisi Dhl Ekibi tarafından **SiteId ve Password** olarak size verilir.
 
-![DHL](../cargo-entegration/DHL.png)
+![DHL](../cargo-entegration/img/DHL.png)
 
-**Dhl Account Number** can be accessed via https://xmlportal.dhl.com/userCustomerListing link.
+https://xmlportal.dhl.com/userCustomerListing linki üzerinden **Dhl Hesap Numarası**na ulaşılabilir.
 
-This information and other special information about the sender (name, surname, etc.) are added as a parameter in the **ShopiVerse > Settings > Cargo Company Definitions** settings.
+Bu bilgiler ve gönderici ile ilgili diğer özel bilgiler ( ad, soyad vs.) **ShopiVerse > Ayarlar > Kargo Firma Tanımları**  ayarlarında parametre olarak eklenir.
 
-![DHLE](../cargo-entegration/DHLe.png)
+![DHLE](../cargo-entegration/img/DHLe.png)
 
-![DHLEDit](../cargo-entegration/DHLEdit.png)
+![DHLEDit](../cargo-entegration/img/DHLEdit.png)
 
 :::caution
-If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/shopiverse/en/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**.
+Listede kargo firmanız bulunmuyorsa **[Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)**'ndan tanımlayabilirsiniz.
 :::
 
-![DHLEdit Parameter](../cargo-entegration/DHLEditParameter.png)
+![DHLEdit Parameter](../cargo-entegration/img/DHLEditParameter.png)
 
-In the panel below, we fill in the user information and **Username, Password, DHL Account Number** that you received from the System and click on the **Save Button**.
+Aşağıdaki panelde kullanıcı bilgilerini ve Sistemden aldığınız **Kullanıcı Adı , Şifre , Dhl Hesap Numarası** doldurup **Kaydet Butonu**na tıklıyoruz.
 
-![DHLEdit Parameter](../cargo-entegration/DHLEditParameterSave.png)
+![DHLEdit Parameter](../cargo-entegration/img/DHLEditParameterSave.png)
 
 
  

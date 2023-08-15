@@ -2,19 +2,19 @@
 sidebar_label: 'NebimV3'
 ---
 
-# NebimV3 Integration
+# NebimV3 Entegrasyon
 
-![NebimW3](../commercial-system/T-SoftSet.png)
+![NebimW3](../commercial-system/img/T-SoftSet.png)
 
-You can list the registered Commercial Systems by going to the **ShopiVerse Panel > Settings > Commercial Systems** Screen.
+**ShopiVerse Panel > Ayarlar > Ticari Sistemler** Ekranına giderek kayıtlı Ticari Sistemleri listeleyebilirsiniz. 
 
 :::caution
-If your **Commercial System** is not listed, you can define a new Commercial System from **[Commercial System Definitions](/shopiverse/en/docs/category/ticari-sistem-tanımları)**.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
 :::
 
-![NebimW3Edit](../commercial-system/NebimW3Edit.png)
+![NebimW3Edit](../commercial-system/img/NebimW3Edit.png)
 
-With the **Edit** button, you can fill in the required information from ***NebimW3 Authorities*** and save it in the **Commercial System Parameter Definition** tab.
+**Düzenle** butonu ile **Ticari Sistem Parametre Tanım** sekmesinde gerekli bilgileri ***NebimW3 Yetkililerinden*** alıp doldurarak kaydedebilirsiniz.
 
-![NebimW3Parameter](../commercial-system/NebimW3Paramters.png)
+![NebimW3Parameter](../commercial-system/img/NebimW3Paramters.png)
 

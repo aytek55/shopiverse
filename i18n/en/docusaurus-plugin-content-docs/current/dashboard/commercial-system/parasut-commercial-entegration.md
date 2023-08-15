@@ -2,33 +2,33 @@
 sidebar_label: 'Paraşüt'
 ---
 
-# Parachute Integration
+# Paraşüt Entegrasyon
 
-## Company Info
+## Firma Bilgileri
 
-In the **Parachut** panel, the **Settings> Company Information** screen is accessed.
+**Paraşüt** panelinde **Ayarlar> Firma Bilgileri** ekranına gidilir.
 
-![Parachutecode](../commercial-system/parachuteCode.png)
+![Parachutecode](../commercial-system/img/parachuteCode.png)
 
-When you are on the company information screen, the number displayed in the **url** address is the company code.
+Firma bilgileri ekranındayken **url** adresinde görüntülenen numara şirket kodudur.
 
-![ParachuteSet](../commercial-system/parachuteSet.png)
+![ParachuteSet](../commercial-system/img/parachuteSet.png)
 
 :::caution
-If your **Commercial System** is not listed, you can define a new Commercial System from **[Commercial System Definitions](/shopiverse/en/docs/category/ticari-sistem-tanımları)**.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
 :::
 
-![ParachuteSetEdit](../commercial-system/parachuteEdit.png)
+![ParachuteSetEdit](../commercial-system/img/parachuteEdit.png)
 
 
-The number obtained from the URL is saved in the **Company Code** field in the **ShopiVerse > Settings > Commercial System Definition** *Commercial System Parameter Definition* tab.
+Url üzerinden alınan numara, **ShopiVerse > Ayarlar > Ticari Sistem Tanımı** *Ticari Sistem Parametre Tanım* sekmesinde **Şirket Kodu** alanına kaydedilir.
 
-![ParachuteSetEditCode](../commercial-system/parachuteEditCode.png)
+![ParachuteSetEditCode](../commercial-system/img/parachuteEditCode.png)
 
 
-There is no need to fill in the **Vault Code** field in the ShopiVerse panel. **Fixed Customer Code**, **Category Code** and **Label** fields are not required.
+ShopiVerse panelde **Kasa Kodu** alanının doldurulmasına gerek yoktur. **Sabit Müşteri Kodu**, **Kategori Kodu** ve **Etiket** alanları zorunlu değildir. 
 
-By clicking the "**Request Authorization**" button, you can enter the page with the Parachute information. If the "**Authorization request has been confirmed**" warning is given, the transaction is completed.
+“**Yetki talep et**” butonun basılarak açılan sayfada Paraşüt bilgileri ile giriş yapılır. “**Yetki talebi doğrulandı**” uyarısı verildiyse işlem tamamlanmıştır.
 
 
  

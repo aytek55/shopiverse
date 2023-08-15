@@ -3,31 +3,31 @@ sidebar_label: 'T-Soft'
 
 ---
 
-# T-Soft Integration
+# T-Soft Entegrasyon
 
 
 
-**Username and Password** information is saved in the **Commercial System Parameter Definition** tab in **ShopiVerse > Settings > Commercial System Definitions**.
+**Kullanıcı Adı ve Şifre** bilgileri, **ShopiVerse > Ayarlar > Ticari Sistem Tanımları**nda **Ticari Sistem Parametre Tanım** sekmesine kaydedilir. 
 
-![T-SoftSet](../commercial-system/T-SoftSet.png)
+![T-SoftSet](../commercial-system/img/T-SoftSet.png)
 
-## Commercial System > Edit
+## Ticari Sistem > Düzenle
 
-![T-SoftSetEdit](../commercial-system/T-SoftSetEdit.png)
+![T-SoftSetEdit](../commercial-system/img/T-SoftSetEdit.png)
 
 :::caution
-If your **Commercial System** is not listed, you can define a new Commercial System from **[Commercial System Definitions](/shopiverse/en/docs/category/ticari-sistem-tanımları)**.
+Listede **Ticari Sisteminiz** bulunmuyorsa yeni Ticari Sistem tanımlamayı **[Ticari Sistem Tanımları](/docs/dashboard/dashboard-tutorial/settings/commercial-system/)**'ndan yapabilirsiniz.
 :::
 
 ## Ticari Sistem Tanımı
 
 :::caution
 
-Username and Password information are the information used when logging into **T-Soft panel**.
+Kullanıcı Adı ve Şifre bilgileri **T-Soft paneline giriş** yapılırken kullanılan bilgilerdir.
 
 :::
 
-![T-SoftSetEditUserName](../commercial-system/T-SoftSetEditUserName.png)
+![T-SoftSetEditUserName](../commercial-system/img/T-SoftSetEditUserName.png)
 
 
 
