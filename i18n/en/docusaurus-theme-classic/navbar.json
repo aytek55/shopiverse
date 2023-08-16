@@ -8,7 +8,7 @@
     "description": "Navbar item with label API"
   },
   "item.label.Panel": {
-    "message": "Panel",
+    "message": "Dashboard",
     "description": "Navbar item with label Panel"
   },
   "item.label.Blog": {

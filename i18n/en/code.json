@@ -8,6 +8,9 @@
   "Kullanıcı paneli , Raporlar , Pazaryerleri ve Entegrasyonlar hakkında bilgi edinin.": {
     "message": "Learn about Dashboard, Reports, Marketplaces and Integrations."
   },
+  "Panel": {
+    "message": "Dashboard"
+  },
   "ShopiVerse Blog.": {
     "message": "ShopiVerse Blog."
   },
