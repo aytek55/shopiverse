@@ -1,39 +1,39 @@
 ---
-sidebar_label: 'Token Alma'
+sidebar_label: 'Getting Tokens'
 ---
 
-# Token Alma
+# Receiving Tokens
 
-### Request
+### Requests
 ![AutRequest](../auth/img/Auth.png)
 
-**Api-Key (Required)** parametre bilgilerinize Shopiverse panelde bulunan **Ana Sayfa > Ayarlar > Api Tanımları** bölümünden ulaşabilirsiniz.
+You can access your **Api-Key (Required)** parameter information from the **Home Page > Settings > Api Definitions** section in the Shopiverse panel.
 
 ![ApiKey](../auth/img/ApiKey.png)
 
 :::note
-ShopiVerse Api üzerinden gerekli isteği oluşturarak Token alabileceğiniz **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** metodunu deneyebilirsiniz.
+You can try the **[Auth Api OwnToken](https://api.shopiverse.com/swagger/index.html "Auth Api OwmToken")** method where you can get Tokens by creating the required request via ShopiVerse Api.
 :::
 
 ### Responses
 
 #### Code 200 Success Response
-```json
+``json
 {
-  "data": {
-    "token": "string",
-    "tokenType": "string",
-    "expiration": "2023-05-24T14:15:06.683Z"
-  },
-  "success": true,
-  "message": "string"
+   "data": {
+     "token": "string",
+     "tokenType": "string",
+     "expiration": "2023-05-24T14:15:06.683Z"
+   },
+   "success": true,
+   "message": "string"
 }
 ```
 
 #### Code 400 BadRequest
-```json
+``json
 {
-  "success": true,
-  "message": "string"
+   "success": true,
+   "message": "string"
 }
 ```
