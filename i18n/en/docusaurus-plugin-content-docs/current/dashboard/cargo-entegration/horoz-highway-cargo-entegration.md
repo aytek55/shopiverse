@@ -13,7 +13,7 @@ In the **Shopiverse > Settings > Cargo Company Definitions** panel, **Add** or i
 ![CargoFirmaEdit](../cargo-entegration/img/CargoFirmaEdit.png)
 
 :::caution
-If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/docs/category/cargo-company-definitions)**.
+If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/docs/category/kargo-firma-tanımları)**.
 :::
 
 ## Api Definition > Edit

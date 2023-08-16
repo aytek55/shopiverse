@@ -19,7 +19,7 @@ This information and other special information about the sender (name, surname, 
 ![DHLEDit](../cargo-entegration/img/DHLEdit.png)
 
 :::caution
-If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/docs/category/cargo-company-definitions)**.
+If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/docs/category/kargo-firma-tanımları)**.
 :::
 
 ![DHLEdit Parameter](../cargo-entegration/img/DHLEditParameter.png)

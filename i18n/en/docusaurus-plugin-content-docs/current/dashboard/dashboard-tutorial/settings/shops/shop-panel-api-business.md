@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ![Api](../img/ShopApi.png)
 
-Marketplace API definitions are made in [API Integrations in Marketplaces](/docs/category/marketplaces). And the necessary places are filled. The definitions that will connect the ShopiVerse panel and the stores are made here.
+Marketplace API definitions are made in [API Integrations in Marketplaces](/docs/category/pazaryerleri). And the necessary places are filled. The definitions that will connect the ShopiVerse panel and the stores are made here.
 
 ## Business plan
 

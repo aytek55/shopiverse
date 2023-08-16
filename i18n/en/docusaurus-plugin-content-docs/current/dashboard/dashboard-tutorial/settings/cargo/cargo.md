@@ -21,5 +21,5 @@ The *Desired Cargo Company* is selected and the *name* desired to be given to th
 
 :::caution
 On the screen that opens, in the **Api Definition** tab, the information that will provide **cargo company and ShopiVerse integration** is defined.
-**[Cargo Integrations](/docs/category/kargo-integration)** You can define API from page.
+**[Cargo Integrations](/docs/category/kargo-entegrasyon)** You can define API from page.
 :::

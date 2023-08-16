@@ -21,5 +21,5 @@ On the screen that opens, in the "**Commercial System Parameter Definition**" ta
 ![CommercialSystemAddSaveSave](../img/CommercialSystemAddSaveSave.png)
 
 :::caution
-You can find these Fields in [MyCommercialSite Integrations](/docs/category/commercial-system-integration).
+You can find these Fields in [MyCommercialSite Integrations](/docs/category/ticari-sistem-entegrasyonu).
 :::
