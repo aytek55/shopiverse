@@ -1,32 +1,32 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
 
-# İkas API Entegrasyonu
+# Ikas API Integration
 
-**İkas** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > İkas >  API Tanımı** alanı altındaki “`Client Secret`” ve “`Client ID`” bilgilerini doldurmamız gerekiyor. 
+**Ikas** for API integration; From the ShopiVerse panel, we need to fill in the “`Client Secret`” and “`Client ID`” information under **Settings > Stores > IQ > API Definition**.
 
-## Entegrasyon İçn Gerekli Bilgiler
+## Required Information for Integration
  
-Bunun için **https://accounts.ikas.com/register/t?_gl=1*2iosec*_gcl_au*MTkwMTEzODk4OC4xNjg1OTg3ODUz**
-Adresine gidilir ve gerekli bilgiler doldurularak kayıt olunur. Daha sonra **‘Giriş Yap’** butonuna tıklanarak hesaba giriş yapılır. 
+For this **https://accounts.ikas.com/register/t?_gl=1*2iosec*_gcl_au*MTkwMTEzODk4OC4xNjg1OTg3ODUz**
+Go to the address and register by filling in the necessary information. Then click on the **'Login'** button to log in to the account.
 
-![Uygulamalar](../ikas/img/IkasPanel.png)
+![Applications](../ikas/img/IkasPanel.png)
 
-Önce *sol panel*den ‘**Uygulamalarım**’ a daha sonra *ana ekran*dan ‘**Uyguma Ekle’ > ‘Özel Uygulamalarınızı Yönetin**’ e tıklanır.
+Click '**My Apps**' from the *left panel*, then click '**Add to My Application' from the *main screen* > 'Manage Your Custom Applications**'.
 
-![ÖzelUygulamalar](../ikas/img/IkasPanel2.png)
+![Special Applications](../ikas/img/IkasPanel2.png)
 
-Açılan ekranda sağ üst köşedeki **‘Özel Uygulama Oluştur’** butonuna tıklanır. Açılan pencerede *gerekli bilgiler* doldurulur ve *izinler* seçilir.
+On the screen that opens, click the **'Create Custom Application'** button in the upper right corner. In the window that opens, *required information* is filled and *permissions* are selected.
 
-![ÖzelUygulamalarOlustur](../ikas/img/IkasPanel3.png)
+![Create Custom Applications](../ikas/img/IkasPanel3.png)
 
-Bilgiler kaydedildiğinde **Client Id ve Client Secret** oluşur.  Bu bilgiler *ShopiVerse paneli*nde **Ayarlar > Mağazalar > Ikas > Api Tanım** sayfasında gerekli alanlara girilir.
+When the information is saved, **Client Id and Client Secret** are created. This information is entered in the required fields on the *ShopiVerse panel* on the **Settings > Stores > Ikas > Api Definition** page.
 
-![ÖzelUygulamalarOlusturClientSecretId](../ikas/img/IkasPanel4.png)
+![Create CustomAppsClientSecretId](../ikas/img/IkasPanel4.png)
 
-Burada **Mağaza Adı ve Depo Adı** bilgileri de gereklidir. Eğer herhangi bir depo oluşturmadıysanız bu kısma **‘Ana Depo’** yazmalısınız.
+**Store Name and Warehouse Name** information is also required here. If you have not created any repository, you should write **'Main Repository'** in this section.
 
-![IkasApiTanımı](../ikas/img/ShopiverseIkasApi.png)
+![IkasApiDescription](../ikas/img/ShopiverseIkasApi.png)

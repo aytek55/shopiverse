@@ -1,33 +1,31 @@
 ---
-sidebar_label: 'Ürün İçeriği ve Fiyat Özelleştirme'
+sidebar_label: 'Product Content and Price Customization'
 sidebar_position: 4
 ---
 
 
-# Allegro Ürün İçeriği ve Fiyat Özelleştirme 
+# Allegro Product Content and Price Customization
 
-## Ürünler > Ürünlerim > Excel İşlemleri
+## Products > My Products > Excel Transactions
 
-**Ürünler** sayfasında *Excel İşlemleri* altında “**Ürün Bilgilerini Çevirin**” alanında “*Kaynak Dil (ürünler hangi dilde ise)*” ve “*Hedef Dil (ürünler hangi dile çevrilmek isteniyorsa)*” seçenekleri seçilir ve “*Çevirerek İndir*” olarak seçilip şablon indir butonu ile ürün bilgilerinizin çevrilmiş halini excel çıktısı ile alırsınız.
+On the **Products** page, under *Excel Transactions*, in the “**Translate Product Information**” field, “*Source Language (in which language the products are in)*” and “*Target Language (in which language the products are intended to be translated)*” are selected and You will get the translated version of your product information with an excel output by selecting “*Download by Translating*” and clicking the download template button.
 ![AllegroExcelWork](../allegro/img/allegroExcelWork.png)
 
-## Excel İşlemleri > Ürün Bilgilerini Çevirin
+## Excel Operations > Translate Product Information
 
 ![ProductDataTranslate](../allegro/img/Productdatatranslate.png)
 
-Bu excelde yapmak istediğiniz düzenlemeler olursa onları da yaparak aynı yer üzerinden “*Dosya Seç*” ve “*Yükle*” diyerek indirilen şablon geri yüklenir ve ham datadaki ürün bilgilerinizde çeviri yapılan dile ait bilgiler de oluşur. 
+If there are any edits you want to make in this excel, the downloaded template will be restored by saying “*Choose File*” and “*Upload*” from the same place by making them, and your product information in the raw data will also contain information about the translated language.
 
-## Allegro > Parametre
+## Allegro > Parameter
 
 ![AllegroParameter](../allegro/img/allegrosettingshopprameter.png)
 
-Daha sonra **Ayarlar > Mağazalar > Allegro > Parametre**sayfası altında “*Mağaza Ürün Dili*” Lehçe ya da İngilizce olarak seçilir. 
+Then under **Settings > Stores > Allegro > Parameter** page, select “*Store Product Language*” in Polish or English.
 
-## Excel İşlemleri > Mağaza Ürün Excel
+## Excel Operations > Store Product Excel
 
 
 ![AllegroShopExcelProduct](../allegro/img/allegroshopexcelproduct.png)
 
-Bu işlemi yaptıktan sonra yine **Ürünler sayfası altında Excel İşlemleri > Mağaza Ürün Excel** kısmından *Şablon İndir* diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. 
-
-
+After doing this, you can upload your excel from the same field by updating your price information and currency on excel by saying *Download Template* from Excel Transactions > Store Product Excel** section under **Products page.

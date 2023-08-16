@@ -1,20 +1,20 @@
 ---
-sidebar_label: 'Sipariş Özel Etiket'
+sidebar_label: 'Order Private Label'
 sidebar_position: 5
 ---
 
-# Sipariş Özel Etiket
+# Order Private Label
 
-**Özel etiketler**, siparişler hakkında bilgi vermek amacıyla tanımlanan etiketlerdir. 
+**Private labels** are labels defined to provide information about orders.
 
 ![OrderSpecialLabel](../settings/img/OrderSpecial.png)
 
-*Yeni bir sipariş özel etiket tanımı* yapmak için **ShopiVerse Panel > Ayarlar > Sipariş Özel Etiket Tanımları** ekranlarına gidilerek "**Yeni**" butonuna basılır. 
+To define a *new order custom label*, go to the **ShopiVerse Panel > Settings > Order Special Label Definitions** screens and click on the "**New**" button.
 
 ![OrderSpecialLabelEdit](../settings/img/OrderSpecialLabeled.png)
 
-Açılan ekranda **Adı** alanına *etikete verilmek istenen isim*, **Renk** alanına *etikete verilmek istenen renk* tanımlanır.  
+On the screen that opens, *the name to be given to the label* is defined in the **Name** field, and *the color to be given to the label* is defined in the **Color** field.
 
 ![OrderSpecialLabelAdd](../settings/img/OrderSpecialLabeledAdd.png)
 
-*Açıklama* alanı da doldurularak kaydedilir. 
+The *Description* field is also filled and saved.

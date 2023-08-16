@@ -1,25 +1,24 @@
 ---
-sidebar_label: 'İş Planları'
+sidebar_label: 'Business Plans'
 sidebar_position: 5
 ---
 
-# Ozon İş Planları 
+# Ozone Business Plans
 
-## Ozon > İş Planı
+## Ozone > Business Plan
 
-*Ozon* için **kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri** yapıldıktan sonra **Ayarlar > Mağazalar > Ozon > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+After making **category matching, variant matching, product content and price adjustments** for *Ozone*, you can *Manually/Automatically* set the ***related business plans*** on **Settings > Stores > Ozone > Business Plan** page. You need to set it and activate it.
 
 ![OzonBusinessPlan](../ozon/img/OzonBusinessPlan.png)
 
-## Ayarlar > İş Planı
+## Settings > Business Plan
 
-Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Ozon tab’i altındaki “**Pazaryeri Ürün Gönder**” iş planı *yan üçgen sembolü* olan çalıştır butonu ile çalıştırılır. Bu iş planı tamamlandıktan sonra ise “**Pazaryeri Stok/Fiyat Güncelle**” iş planı aynı şekilde çalıştırılır. 
+After performing this operation, the "**Send Products to Marketplace**" business plan under the Ozone tab under **Settings > Business Plan** is run with the run button with the *side triangle symbol*. After this business plan is completed, the "**Marketplace Stock/Price Update**" business plan is run in the same way.
 
 ![OzonBusinessPlanPlay](../ozon/img/OzonBusinessPlanPlay.png)
 
 :::caution
-İş planları sonucunda hatalı ya da uyarı şeklinde verilen ürün bazlı hata mesajlarını inceleyip gerekli düzeltmeleri yaparak iş planını tekrardan çalıştırmanız gereklidir. 
+As a result of the work plans, you should review the product-based error messages that are given as errors or warnings and make the necessary corrections and run the work plan again.
 
-Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Ozon’da moderasyon sürecine girer ve onaylandıklarında ürünleriniz satışa başarılı bir şekilde açılır. 
+After these processes, the products that are sent successfully according to the results of the business plans enter the moderation process in Ozon and when they are approved, your products are successfully opened for sale.
 :::
-

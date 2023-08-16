@@ -1,39 +1,37 @@
 ---
-sidebar_label: 'Kategori Eşleştirme'
+sidebar_label: 'Category Matching'
 sidebar_position: 2
 ---
 
 
-# Joom Kategori Eşleştirme 
+# Joom Category Matching
 
-## Ürünler > Ürünlerim
+## Products > My Products
 
 ![JoomMyProducts](../joom/img/JoomMyProducts.png)
 
-*Ürünlerim* sayfasında Joom özelinde satışa açılmasını istediğiniz ürünler seçilir ya da filtrelenir. Daha sonra **Platform İşlemleri** altından “**Seçilen Ürünleri Yayınla**” ya da “**Filtreli Ürünleri Yayınla**” seçeneği seçilerek açılan pop-up sayfasında Joom seçilir ve Kaydet yapılır. 
+On the *My Products* page, you can select or filter the products that you want to be offered for sale in Joom. Then, under **Platform Operations**, “**Publish Selected Products**” or “**Publish Filtered Products**” option is selected, Joom is selected on the pop-up page and Save is done.
 
 ![JoomMyProductsSelected](../joom/img/JoomMyProductsSelected.png)
 
 ![JoomMyProductsSelectedView](../joom/img/JoomMyProductsSelectedView.png)
 
-## Kategori Eeştirme
+## Category Matching
 
-Daha sonra **Ürünler > Platform Eşleştirme > Tedarikçi Kategori Eşleştirme** sayfası açılır, *Mağaza alanından **Joom*** seçilir ve aşağıda satışa açılabilir olarak seçtiğiniz ürünlerinizin kategorileri listelenir. 
+Then **Products > Platform Matching > Supplier Category Matching** page opens, **Joom*** is selected from the *Store field and the categories of your products that you have selected as available for sale are listed below.
 
 ![JoomMyProductsSelectedViewCategory](../joom/img/JoomMyProductsSelectedViewCategory.png)
 
 ![JoomMyProductsSelectedViewCategoryView](../joom/img/JoomMyProductsSelectedViewCategoryView.png)
 
-## Düzenle
+## Edit
 
-İlgili kategorinin sağ tarafında bulunan düzenle butonu ile kategori eşleştirme sayfasını açıyoruz. Buradaki *Platform Kategori* alanını *Tedarikçi Kategori* alanında yazan kategorinizin karşılığı olanı ya da en yakın olan kategoriyi seçmeniz gerekmektedir.  
+We open the category matching page with the edit button on the right side of the relevant category. In the *Platform Category* field here, you need to select the category that corresponds to your category written in the *Supplier Category* field or the closest category.
 
 ![JoomMyProductsSelectedViewCategoryViewMatching](../joom/img/JoomMyProductsSelectedViewCategoryViewMatching.png)
 
-Kategori seçildikten sonra aşağıda Ana Ürün Kodu bazında ürünleriniz ve platformun istediği değer alanları listelenir. Ürünlerinizin satışa açılabilmesi için her Ana Ürün Kodu için karşılık gelen değerlerden “Zorunlu” olanları mutlaka doldurmanız gerekmektedir. Bu alanları doldurduktan sonra kaydet diyerek kategori eşleştirmelerini tüm kategori ve ürünlerde tamamlıyoruz. 
+After selecting the category, your products and value fields requested by the platform are listed below on the basis of the Main Product Code. In order for your products to be available for sale, you must fill in the "Mandatory" values for each Main Product Code. After filling in these fields, we complete the category matching in all categories and products by clicking save.
 
 ![JoomMyProductsSelectedViewCategoryViewMatchingExcel](../joom/img/JoomMyProductsSelectedViewCategoryViewMatchingExcel.png)
 
-Eşleştirmeleri tek tek yapmak istemediğiniz durumda sağ alandaki excel işlemleri altından “*Excel Şablonu*” indir diyerek zorunlu değer alanlarına excelde bulunan “*Kategori Özellikleri*” sheetindeki “*Özellik Değer Kodu*” altında yazan bilgileri Kategori Eşleştir sheetindeki Ana Ürün Kodlarına karşılık gelen sütunlarda doğru bir şekilde doldurarak kaydetmeniz gerekir. Exceli hazırladıktan sonra ShopiVerse panelinde aynı sayfa üzerinden excel işlemleri altında “*Dosya Seç*” diyerek ilgili exceli seçip “*Excel Şablonu Yükle*” diyerek yükleme işlemini sağlayabilirsiniz. 
-
-
+If you do not want to make the matches one by one, click "Download *Excel Template*" under excel operations in the right field and enter the required value fields in the columns corresponding to the Main Product Codes in the Category Match sheet. You must fill it in correctly and save it. After you have prepared the Excel, you can select the relevant excel by saying “*Choose File*” under excel operations on the same page in the ShopiVerse panel, and then click “*Load Excel Template*” and perform the upload process.

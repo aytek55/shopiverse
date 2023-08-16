@@ -1,31 +1,30 @@
 ---
-sidebar_label: 'Mağazalar Panel Tanıtım'
+sidebar_label: 'Shops Panel Introduction'
 sidebar_position: 2
 ---
-# Panel Tanıtım
+# Panel Introduction
 
-## Api Tanımı
+## Api Definition
 
-![Apı](../img/ShopApi.png)
+![Api](../img/ShopApi.png)
 
-[Pazaryerlerinde API Entegrasyonları](/docs/category/pazaryerleri)'nda pazaryeri API tanımları yapılır. Ve gerekli yerler doldurulur. ShopiVerse paneli ile mağazaları birbirine bağlayacak olan tanımlamalar buradan yapılmaktadır.
+Marketplace API definitions are made in [API Integrations in Marketplaces](/docs/category/marketplaces). And the necessary places are filled. The definitions that will connect the ShopiVerse panel and the stores are made here.
 
-## İş Planı
+## Business plan
 
 ![BusinessPlan](../img/ShopBusinessPlan.png)
 
-[İş PlanLarın](/docs/dashboard/dashboard-tutorial/settings/business-plan/)'nda yapılacak işler **Aktif/Pasif** ve **Manuel/Otomatik** olarak ayarlanır ve mağazada iş planları listelenir. İş planları, ShopiVerse paneli ve platformlar arasındaki veri akışını sağlamak için tetiklenmesi gereken görevlerdir.
-Bu sekmede ilgili mağaza için tanımlanan iş planları bulunmaktadır.
+Jobs to be done in [Business Plans](/docs/dashboard/dashboard-tutorial/settings/business-plan/) are set to **Active/Passive** and **Manual/Auto** and business plans are listed in the store. Work plans are tasks that need to be triggered to keep data flowing between the ShopiVerse panel and platforms.
+In this tab, there are business plans defined for the relevant store.
 
 :::caution
-Manuel olarak ayarlandığı durumda iş planının çalışması için özel olarak tetiklenmesi gerekmektedir. 
-Otomatik olarak ayarlandığı durumda belirli süre aralıklarıyla iş planı otomatik olarak çalışır. 
+In case it is set manually, it must be triggered specifically for the work plan to run.
+In case it is set to automatic, the work plan runs automatically at certain time intervals.
 :::
 
-## Kargo
+## Cargo
 
-Mağazaya özel kargo tanımı buradan yapılmaktadır.  
-Kargo anlaşma türü seçilerek kaydedilir. 
+Store-specific cargo definition is made here.
+The cargo agreement type is selected and saved.
 
 ![Cargo](../img/ShopCargo.png)
-

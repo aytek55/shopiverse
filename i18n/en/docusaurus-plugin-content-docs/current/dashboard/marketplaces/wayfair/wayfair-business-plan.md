@@ -1,25 +1,23 @@
 ---
-sidebar_label: 'İş Planları'
+sidebar_label: 'Business Plans'
 sidebar_position: 5
 ---
 
 
-# Wayfair İş Planları 
+# Wayfair Business Plans
 
-*Wayfair* için **kategori eşleştirme, nitelik eşleştirme, ürün içeriği ve fiyat düzenlemeleri** yapıldıktan sonra **Ayarlar > Mağazalar > Wayfair > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir. 
+After **category matching, attribute matching, product content and price adjustments** for *Wayfair*, you can *Manually/Automatically* set ***related business plans*** on **Settings > Stores > Wayfair > Business Plan** page. You need to set it and activate it.
 
 ![WayfairBusinessplan](../wayfair/img/BusinessPlanWayfair.png)
 
-## Ayarlar > İş Planı
+## Settings > Business Plan
 
-Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Wayfair tab’i altındaki “**Pazaryeri Ürün Gönder**” iş planı *yan üçgen sembolü* olan çalıştır butonu ile çalıştırılır. Bu iş planı tamamlandıktan sonra ise “*Pazaryeri Stok/Fiyat Güncelle*” iş planı aynı şekilde çalıştırılır. 
+After performing this operation, the "**Send Products to Marketplace**" business plan under the Wayfair tab under **Settings > Business Plan** is run with the run button with the *side triangle symbol*. After this business plan is completed, the "*Update Marketplace Stock/Price*" business plan is run in the same way.
 
 ![WayfairBusinessplanRun](../wayfair/img/WayfairBusinessplanrun.png)
 
 :::caution
-İş planları sonucunda hatalı ya da uyarı şeklinde verilen ürün bazlı hata mesajlarını inceleyip gerekli düzeltmeleri yaparak iş planını tekrardan çalıştırmanız gereklidir. 
+As a result of the work plans, you should review the product-based error messages that are given as errors or warnings and make the necessary corrections and run the work plan again.
 
-Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Wayfair pazaryerinde satışa başarılı bir şekilde açılır. 
+After these processes, the products that are sent successfully according to the results of the business plans are successfully opened for sale on the Wayfair marketplace.
 :::
-
-

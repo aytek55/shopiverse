@@ -1,35 +1,33 @@
 ---
-sidebar_label: 'Horoz Lojistik-Karayolları'
+sidebar_label: 'Horoz Logistics-Highways'
 ---
 
-# Horoz Lojistik-Karayolları Entegrasyon
+# Horoz Logistics-Highways Integration
 
-**[Kargo Firma Tanımı Ekle](/docs/dashboard/dashboard-tutorial/settings/cargo)** Sekmesinden Horoz Lojistik - Kara Yolları Kargo tanımı yapılır.
+**[Add Cargo Company Description](/docs/dashboard/dashboard-tutorial/settings/cargo)** From the Tab, Horoz Lojistik - Kara Yolu Cargo definition is made.
 
 ![CargoFirma](../cargo-entegration/img/CargoFirma.png)
 
-**Shopiverse > Ayarlar > Kargo Firma Tanımları** panelinde **Ekle** veya Kargo Firması eklenmiş ise **Düzenle** butonu ile **Apı Tanımı** seçilir.
+In the **Shopiverse > Settings > Cargo Company Definitions** panel, **Add** or if Cargo Company is added, **API Definition** is selected with the **Edit** button.
 
 ![CargoFirmaEdit](../cargo-entegration/img/CargoFirmaEdit.png)
 
 :::caution
-Listede kargo firmanız bulunmuyorsa **[Kargo Firması Tanımları](/docs/category/kargo-firma-tanımları)**'ndan tanımlayabilirsiniz.
+If your cargo company is not in the list, you can define it from **[Cargo Company Definitions](/docs/category/cargo-company-definitions)**.
 :::
 
-## Api Tanımı > Düzenle
+## Api Definition > Edit
 
 ![CargoFirmaEditApi](../cargo-entegration/img/CargoFirmaEditApi.png)
 
-**Horoz Lojistik**’ten alınan **Process Key** bilgisi ShopiVerse paneline parametre olarak tanımlanır. 
+**Process Key** information from **Horoz Logistics** is defined as a parameter to the ShopiVerse panel.
 
 ![CargoFirmaEditPeocess](../cargo-entegration/img/CargoFirmaEditApiProcess.png)
 
-
-**Process Key** ile birlikte diğer bilgilerin de doldurularak kaydedilmesi yeterlidir. 
+It is sufficient to fill in and save the other information along with the **Process Key**.
 
 :::caution
-**Sipariş Bildirimi** için gerekli olan diğer tüm parametrelerin de tanımlanması zorunludur (**Alım Tipi, Çıkış Yeri vs**). 
-**Alım Tipi** bilgisi '**Adresten Alınacak**' olarak seçildiği durumda **Çıkış Yeri** bilgisine '**Satıcı Çıkış Noktası Adı**' girilmelidir.
-**Alım Tipi** bilgisi '**Kendisi Getirecek**' olarak seçildiği durumda **Çıkış Yeri** bilgisine '**Depo Adı**' girilmelidir.
+All other parameters required for **Order Notification** must also be defined (**Receipt Type, Exit Place etc**).
+If **Receipt Type** information is selected as '**Receiving From Address**', '**Vendor Exit Point Name**' must be entered in **Exit Location** information.
+In case **Pickup Type** information is selected as '**Fully Bring**', '**Warehouse Name**' must be entered in the **Exit Location** information.
 :::
- 

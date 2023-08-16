@@ -3,29 +3,29 @@ sidebar_label: 'Turland'
 sidebar_position: 5
 ---
 
-# Turland Entegrasyon
+# Turland Integration
 
-## Api Key
+## API Key
 
 ![TurlandWebshippy](../fullfillment-entegration/img/TurlandWebshippy.png)
 
-https://app.webshippy.com/settings/stores/add/webshippy-api url'indeki form doldurularak **Api Key** bilgisi alınır.
+**Api Key** information is obtained by filling the form at https://app.webshippy.com/settings/stores/add/webshippy-api url.
 
-Form üzerinde **Store Name, Short Name ve Store Url** alanlarının doldurulması yeterlidir.
+It is sufficient to fill in the **Store Name, Short Name and Store Url** fields on the form.
 
-Bu alanalar doldurulup kaydedildikten sonra form üzerindeki **Api Key** alanı otomatik dolar.
+After these fields are filled and saved, the **Api Key** field on the form is filled automatically.
 
-Buradan alınan **Api Key** bilgisi,  **ShopiVerse > Ayarlar > Fulfillment**  *Parametre* sekmesine kaydedilir.
+The **Api Key** information obtained from here is saved in the **ShopiVerse > Settings > Fulfillment** *Parameter* tab.
 
-## Ayarlar > Fulfillment
+## Settings > Fulfillment
 
 ![Turland](../../dashboard/fullfillment-entegration/img/Turland.png)
 
-## Düzenle
+## Edit
 
 ![TurlanEdit](../../dashboard/fullfillment-entegration/img/TurlandEdit.png)
 
-## Parametre
+## Parameter
 
 ![TurlandEditParameter](../../dashboard/fullfillment-entegration/img/TurlandEditParameter.png)
 

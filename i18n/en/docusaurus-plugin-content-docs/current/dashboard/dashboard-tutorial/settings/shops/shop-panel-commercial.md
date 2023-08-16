@@ -1,16 +1,14 @@
 ---
-sidebar_label: 'Ticari Sistem'
+sidebar_label: 'Commercial System'
 sidebar_position: 4
 ---
 
-# Ticari Sistem
+# Commercial System
 
 ![CommercialSystem](../img/ShopCommercialSystem.png)
 
-Mağazaya özel ticari sistem tanımı buradan yapılır. 
+Store-specific commercial system definition is made here.
 
-"**Yeni**" butonuna basılarak açılan ekranda durum ve ticari sistem bilgisi seçilerek kaydedilir. 
+On the screen opened by pressing the "**New**" button, the status and commercial system information are selected and saved.
 
-"**Düzenle**" butonu ile Ticari Sİtem bilgileri düzenlenebilir.
-
-
+Commercial Site information can be edited with the "**Edit**" button.

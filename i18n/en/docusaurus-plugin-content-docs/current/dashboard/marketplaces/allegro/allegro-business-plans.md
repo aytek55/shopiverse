@@ -1,27 +1,26 @@
 ---
-sidebar_label: 'İş Planları'
+sidebar_label: 'Business Plans'
 sidebar_position: 5
 ---
 
 
-# Allegro İş Planları 
+# Allegro Business Plans
 
-Allegro için *kategori eşleştirme*, *varyant eşleştirme*, *ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Allegro > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+After *category matching*, *variant matching*, *product content and price adjustments* for Allegro, you can set ***related business plans*** *Manual/Automatic* on **Settings > Stores > Allegro > Business Plan** page. You need to set it and activate it.
 
-## Allegro > İş Planı
+## Allegro > Business Plan
 ![AllegroBusinessPlan](../allegro/img/allegrosettingbusinesplan.png)
-## Manuel/Otomatik
+## Manual/Auto
 ![AllegroBusinessPlanManual](../allegro/img/sllegrosettingbusinessplan.png)
 
-## İş Planı
-Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Allegro tab’i altındaki “**Pazaryeri Ürün Gönder**” iş planı yan *üçgen sembolü* olan *çalıştır* butonu ile çalıştırılır. Bu iş planı tamamlandıktan sonra ise “**Pazaryeri Stok/Fiyat Güncelle**” iş planı aynı şekilde çalıştırılır. 
+## Business plan
+After performing this operation, the "**Send Products**" business plan under the Allegro tab under **Settings > Business Plan** is run with the *run* button with the side *triangle symbol*. After this business plan is completed, the "**Marketplace Stock/Price Update**" business plan is run in the same way.
 
 ![AllegroBusinessPlanManual](../allegro/img/stokprice.png)
 
 :::caution
 
-İş planları sonucunda hatalı ya da uyarı şeklinde verilen ürün bazlı hata mesajlarını inceleyip gerekli düzeltmeleri yaparak iş planını tekrardan çalıştırmanız gereklidir. 
+As a result of the work plans, you should review the product-based error messages that are given as errors or warnings and make the necessary corrections and run the work plan again.
 
-Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Allegro’da satışa başarılı bir şekilde açılır. 
+After these processes, the products that are sent successfully according to the results of the business plans are successfully opened for sale in Allegro.
 :::
-

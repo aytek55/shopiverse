@@ -1,8 +1,8 @@
 {
-    "label": "Kargo Firma Tanımları",
+    "label": "Cargo Company Definitions",
     "position": 4,
     "link": {
       "type": "generated-index",
-      "description": "Öğrenmek istediğiniz işlemi seçiniz. "
+      "description": "Select the transaction you want to learn. "
     }
   }

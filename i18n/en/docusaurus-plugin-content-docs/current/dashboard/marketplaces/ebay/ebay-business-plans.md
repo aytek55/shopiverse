@@ -1,25 +1,24 @@
 ---
-sidebar_label: 'İş Planları'
+sidebar_label: 'Business Plans'
 sidebar_position: 5
 ---
 
 
-# Ebay İş Planları 
+# Ebay Business Plans
 
-Ebay için *kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Ebay > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+After *category matching, variant matching, product content and price adjustments* for Ebay, you need to set ***related business plans*** as *Manual/Automatic* on **Settings > Stores > Ebay > Business Plan** page and activate it. required.
 
 ![EbaySettingsBusiessPlanOto](../ebay/img/EbaySettingsBusinessPlanOto.png)
 
-## Ayarlar > İş Planı 
+## Settings > Business Plan
 
-Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Ebay tab’i altındaki “**Pazaryeri Ürün Gönder**” iş planı yan üçgen sembolü olan çalıştır butonu ile çalıştırılır. Bu iş planı tamamlandıktan sonra ise “**Pazaryeri Stok/Fiyat Güncelle**” iş planı aynı şekilde çalıştırılır. 
+After performing this operation, the "**Send Products to Marketplace**" business plan under the Ebay tab under **Settings > Business Plan** is run with the run button with the side triangle symbol. After this business plan is completed, the "**Marketplace Stock/Price Update**" business plan is run in the same way.
 
 ![EbayStockPrice](../ebay/img/EbayStockPrice.png)
 
 
 :::caution
-İş planları sonucunda hatalı ya da uyarı şeklinde verilen ürün bazlı hata mesajlarını inceleyip gerekli düzeltmeleri yaparak iş planını tekrardan çalıştırmanız gereklidir. 
+As a result of the work plans, you should review the product-based error messages that are given as errors or warnings and make the necessary corrections and run the work plan again.
 
-Bu işlemler sonrasında iş planları sonuçlarına göre başarılı olarak gönderilen ürünler Ebay’de satışa başarılı bir şekilde açılır. 
+After these processes, the products that are sent successfully according to the results of the business plans are successfully opened for sale on Ebay.
 :::
-

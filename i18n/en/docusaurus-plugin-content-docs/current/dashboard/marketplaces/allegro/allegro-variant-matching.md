@@ -1,25 +1,26 @@
 ---
-sidebar_label: 'Varyant Eşleştirme'
+sidebar_label: 'Variant Matching'
 sidebar_position: 3
 ---
 
 
-# Allegro Varyant Eşleştirme 
+# Allegro Variant Matching
  
-Kategori eşleştirmeleri tamamlandıktan sonra **Ürünler > Platform Eşleştirme > Varyant Eşleştirme** sayfası açılır. *Mağaza* alanından *Allegro* seçilir ve aşağıda kategori eşleştirmelerini yaptığınız kategorilerin bilgileri listelenir. 
+After the category matching is completed, the **Products > Platform Matching > Variant Matching** page opens. *Allegro* is selected from the *Store* field and the information of the categories you have matched the category is listed below.
 
 ![AllegroVariantMatch](../allegro/img/allegroproductvariant.png)
 
-## Varyant Eşleştirme
+## Variant Matching
+
 ![AllegroVariantMatch2](../allegro/img/allegrovariantmatch2.png)
 
+We open the variant matching page with the *edit* button on the **right side** of the relevant category.
 
-İlgili kategorinin **sağ tarafında** bulunan *düzenle* butonu ile varyant eşleştirme sayfasını açıyoruz. 
+## Platform Attributes
 
-## Platform Nitelikleri
 ![PlatformQualification](../allegro/img/PlatformNitelik.png)
 
-Buradaki **Nitelik Değeri** alanını karşılık gelen düzenle butonu ile açılan sayfada “*Temizle*” butonu ile değerleri sıfırlayıp “*Ara*” diyerek platformun sunmuş olduğu nitelik değeri karşılıklarından uygun olan seçilir ve bu her nitelik değeri için yapılır. 
+On the page opened with the edit button corresponding to the **Attribute Value** field here, the appropriate value is selected from the corresponding attribute value offered by the platform by resetting the values with the “*Clear*” button and saying “*Search*”, and this is done for each attribute value.
 
-Renk eşleştirmelerini kategori eşleştirme sayfasında yaptığımız için burada sadece beden eşleştirmelerini yapmamız yeterli olacaktır. 
+Since we make the color matching on the category matching page, it will be sufficient to make only the size matching here.
 

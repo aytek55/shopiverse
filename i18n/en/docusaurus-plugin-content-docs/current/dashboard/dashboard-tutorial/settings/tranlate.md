@@ -1,24 +1,24 @@
 ---
-sidebar_label: 'Çeviriler'
+sidebar_label: 'Translations'
 sidebar_position: 7
 ---
 
-# Çeviriler
+# Translations
 
-**ShopiVerse paneli**nde kaydedilmiş tüm çeviriler **ShopiVerse panel > Ayarlar > Çeviriler** ekranında bulunmaktadır. 
+All translations saved in the **ShopiVerse panel** are available on the **ShopiVerse panel > Settings > Translations** screen.
 
 ![Translate](../settings/img/Translate.png)
 
-**Kaynak Metin** orijinal metin olup, **Hedef Metin** ise orijinal metnin çevirisidir. 
+**Source Text** is the original text and **Target Text** is the translation of the original text.
 
-Yapılan çeviriler üzerinde değişiklik yapılabilme özelliği vardır.  
+It has the feature of making changes on the translations made.
 
 ![TranslateEdit](../settings/img/TranslateExcelEdit.png)
 
-Değişiklik yapılacak olan Hedef Metin istenilen şekilde düzenlendikten sonra yanında bulunan butona basılarak kaydedilir. 
+After the Target Text to be changed is edited as desired, it is saved by pressing the button next to it.
 
-Toplu değişikliklerde **Excel İşlemleri** üzerinden şablon indirerek işlem yapılabilir.
+Bulk changes can be processed by downloading the template from **Excel Transactions**.
 
 :::caution
-Bundan sonraki süreçte çevirinin düzenlenmiş hali baz alınarak kullanılacaktır. 
+It will be used in the next process based on the edited version of the translation.
 :::

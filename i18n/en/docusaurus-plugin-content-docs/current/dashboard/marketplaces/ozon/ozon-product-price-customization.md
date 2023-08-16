@@ -1,27 +1,23 @@
 ---
-sidebar_label: 'Ürün İçeriği ve Fiyat Özelleştirme'
+sidebar_label: 'Product Content and Price Customization'
 sidebar_position: 4
 ---
 
-# Ozon Ürün İçeriği ve Fiyat Özelleştirme 
+# Ozone Product Content and Price Customization
 
-## Ürün Bilgilerini Çevir
+## Translate Product Information
 
 ![OzonProductPrice](../ozon/img/OzonProductPrice.png)
-*Ürünler* sayfasında *Excel İşlemleri* altında “**Ürün Bilgilerini Çevirin**” alanında “**Kaynak Dil (ürünler hangi dilde ise)**” ve “**Hedef Dil (ürünler hangi dile çevrilmek isteniyorsa)**” seçenekleri seçilir ve “**Çevirerek İndir**” olarak seçilip şablon indir butonu ile ürün bilgilerinizin çevrilmiş halini excel çıktısı ile alırsınız. Bu excelde yapmak istediğiniz düzenlemeler olursa onları da yaparak aynı yer üzerinden “*Dosya Seç*” ve “*Yükle*” diyerek indirilen şablon geri yüklenir ve ham datadaki ürün bilgilerinizde çeviri yapılan dile ait bilgiler de oluşur. 
+On the *Products* page, under *Excel Transactions*, in the "**Translate Product Information**" field, "**Source Language (in which language the products are in)**" and "**Target Language (in which language the products are intended to be translated)**" options is selected and “**Download by Translation**” is selected and you can get the translated version of your product information with an excel output by clicking the download template button. If there are any edits you want to make in this excel, the downloaded template will be restored by saying “*Choose File*” and “*Upload*” from the same place by making them, and your product information in the raw data will also contain information about the translated language.
 
-## Parametre
+## Parameter
 
 ![OzonProductPriceParametre](../ozon/img/OzonProductPriceParametre.png)
 
-Daha sonra **Ayarlar > Mağazalar > Ozon > Parametre** sayfası altında “*Mağaza Ürün Dili*” Rusça olarak seçilir. 
+Then, under **Settings > Stores > Ozone > Parameter** page, “*Store Product Language*” is selected in Russian.
 
-## Mağaza Ürün Exceli
+## Store Product Excel
 
 ![OzonProductPriceParametreShop](../ozon/img/OzonProductPriceParametreShop.png)
 
-Bu işlemi yaptıktan sonra yine Ürünler sayfası altında **Excel İşlemleri > Mağaza Ürün Excel** kısmından *Şablon İndir* diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. 
-
-
-
-
+After doing this, you can upload your excel from the same field by updating your price information and currency on excel by saying *Download Template* from **Excel Transactions > Store Product Excel** section under the Products page.

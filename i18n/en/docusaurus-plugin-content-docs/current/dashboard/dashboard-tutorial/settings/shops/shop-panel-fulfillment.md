@@ -5,12 +5,12 @@ sidebar_position: 3
 
 # Fulfillment
 
-Mağazaya özel **fulfillment** tanımı buradan yapılır.
+The definition of store-specific **fulfillment** is made here.
 
 ![Fulfillment](../img/ShopFulFillment.png)
 
-"**Yeni**" butonuna basılarak açılan ekranda durum ve **fulfillment bilgisi** seçilerek kaydedilir. 
+On the screen opened by pressing the "**New**" button, the status and **fulfillment information** are selected and saved.
 
 ![FulfillmentAdd](../img/ShopFulFillmentAdd.png)
 
-**Aktif/Pasif**  olarak durum seçilir , **Fulfillment** sistemi seçilir , tanımladığımız **Kod** yazılır ve kaydedilir. 
+The status is selected as **Active/Passive**, the **Fulfillment** system is selected, the **Code** we have defined is written and saved.

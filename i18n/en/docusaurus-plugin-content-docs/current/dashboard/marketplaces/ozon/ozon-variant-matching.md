@@ -1,23 +1,20 @@
 ---
-sidebar_label: 'Nitelik Eşleştirme'
+sidebar_label: 'Attribute Match'
 sidebar_position: 3
 ---
 
-# Ozon Nitelik Eşleştirme 
+# Ozone Attribute Matching
 
-## Nitelik Eşleştirme
+## Attribute Matching
 
 ![OzonQualification](../ozon/img/OzonQualification.png)
 
-*Kategori eşleştirmeleri* tamamlandıktan sonra **Ürünler > Platform Eşleştirme > Nitelik Eşleştirme** sayfası açılır. Mağaza alanından Joom seçilir ve aşağıda nitelik değerleri olan renk ve beden bilgileri listelenir. 
+After the *Category matching* is completed, the **Products > Platform Matching > Attribute Matching** page opens. Joom is selected from the store area and color and size information with attribute values are listed below.
 
 ![OzonQualificationView](../ozon/img/OzonQualificationView.png)
 
-## Düzenle
+## Edit
 
-İlgili nitelik değerinin sağ tarafında bulunan düzenle butonu ile nitelik eşleştirme sayfasını açıyoruz. Buradaki Nitelik Değeri alanına karşılık gelen düzenle butonu ile açılan sayfada “**Temizle**” butonu ile değerleri sıfırlayıp “**Ara**” diyerek platformun sunmuş olduğu nitelik değeri karşılıklarından uygun olan seçilir ve bu her nitelik değeri için yapılır.
+We open the attribute matching page with the edit button on the right of the relevant attribute value. On the page opened with the edit button corresponding to the Attribute Value field here, reset the values with the "**Clear**" button and say "**Search**" and select the appropriate value from the corresponding attribute value offered by the platform, and this is done for each attribute value.
 
 ![OzonQualificationViewSearch](../ozon/img/OzonQualificationViewSearch.png)
-
-
-

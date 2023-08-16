@@ -1,44 +1,44 @@
 ---
-sidebar_label: 'Parametre'
+sidebar_label: 'Parameter'
 sidebar_position: 5
 ---
 
-# Parametre
+# parameter
 
 ![ShopParameter](../img/ShopParameters.png)
 
-**Varsayılan KDV oranı** mağaza bazında kdv vergi oranı ,
+**Default VAT rate** VAT tax rate on store basis,
 
-**Mağaza ürün dili** platfomda yayınlanan ürün dilini ,
+**Store product language** product language published on my platform,
 
-**Ana ürün kodu** bazında model kodu çoğul ürün alır ve temel ürüne göre gruplandırma yapar ,
+On the basis of **main product code**, the model code takes multiple products and groups them according to the basic product,
 
-**Ürün Kodu** ana ürün kodunun alt varyantını gösterir ,
+**Product Code** indicates the sub-variant of the main product code,
 
-**Stok Kodu** ürün için özel tekil kod etikete yazılan kod ,
+**Stock Code** code written on the special single code label for the product,
 
-**Stoksuz Ürünleri Yayınla** Stok olmayan ürünleri yayınlamayı sağlıyor (shopify etsy stok olmayan ürünleri yayınlatıyor platformlar stok denetimi yapıyor),
+**Publish Out-of-Stock Products** Allows to publish non-stock products (shopify etsy publishes non-stock products, platforms check stock),
 
-**Kategorisiz Ürünleri Yayınla** Ürünleri Kategorize etmiyor Etiket ile grupluyor (Shopifyda gecerli) ,
+**Publish Uncategorized Products** Doesn't Categorize Products, Groups by Tag (valid on Shopify) ,
 
-**Resimli Ürünleri Yayınla** Resimli olan ürünler filtrelenir ve yayınlanır ,
+**Post Picture Products** Products with pictures are filtered and published,
 
-**Ürünleri KDV Dahil Yayınla**  Ürünleri vergilendirme dahil yayınlar ,
+**Publish Products Including VAT** Publications including taxation on products,
 
-**Nitelikleri Etiketleme** nitelikleri etikete eklemek için ,
+**Tag Attributes** to add attributes to the tag,
 
-**Rezerve Stok** rezerve edilen ürün stoğu tutulabilir ,  
+**Reserved Stock** reserved product stock can be kept,
 
-**Varyant Bazlı Resim Yayınlama** ürünlerin varyantını resimlendirir (ozon shopify için geçerli) ,
+**Variant Based Image Publishing** illustrates the variant of the products (valid for ozone shopify),
 
-**Kapalı Ürünleri Arşivle** shopify ürün stok 0 olunca arşive çekiyor ve stok gelince tekrar ekrana alıyor ,
+**Archive Closed Products** shopify archives the product when the stock is 0 and displays it again when the stock is available,
 
-**Manuel Olarak Sipariş Yönetimi** sistemi manuelleştirmek ve elden takip etmek için kullanılır ,
+**Manually Order Management** is used to manualize the system and track it manually,
 
-**Ürün Döviz Kuru Dönüşümü** tedarikçi para birimini satış para birimine çevirir ,
+**Product Exchange Rate Conversion** converts supplier currency to sales currency,
 
-**Sabit Ondalıklı Değeri**  fiyat sonuna girilen sabit ondalıklı sayıyı ekler ,
+**Fixed Decimal Value** adds the fixed decimal number entered at the end of the price,
 
-Mağazaya özel parametre tanımı buradan yapılır. 
+Store-specific parameter definition is done here.
 
-Parametreler, mağaza üzerinde işlem yapılırken baz alınan değerlerdir. 
+Parameters are the values that are taken as a basis when performing operations on the store.

@@ -1,36 +1,34 @@
 ---
-sidebar_label: 'Döviz Kurları'
+sidebar_label: 'Currency Rates'
 sidebar_position: 6
 ---
 
-# Döviz Kurları
+# Exchange
 
-**ShopiVerse Panel > Ayarlar > Döviz Kurları** ekranında Türkiye Merkez Bankası'ndan güncel olarak çekilen kurlar listelenmektedir.
+On the **ShopiVerse Panel > Settings > Exchange Rates** screen, the current exchange rates drawn from the Central Bank of Turkey are listed.
 
 ![Exchange](../settings/img/Exchange.png)
 
-Burada müşterilerin **kendine özel kur tanımlama** özelliği vardır.
+Here customers have **custom currency definition** feature.
 
 ![ExchangeAdd](../settings/img/ExchangeAdd.png)
 
-"**Yeni Döviz Kuru**" butonuna basılarak açılan ekranda manuel olarak bir kur tanımlaması yapılır. 
+By clicking the "**New Exchange Rate**" button, a rate definition is made manually on the screen opened.
 
 ![ExchangeAddNew](../settings/img/ExchangeAddNew.png)
 
-- **Durumu** aktif veya pasif olarak seçilir. 
+- **Status** is selected as active or passive.
 
-- **Döviz Kodu**, dönüştürülen döviz biriminin kodu seçilir. 
+- **Currency Code**, the code of the converted currency unit is selected.
 
-   - **Döviz Kodu**, dönüştürülen para biriminin kodu olarak tanımlanır. 
+    - **Currency Code** is defined as the code of the currency being converted.
 
-- **Döviz Para Birim**i, dönüştürülmek istenen para birimi seçilir. 
+- **Foreign Currency**, the currency to be converted is selected.
 
-- **Döviz Para Birim**i, dönüştürülmek istenen para birimi olarak tanımlanır. 
+- **Foreign Currency** is defined as the currency to be converted.
 
-- **Döviz Alış** alanına istenen alış fiyatı tanımlanır. 
+- The desired purchase price is defined in the **Currency Buying** field.
 
-- **Döviz Satış** alanına istenen satış fiyatı tanımlanır ve kaydedilir. 
+- The desired sales price is defined and recorded in the **Foreign Exchange Sales** field.
 
-- **Manuel kur tanımlama** işlemi tamamlanmıştır. 
-
-
+- **Manual currency definition** process has been completed.

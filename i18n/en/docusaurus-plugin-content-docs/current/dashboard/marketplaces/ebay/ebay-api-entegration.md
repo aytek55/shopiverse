@@ -1,28 +1,28 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
 
-# Ebay API Entegrasyonu
+# Ebay API Integration
 
-**Ebay** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Ebay >  API Tanımı** alanı altındaki “**Durum**” kısmını tikleyerek “**Kaydet**” diyoruz ve sayfa yeniden yüklendiğinde oluşacak “**Yetki Talep Et**” butonu ile **Ebay paneline** giderek kullanıcı girişi yapıp, istenilen bilgilere izin veriliyor ve Ebay ile api entegrasyon bağlantımız tamamlanmış oluyor. 
+For **Ebay** API integration; From the ShopiVerse panel, click "**Status**" under **Settings > Stores > Ebay > API Definition** and click "**Save**" and click the "**Request Authorization**" button that will appear when the page is reloaded * By going to the *Ebay panel**, the user is logged in, the requested information is allowed and our api integration connection with Ebay is completed.
 
 
-## Ayarlar
-![Ayarlar](../ebay/img/svayarlar.png)
+## Settings
+![Settings](../ebay/img/svayarlar.png)
 
  
-## Mağazalar > Ebay
+## Stores > Ebay
 ![Ebay](../ebay/img/svebay.png)
 
-## Ebay > API Tanımı
+## Ebay > API Definition
 ![EbayAPI](../ebay/img/svebayapi.png)
 
 
 :::caution
 
-Not: **Ebay paneline** giderek kullanıcı girişi yapıp, **istenilen bilgilere** izin veriniz.
-Dikkat edilmesi gereken nokta, yetki talep edilirken ShopiVerse panelindeki dil seçeneği **Türkçe** olarak seçili olmalı.
+Note: Go to the **Ebay panel** and log in as a user and allow the **requested information**.
+The point to note is that the language option in the ShopiVerse panel must be selected as **Turkish** while requesting authorization.
 
 :::

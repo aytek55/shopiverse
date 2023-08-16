@@ -1,30 +1,29 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
-# Fruugo API Entegrasyonu
+# Fruugo API Integration
 
-**Fruugo** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Fruugo >  API Tanımı** alanı altındaki “`Kullanıcı Adı`” ve “`Şifre`” bilgilerinizi girerek sipariş entegrasyonunu sağlıyoruz.
+For **Fruugo** API integration; We provide order integration by entering your “`Username`” and “`Password`” information under **Settings > Stores > Fruugo > API Definition** from the ShopiVerse panel.
 
-## Ayarlar
-![Ayarlar](../fruugo/img/svayarlar.png)
+## Settings
+![Settings](../fruugo/img/svayarlar.png)
 
  
-## Mağazalar > Fruugo
+## Stores > Fruugo
 ![Fruugo](../fruugo/img/svfruugo.png)
 
-## Fruugo > API Tanımı
+## Fruugo > API Definition
 ![FruugoAPI](../fruugo/img/svfruugoapi.png)
 
 
-**Ürün gönderim, stok fiyat güncellemeleri** için ise kategori eşleştirmeleri yapıldıktan sonra feed gönderimi yaparak ürünlerimizi Fruugo’ya aktarıyoruz. 
+For **product shipping and stock price updates**, we transfer our products to Fruugo by sending a feed after category matching is done.
 
 
 :::caution
 
-Not: Burada ilk ürün gönderimlerini yapabilmek için; pazaryeri hesap açılışı yapılırken “Number of products to list on Fruugo” alanına kaç sku girildiyse bu rakamın en az %50’si kadar olacak şekilde ürün aktarımı yapılmasını istiyorlar. Buna göre işlem sağlamanız gerekmektedir. 
+Note: In order to make the first product submissions here; They want product transfer to be at least 50% of the number of sku entered in the "Number of products to list on Fruugo" field while opening a marketplace account. You must act accordingly.
 
 
 :::
-

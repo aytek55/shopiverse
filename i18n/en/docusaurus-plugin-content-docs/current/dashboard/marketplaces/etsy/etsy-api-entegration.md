@@ -1,24 +1,24 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
 
-# Etsy API Entegrasyonu
+# Etsy API Integration
 
-**Etsy** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Etsy >  API Tanımı** alanı altındaki `Durum` kısmını tikleyip, **Mağaza adı** kısmına da **Etsy mağazanızın adını birebir aynı olacak şekilde** girerek “**Kaydet**” butonuna tıklayıp daha sonra sayfa yeniden yüklendiğinde oluşacak “**Yetki Talep Et**” butonu ile *Etsy paneline giderek kullanıcı girişi* yapıp, istenilen bilgilere izin veriliyor ve Etsy ile api entegrasyon bağlantımız tamamlanmış oluyor. 
+For **Etsy** API integration; From the ShopiVerse panel, click the 'Status' section under **Settings > Stores > Etsy > API Definition** and enter your **Etsy store name exactly** in the **Store name** section and enter the "**Save**" button. Clicking on it and then the "**Request Authorization**" button that will appear when the page is reloaded, goes to the *Etsy panel and logs in*, the requested information is allowed and our api integration connection with Etsy is completed.
 
-## Ayarlar
-![Ayarlar](../etsy/img/svayarlar.png)
+## Settings
+![Settings](../etsy/img/svayarlar.png)
 
  
-## Mağazalar > Etsy
+## Stores > Etsy
 ![Etsy](../etsy/img/svetsy.png)
 
-## Etsy > API Tanımı
+## Etsy > API Definition
 ![EtsyAPI](../etsy/img/svetsyapi.png)
 
 
 :::caution
-Not: **Mağaza adı** kısmına **Etsy mağazanızın adını birebir aynı olacak şekilde** girerek “**Kaydet**” butonuna tıklayın ve istenilen bilgilere izin verin.
+Note: Enter **The name of your Etsy store exactly the same** in the **Store name** section, click the “**Save**” button and allow the desired information.
 :::

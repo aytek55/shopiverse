@@ -1,21 +1,21 @@
 ---
-sidebar_label: 'İş Planı'
+sidebar_label: 'Business Plan'
 ---
 
-# İş Planı
+# Business plan
 
-**İş planları**, ShopiVerse paneli ve platformlar arasındaki veri akışını sağlamak için tetiklenmesi gereken *görevlerdir*. 
+**Business plans** are *tasks* that must be triggered to keep data flowing between the ShopiVerse panel and platforms.
 
 ![BusinessPlan](../img/BusinessPlan.png)
 
-İş planlarını görüntülemek **ShopiVerse Panel > Ayarlar > İş Planı** ekranına gidilir. 
+To view the business plans, go to the **ShopiVerse Panel > Settings > Business Plan** screen.
 
-Tüm **iş planları detayları**yla birlikte burada görünmektedir. Her platform altında, platform için gerekli olan iş planları listelenmektedir. 
+All **business plans with details** appear here. Under each platform, the business plans required for the platform are listed.
 
-(İş planları, **ShopiVerse Panel > Ayarlar > Mağazalar > İş Planı Ayarları** ekranından **Aktif-Pasif** ve **Otomatik-Manuel** olarak ayarlanmaktadır.) 
+(Business plans are set as **Active-Passive** and **Auto-Manual** from the **ShopiVerse Panel > Settings > Stores > Business Plan Settings** screen.)
 
 ![BusinessPlanRun](../img/BusinessPlanRun.png)
 
-İş planını çalıştırmak için "**Çalıştır**" butonuna basılır. 
+Press the "**Run**" button to run the work plan.
 
-İş planının detayına erişmek için "**İş Plan Geçmişi**" butonuna basılır. Burada iş planı çalışırken oluşan hatalar, uyarılar, yapılacak işlemler gibi konularda bilgi verilir. 
+To access the details of the work plan, click on the "**Business Plan History**" button. Here, information is given about errors, warnings, and actions to be taken while the business plan is running.

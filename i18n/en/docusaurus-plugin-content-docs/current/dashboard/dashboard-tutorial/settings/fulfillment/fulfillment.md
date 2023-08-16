@@ -1,56 +1,56 @@
 ---
-sidebar_label: 'Fulfillment Ürünler'
+sidebar_label: 'Fulfillment Products'
 sidebar_position: 1
 ---
 
 # Fulfillment
 
-**Fulfillment** ile çalışmak istenildiğinde öncelikle bu talep **ShopiVerse**’e iletilir ve depo anlaşma süreçlerinden sonra **kullanıcı tanımlama**ları yapılır. ***Depo ve kullanıcı bilgileri***ne göre ShopiVerse tarafından panelde de fulfillment tanımı yapılır. 
+When it is desired to work with **Fulfillment**, this request is first sent to **ShopiVerse** and **user definitions** are made after the warehouse agreement processes. According to ***Storage and user information***, fulfillment definition is also made in the panel by ShopiVerse.
 
-Tanımlanan Fulfillment deposularını görmek için **ShopiVerse Panel > Ayarlar > Fulfillment** ekranına gidilir. 
+To see the defined Fulfillment warehouses, go to the **ShopiVerse Panel > Settings > Fulfillment** screen.
 
-![Fulfillment](../img/Fulfillment.png) 
+![Fulfillment](../img/Fulfillment.png)
 
-![FulfillmentDetail](../img/FulfillmentDetail.png) 
+![FulfillmentDetail](../img/FulfillmentDetail.png)
 
-**Depolar detayı**na girildiğinde burada bazı sekmeler açılmaktadır.   
+Some tabs are opened when entering **Repository details**.
 
-## Fulfillment 
+## Fulfillment
 
-Depoya ait genel bilgilerin bulunduğu sekmedir. 
+It is the tab with general information about the warehouse.
 
-![FulfillmentFulfillment](../img/FulfillmentFF.png) 
+![FulfillmentFulfillment](../img/FulfillmentFF.png)
 
-Bu bilgilerin tanımlamaları ShopiVerse tarafından yapılır. 
+The definitions of this information are made by ShopiVerse.
 
-## Ürünler 
+## Products
 
-Ürünlerin sevkiyat işlemi yapılmadan önce depoya sevkiyat edilecek ürün bilgilerinin gönderilmesi gereklidir. 
+Before the shipment of the products is made, the product information to be shipped to the warehouse must be sent.
 
-![FulfillmentProduct](../img/FulfillmentProduct.png) 
+![FulfillmentProduct](../img/FulfillmentProduct.png)
 
-Ürünler sekmesinde depoya gönderilecek ürünler seçilir. 
+In the Products tab, the products to be sent to the warehouse are selected.
 
-![FulfillmentProductChoose](../img/FulfillmentProductChoose.png) 
+![FulfillmentProductChoose](../img/FulfillmentProductChoose.png)
 
-"**Yeni**" butonuna basılır ve açılan "**Fulfillment Ürün Ekle**" ekranında listelenen ürünlerden depoya gönderilmek istenenler seçilerek "**Seçili Olanları Ekle**" butonuna basılır.
+Click on the "**New**" button and select the products listed on the "**Add Fulfillment Product**" screen to be sent to the warehouse and click on the "**Add Selected" button.
 
-Depoya gönderilmek istenmeyen ürünler silme butonuna basılarak silinebilir. 
+Products that are not wanted to be sent to the warehouse can be deleted by pressing the delete button.
 
-Ürünlerin seçimi yapıldıktan sonra bilgilerin depoya gönderilebilmesi için iş planlarının çalıştırılması gereklidir. Bildirim Kodu alanının boş olması henüz o ürünün depoya bildirilmediği anlamına gelir. 
+After the selection of the products, business plans must be run in order to send the information to the warehouse. If the Notification Code field is empty, it means that the product has not been reported to the warehouse yet.
 
  
 
-**ShopiVerse Panel > Ayarlar > İş Planı** ekranından "***Depo Ürün Gönder***" iş planı çalıştırılır.
+"***Send Warehouse Product***" business plan is run from the **ShopiVerse Panel > Settings > Business Plan** screen.
 
-İş planı "**Tamamlandı**" durumuna geçtiğinde depoya gönderimler tamamlanmıştır ve Bildirim Kodu bilgileri gelmiştir. 
+When the work plan is in the "**Completed**" status, the shipments to the warehouse are completed and the Notification Code information is received.
 
-## Envanterler 
+## Inventories
 
-Ürünler depoya fiziksel olarak vardığında depo tarafından envanter sayımları yapılır. 
+Inventory counts are made by the warehouse when the products physically arrive at the warehouse.
 
-![FulfillmentEnvanter](../img/FulfillmentEnvanter.png) 
+![FulfillmentInventory](../img/FulfillmentEnvanter.png)
 
-Bu envanter detaylarının ShopiVerse'e yansıması için **ShopiVerse Panel > Ayarlar > İş Planı** ekranından "**Depo Ürün Stok Aktar**" iş planı çalıştırılır.
+In order to reflect these inventory details to ShopiVerse, the "**Warehouse Product Stock Transfer**" business plan is run from the **ShopiVerse Panel > Settings > Business Plan** screen.
 
-İş planı tamamlandığında Envanter sekmesinde depoya giden envanter detayları güncellenmiş durumdadır.  
+When the work plan is completed, the inventory details going to the warehouse are updated in the Inventory tab.

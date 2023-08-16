@@ -1,38 +1,36 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
-# Wallmart API Entegrasyonu
+# Wallmart API Integration
 
 ## Wallmart
-https://developer.walmart.com url’sine gidilir.
+Go to https://developer.walmart.com url.
 
-**My Account** butonu üzerinden giriş yapılır. 
+You can log in via the **My Account** button.
 
 ![WallmartDev](../wallmart/img/Wallmartdev.png)
 
-**Production Keys** sekmesinde **Add New Key** butonuna tıklanır.
+In the **Production Keys** tab, the **Add New Key** button is clicked.
 
 ![WallmartDevNew](../wallmart/img/WallmartdevNew.png)
 
 
-Açılan ekrandan servis seçimi yapılır. Listelenen servislerden **ShopiVerse** seçilir.
+Service selection is made on the screen that opens. **ShopiVerse** is selected from the listed services.
 
 ![WallmartDevNewChanel](../wallmart/img/Wallmartdevnewchannel.png)
 
-Ekrana gelen tüm yetkiler onaylanarak kaydedilir
+All authorizations on the screen are approved and saved.
 
 ## Client ID - Client Secret
 
 ![WallmartIdKey](../wallmart/img/Wallmart%20%C4%B1dkey.png)
 
-Buradan alınan **Client Id ve Client Secret** bilgileri, ShopiVerse mağaza ayarlarında Api Tanım sekmesine kaydedilir.
+The **Client Id and Client Secret** information obtained from here are saved in the Api Definition tab in the ShopiVerse store settings.
 
-## Api Tanımı
+## Api Definition
 
 ![WallmartShop](../wallmart/img/WallmartShop.png)
 
 ![WallmartShopApi](../wallmart/img/WallmartAp%C4%B1.png)
-
-

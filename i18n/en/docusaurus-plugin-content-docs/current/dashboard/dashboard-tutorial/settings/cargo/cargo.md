@@ -1,25 +1,25 @@
 ---
-sidebar_label: 'Kargo Firma Tanımları'
+sidebar_label: 'Cargo Company Definitions'
 sidebar_position: 4
 ---
 
-# Kargo Firma Tanımları
+# Cargo Company Definitions
 
-Yeni bir kargo firma tanımı yapmak için **Ana Sayfa > Ayarlar > Kargo Firma Tanımları** ekranına gidilir. 
+To define a new cargo company, go to the **Home Page > Settings > Cargo Company Definitions** screen.
 
 ![Cargo](../img/Cargo.png)
 
-**"Yeni"** *butonuna* basılarak açılan sayfada yeni kargo firma bilgileri girilerek kayıt işlemi yapılır. 
+**"New"** By pressing the *button*, the new cargo company information is entered and the registration process is performed.
 
 ![CargoAdd](../img/CargoAdd.png)
 
-**Kargo firması**nın **aktif** veya **pasif** olma durumuna bağlı olarak durum bilgisi seçilir. 
+Status information is selected depending on whether the **cargo company** is **active** or **inactive**.
 
 ![CargoAddNew](../img/CargoAddNew.png)
 
-*Çalışmak istenilen Kargo Firması* seçilir ve *tanımlanan kargo firmasına verilmek istenen* isim **Kargo Tanım Adı** alanına doldurularak kaydedilir.
+The *Desired Cargo Company* is selected and the *name* desired to be given to the defined courier company* is filled in the **Cargo Description Name** field and saved.
 
 :::caution
-Açılan ekranda **Api Tanım** sekmesinde **kargo firması ve ShopiVerse entegrasyonunu sağlayacak** olan bilgiler tanımlanır.
-**[Kargo Entegrasyonları](/docs/category/kargo-entegrasyon)** Sayfasından Apı Tanımı yapabilirsiniz.
+On the screen that opens, in the **Api Definition** tab, the information that will provide **cargo company and ShopiVerse integration** is defined.
+**[Cargo Integrations](/docs/category/kargo-integration)** You can define API from page.
 :::

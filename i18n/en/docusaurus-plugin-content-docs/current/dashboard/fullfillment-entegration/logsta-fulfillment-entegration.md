@@ -3,34 +3,34 @@ sidebar_label: 'Logsta'
 sidebar_position: 3
 ---
 
-# Logsta Entegrasyon
+# Logsta Integration
 
-## Api Key
+## API Key
 
-***Api Key*** bilgisi Logsta tarafından alınır. (Kullanıcı oluşturulduğunda Logsta ekibi tarafından bu bilgi verilir.)
+***Api Key*** information is received by Logsta. (This information is given by the Logsta team when the user is created.)
 
-## Parametre
+## Parameter
 
-***Kullanıcı Adı, Şifre ve Api Key*** bilgileri, **Shopiverse > Ayarlar > Fulfillment**  *Parametre* sekmesine kaydedilir. 
+***Username, Password and Api Key*** information is saved in **Shopiverse > Settings > Fulfillment** *Parameter* tab.
 
 :::caution
-**Kullanıcı Adı ve Şifre bilgi**leri **Logsta paneline giriş** yapılırken kullanılan bilgilerdir.
+**Username and Password information** are the information used when logging into the **Logsta panel**.
 :::
 
-## Ayarlar > Fulfillment
+## Settings > Fulfillment
 
 ![Logsta](../../dashboard/fullfillment-entegration/img/Logsta.png)
 
-## Düzenle
+## Edit
 
 ![LogstaEdit](../../dashboard/fullfillment-entegration/img/LogstaEdit.png)
 
-## Parametre
+## Parameter
 
 ![LogstaEditParameter](../../dashboard/fullfillment-entegration/img/LogstaEditParameter.png)
 
 :::caution
-Ek olarak Depo Kodu ve Kullanıcı Kodu parametrelerine ihtiyaç vardır. **Kullanıcı Adı, Şifre ve Api Key** bilgileri tanımlandıktan sonra, **Depo ve Kullanıcı kod**ları ShopiVerse yazılım ekibi tarafından arka planda tanımlanır. 
+Additionally, Warehouse Code and User Code parameters are needed. After **User Name, Password and Api Key** information is defined, **Storage and User codes** are defined in the background by the ShopiVerse software team.
 :::
 
 

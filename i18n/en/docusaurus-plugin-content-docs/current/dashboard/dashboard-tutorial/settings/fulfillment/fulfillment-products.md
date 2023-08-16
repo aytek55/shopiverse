@@ -1,67 +1,66 @@
 ---
-sidebar_label: 'Fulfillment Sevkiyat'
+sidebar_label: 'Fulfillment Shipment'
 sidebar_position: 2
 ---
+# Fulfillment Shipment
 
-# Fulfillment Sevkiyat
+## parameter
 
-## Parametre 
+It is the tab where **User Code and Warehouse Code** information is found.
 
-**Kullanıcı Kodu ve Depo Kodu** bilgilerinin bulunduğu sekmedir.
+![FulfillmentParametert](../img/FulfillmentParametre.png)
 
-![FulfillmentParametert](../img/FulfillmentParametre.png) 
+The definitions of this information are made by ShopiVerse.
 
-Bu bilgilerin tanımlamaları ShopiVerse tarafından yapılır. 
+## Shipments
 
-## Sevkiyatlar 
+After the *product shipments* are completed, the physical shipment of the products is carried out.
 
-*Ürün gönderimleri* tamamlandıktan sonra, ürünlerin fiziksel olarak gönderimi olan sevkiyat işlemleri yapılır.
+![FulfillmentShipment](../img/FulfilmmentShipment.png)
 
-![FulfillmentShipment](../img/FulfilmmentShipment.png) 
+The "New" button is pressed and the Status and Shipment Name are defined and saved on the opened screen.
 
-"Yeni" butonuna basılır ve açılan ekranda Durum ve Sevkiyat Adı tanımlanarak kaydedilir. 
+![FulfillmentShipmentSave](../img/ShipmentSave.png)
 
-![FulfillmentShipmentSave](../img/ShipmentSave.png) 
+### Package Description
 
-### Paket Tanımı
+After the shipment is saved, the packages are defined in the shipment.
 
-Sevkiyat kaydedildikten sonra sevkiyat içerisine paketler tanımlanır. 
+![FulfillmentNewPocket](../img/ShipmentNewPocket.png)
 
-![FulfillmentNewPocket](../img/ShipmentNewPocket.png) 
-
-"Yeni Paket" butonuna basılır. 
+Click the "New Package" button.
 
 ![FulfillmentNewPocketSave](../img/ShipmentNewPocketSave.png)
 
-**Paket adı** alanına oluşturulan pakete verilen isim tanımlanır. 
+The name given to the created package is defined in the **Package name** field.
 
-**Taşıyıcı Firma** alanına kullanılmak istenen kargo firmasının ismi tanımlanır. 
+In the **Carrier Company** field, the name of the cargo company to be used is defined.
 
-**Taşıma Numarası, Tahmini Teslimat Tarihi, Fiş Numarası bilgileri** tanımlanır ve **Kargo Paket Tipi** seçilerek kaydedilir. 
+**Transport Number, Estimated Delivery Date, Receipt Number information** are defined and saved by selecting **Cargo Package Type**.
 
-### Ürün Ekleme
+### Adding Products
 
 ![FulfillmentPocketEdit](../img/ShipmentPocketEdit.png)
 
-Daha sonra oluşturulan **paket detayın**a girilerek paket içerisine ürünler eklenir. 
+Then, the products are added to the package by entering the **package detail** created.
 
 ![FulfillmentNewProduct](../img/ShipmentNewProduct.png)
 
-"**Ürün Ekle**" butonuna basılır. 
+"**Add Product**" button is pressed.
 
 ![FulfillmentNewProductSave](../img/ShipmentNewProductSave.png)
 
-Pakete eklenmek istenen ürünler seçilir, her bir ürün için gönderilecek stok değeri girilir ve "**Seçili Olanları Ekle**" butonuna basılarak işlem tamamlanır.
+The products to be added to the package are selected, the stock value to be sent for each product is entered and the process is completed by clicking the "**Add Selected" button.
 
-Sevkiyat içerisine ürünlerin eklenmesi tamamlanmıştır.  
+Adding the products to the shipment has been completed.
 
-**Sevkiyatın depoya bildirilmesi** için iş planlarının çalıştırılması gereklidir. 
+To **notify the shipment** to the warehouse, it is necessary to run the business plans.
 
-**ShopiVerse Panel > Ayarlar > İş Planı** ekranından "**Depo Sevkiyat Bildir**" iş planı çalıştırılır. 
-İş planı "**Tamamlandı**" durumuna geçtiğinde depoya gönderimler tamamlanmıştır, artık fiziksel olarak ürün gönderimleri yapılabilir durumdadır. 
+"**Notify Warehouse Shipment**" business plan is run from the **ShopiVerse Panel > Settings > Work Plan** screen.
+When the business plan is in the "**Completed**" status, the shipments to the warehouse have been completed, and the product can now be physically shipped.
 
-Fiziksel olarak sevkiyat gönderimi yapıldıktan sonra sevkiyatın durumu kontrol edilmek istenirse, öncelikle **ShopiVerse Panel > Ayarlar > İş Planı** ekranından "**Depo Sevkiyat Durum**" iş planı çalıştırılır. 
+If you want to check the status of the shipment after physically sending the shipment, first the "**Warehouse Shipment Status**" business plan is run from the **ShopiVerse Panel > Settings > Work Plan** screen.
 
 :::caution
-İş planı tamamlandığında Sevkiyat sekmesinde Sevkiyat Durumu kontrol edilmelidir. 
+When the work plan is completed, the Shipment Status should be checked in the Shipping tab.
 :::

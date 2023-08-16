@@ -1,39 +1,38 @@
 ---
-sidebar_label: 'Yeni Tedarikçi Ekleme'
+sidebar_label: 'Adding New Supplier'
 sidebar_position: 1
 ---
 
-# Yeni Tedarikçi Ekleme
+# Adding New Supplier
 
-**Tedarikçi**, sisteme girilmek istenen ürünlerin kaynağını ifade eder.  
-Yeni bir **tedarikçi tanımı** yapmak için ***ShopiVerse Panel > Ayarlar > Tedarikçiler*** ekranına gidilir.
+**Supplier** refers to the source of the products to be entered into the system.
+To define a new **supplier**, go to the ***ShopiVerse Panel > Settings > Suppliers*** screen.
 
 ![Supplier](../img/Supplier.png)
 
 ![SupplierNew](../img/SupplierNew.png)
 
-"**Yeni**" butonuna basılarak açılan sayfada yeni tedarikçi **bilgileri girilerek** kayıt işlemi yapılır. 
+On the page opened by clicking the "**New**" button, the new supplier **information** is entered and the registration process is performed.
 
 ![SupplierNewAdd](../img/SupplierNewAdd.png)
 
-Tedarikçinin **aktif veya pasif** olma durumuna bağlı olarak durum bilgisi seçilir. 
+Status information is selected depending on whether the supplier is **active or passive**.
 
-**Ad ve Kod** tanımlamaları yapılır, kaynağın **hangi dil**de olduğu bilgisi seçilir. 
+**Name and Code** definitions are made, the information **in which language** the source is selected is selected.
 
-Daha sonra "**Kaydet**" butonuna basılarak **yeni tedarikçi** tanımı yapılmış olur. 
+Then, by clicking the "**Save**" button, **new supplier** definition is made.
 
-## Ürün Kaynak Tanım
+## Product Source Description
 
-![SupplierNewAddProduct](../img/SupplierNewAddProduct.png) 
+![SupplierNewAddProduct](../img/SupplierNewAddProduct.png)
 
 :::caution
-Açılan ekranda “**Ürün Kaynak Tanım**” sekmesinde ürün kaynağı ile ilgili doldurulması gereken bilgiler vardır. Bu bilgiler ShopiVerse’e iletilir ve tanımlamaları ShopiVerse tarafından yapılır.  
+In the "**Product Source Description**" tab on the screen that opens, there is information to be filled about the product source. This information is transmitted to ShopiVerse and defined by ShopiVerse.
 :::
 
-## Ürün Kar Marjı
+## Product Margin
 
 ![SupplierNewAddProductPer](../img/SupplierNewAddProductPer.png)
 
-**Tedarikçi Ürün Kar Marjı**  ekranında Ürünlere Platformlar üzerinden ne kadar ve nasıl Kar verileceğine dair bilgilerin bulunduğu panel.
-*Hesaplama İşlemini* **Kar/İskonto** , *Hesaplama Şeklini* **Yüzde/Sabit** , ***Kriter Tipi***'ni seçerek **Aratabilirsiniz**.
-
+The panel on the **Supplier Product Profit Margin** screen with information on how much and how Profit can be given to the Products over the Platforms.
+You can **Search** by selecting *Calculation Transaction* **Profit/Discount** , *Calculation Type* **Percent/Fixed** , ***Criteria Type***.

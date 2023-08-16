@@ -1,24 +1,23 @@
 ---
-sidebar_label: 'İş Planları'
+sidebar_label: 'Business Plans'
 sidebar_position: 5
 ---
 
 
-# Amazon İş Planları 
+# Amazon Business Plans
 
-Amazon için *kategori eşleştirme, varyant eşleştirme, ürün içeriği ve fiyat düzenlemeleri* yapıldıktan sonra **Ayarlar > Mağazalar > Amazon > İş Planı** sayfasında ***ilgili iş planları***nı *Manuel/Otomatik* olarak belirleyip aktif hale getirmeniz gerekmektedir.
+After *category matching, variant matching, product content and price adjustments* are made for Amazon, you need to set the ***related business plans*** as *Manual/Auto* on the **Settings > Stores > Amazon > Business Plan** page and activate it. required.
 
-![AmazonSettingsBusiessPlanOto](../amazon/img/AmazonJobPlan.png)
+![AmazonSettingsBusiessPlanAuto](../amazon/img/AmazonJobPlan.png)
 
-## Ayarlar > İş Planı 
+## Settings > Business Plan
 
-Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Amazon tab’i altındaki “**İlgili Amazon Mağazasından Açılan**” iş planı yan üçgen sembolü olan çalıştırılır.
+After doing this, the business plan with the side triangle symbol "**Opened from the Related Amazon Store**" under the Amazon tab under **Settings > Business Plan** is run.
 
 ![AmazonJObPlan](../amazon/img/AmazonJobPlan2.png)
 
 
 :::caution
-İş planı sayfasında bulunan iş planları mağazalardan aktif edilen iş planlarıdır, aktif edilmemesi durumunda tekrar mağazalardan kontrol ediniz.
+The business plans on the business plan page are the business plans activated from the stores, if they are not activated, check them again from the stores.
 
 :::
-

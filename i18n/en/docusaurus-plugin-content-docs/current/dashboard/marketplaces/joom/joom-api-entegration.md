@@ -1,30 +1,30 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
 
-# Joom API Entegrasyonu
+# Joom API Integration
 
-**Joom** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Joom >  API Tanımı** alanı altındaki “`Secret Key`” ve “`Client ID`” bilgilerini doldurmamız gerekiyor. 
+For **Joom** API integration; We need to fill in the “`Secret Key`” and “`Client ID`” information under the **Settings > Stores > Joom > API Definition** field from the ShopiVerse panel.
 
 
-## Ayarlar
-![Ayarlar](../joom/img/svayarlar.png)
+## Settings
+![Settings](../joom/img/svayarlar.png)
 
  
-## Mağazalar > Joom
+## Stores > Joom
 ![Joom](../joom/img/svjoom.png)
 
-## Joom > API Tanımı
+## Joom > API Definition
 ![JoomAPI](../joom/img/svjoomapi.png)
 
-## Entegrasyon İçn Gerekli Bilgiler
+## Required Information for Integration
  
-Bunun için https://merchant.joom.com/panel/stores adresi altında “**Yeni Mağaza Aç**” ile mağaza oluşturup daha sonra oluşturduğumuz mağaza adına tıklayarak mağaza detay sayfasına gidiyoruz, buradaki “**Genel Bilgi**” alanındaki “**Kimlik No**” altında yazan **kodu** kopyalıyoruz ve *Shopiverse Mağaza Apı Tanımında* **StoreId** bölümüne yapıştırıyoruz.
+For this, we create a store with “**Open New Store**” under the address https://merchant.joom.com/panel/stores and then click on the store name we created and go to the store detail page, here in the “**General Information**” field. Copy the **code** written under the “**ID No**” and paste it into the **StoreId** section of the *Shopiverse Store API Description*.
 
-Daha sonra Joom panelinde sağ üst tarafta bulunan hesap bilgileriniz alanında “**API Uygulamaları**” sayfasına gidiyoruz. Burada “**Yeni Uygulama Oluştur**” butonuna tıklıyoruz. Burada Unvan kısmına “**ShopiVerse**” Mağaza kısmında oluşturduğunuz mağazayı seçiyoruz. “**Yeniden Yönlendirme URL’si**” alanına ise “`https://app.shopiverse.tech/tr/settings/store/joomcallbackcode`” yazıyoruz ve kaydet diyoruz. 
+Then, we go to the "**API Applications**" page in your account information area at the top right of the Joom panel. Here we click on the “**Create New Application**” button. Here we select the store you created in the "**ShopiVerse**" Store section in the Title section. In the “**Redirect URL**” field, we write “`https://app.shopiverse.tech/tr/settings/store/joomcallbackcode`” and click save.
 
-Daha sonra açılan sayfada **ünvan adına** tıklayarak açılan sayfada “**Müşteri Kimlik Numarası**” alanını ShopiVerse panelindeki “**Client ID**” alanına; “**Gizli Anahtar**” alanını ShopiVerse panelindeki “**Secret Key**” alanına giriyoruz ve Durum kısmını tikleyerek kaydet diyoruz. 
+Then, on the page that opens, by clicking on the **title name**, the "**Customer Identification Number**" field on the page opened; We enter the “**Secret Key**” field in the “**Secret Key**” field in the ShopiVerse panel and click on the Status section and click save.
 
-Daha sonra sayfa yeniden yüklendiğinde oluşacak “**Yetki Talep Et**” butonu ile Joom paneline giderek kullanıcı girişi yapıp, istenilen bilgilere izin veriliyor ve Joom ile api entegrasyon bağlantımız tamamlanmış oluyor. 
+Then, when the page is reloaded, the "**Request Authorization**" button will be created, by going to the Joom panel, the user is logged in, the requested information is allowed and our api integration connection with Joom is completed.

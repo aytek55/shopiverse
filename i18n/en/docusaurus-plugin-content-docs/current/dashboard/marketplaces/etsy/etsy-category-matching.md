@@ -1,40 +1,36 @@
 ---
-sidebar_label: 'Kategori Eşleştirme'
+sidebar_label: 'Category Matching'
 sidebar_position: 2
 ---
 
 
-# Etsy Kategori Eşleştirme 
+# Etsy Category Matching
 
-## Ürünler > Ürünlerim
+## Products > My Products
 
 ![EtsyMyProducts](../etsy/img/EtsyMyProducts.png)
 
-Ürünlerim sayfasında *Etsy* özelinde satışa açılmasını istediğiniz ürünler seçilir ya da filtrelenir. Daha sonra **Platform İşlemleri** altından “**Seçilen Ürünleri Yayınla**” ya da “**Filtreli Ürünleri Yayınla**” seçeneği seçilerek açılan pop-up sayfasında *Etsy* seçilir ve *Kaydet* yapılır. 
+On the My Products page, the products you want to be offered for sale on *Etsy* are selected or filtered. Then, under **Platform Operations**, “**Publish Selected Products**” or “**Publish Filtered Products**” option is selected and *Etsy* is selected on the pop-up page and *Save* is done.
 
 ![EtsyMyProductsSelected](../etsy/img/EtsyMyProductsSelected.png)
 ![EtsyMyProductsSelectedView](../etsy/img/EtsyMyProductsSelectedView.png)
 
-## Tedarikçi Kategori Eşleştirme
+## Supplier Category Matching
 
-Daha sonra **Ürünler> Platform Eşleştirme > Tedarikçi Kategori Eşleştirme** sayfası açılır, *Mağaza* alanından *Etsy* seçilir ve aşağıda satışa açılabilir olarak seçtiğiniz ürünlerinizin kategorileri listelenir. 
+Then **Products> Platform Matching > Supplier Category Matching** page opens, *Etsy* is selected from the *Store* field and the categories of your products that you have selected as available for sale are listed below.
 
 ![EtsySupplierCategoryMatching](../etsy/img/Etsysuppliercaegorymatcfing.png)
 
 ![EtsySupplierCategoryMatchingDataList](../etsy/img/EtsysuppliercaegorymatcfingDataList.png)
 
-İlgili kategorinin sağ tarafında bulunan düzenle butonu ile kategori eşleştirme sayfasını açıyoruz. Buradaki *Platform Kategori* alanını *Tedarikçi Kategori* alanında yazan kategorinizin karşılığı olanı ya da en yakın olan kategoriyi seçmeniz gerekmektedir.  
+We open the category matching page with the edit button on the right side of the relevant category. In the *Platform Category* field here, you need to select the category that corresponds to your category written in the *Supplier Category* field or the closest category.
 
 ![EtsySupplierCategoryMatchingDataListEdit](../etsy/img/EtsysuppliercaegorymatcfingDataListEdit.png)
 
-Kategori seçildikten sonra aşağıda Ana Ürün Kodu bazında ürünleriniz ve platformun istediği değer alanları listelenir. Ürünlerinizin satışa açılabilmesi için her Ana Ürün Kodu için karşılık gelen değerlerden “Zorunlu” olanları mutlaka doldurmanız gerekmektedir. Bu alanları doldurduktan sonra kaydet diyerek kategori eşleştirmelerini tüm kategori ve ürünlerde tamamlıyoruz. 
+After selecting the category, your products and value fields requested by the platform are listed below on the basis of the Main Product Code. In order for your products to be available for sale, you must fill in the "Mandatory" values for each Main Product Code. After filling in these fields, we complete the category matching in all categories and products by clicking save.
 
-## Excel İşlemleri
+## Excel Operations
 
 ![EtsySupplierCategoryMatchingDataListEditExcel](../etsy/img/EtsysuppliercaegorymatcfingDataListEditExcel.png)
 
-Eşleştirmeleri tek tek yapmak istemediğiniz durumda sağ alandaki excel işlemleri altından “Excel Şablonu” indir diyerek zorunlu değer alanlarına excelde bulunan “*Kategori Özellikleri*” sheetindeki “*Özellik Değer Kodu*” altında yazan bilgileri Kategori Eşleştir sheetindeki Ana Ürün Kodlarına karşılık gelen sütunlarda doğru bir şekilde doldurarak kaydetmeniz gerekir. Exceli hazırladıktan sonra ShopiVerse panelinde aynı sayfa üzerinden excel işlemleri altında “**Dosya Seç**” diyerek ilgili exceli seçip “**Excel Şablonu Yükle**” diyerek yükleme işlemini sağlayabilirsiniz. 
-
-
-
-
+In case you do not want to make the matches one by one, click "Download Excel Template" under excel operations in the right field and enter the information written under the "*Category Properties*" sheet in the "*Category Properties*" sheet in Excel in the columns corresponding to the Main Product Codes in the Category Match sheet. You have to fill it out and save it. After you have prepared the Excel, you can perform the upload process on the same page in the ShopiVerse panel by saying “**Select File**” under excel operations, selecting the relevant excel and saying “**Upload Excel Template**”.

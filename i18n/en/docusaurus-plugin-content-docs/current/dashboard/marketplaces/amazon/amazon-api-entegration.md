@@ -1,36 +1,36 @@
 ---
-sidebar_label: 'API Entegrasyonu'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
 
-# Amazon API Entegrasyonu
+# Amazon API Integration
 
-**Amazon** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Amazon >  API Tanımı** alanı altındaki “**Merchant Token**” alanını doldurmamız gerekiyor. 
+For **Amazon** API integration; We need to fill in the "**Merchant Token**" field under **Settings > Stores > Amazon > API Definition** from the ShopiVerse panel.
 
-## Ayarlar
+## Settings
 ![Ayarlar](../amazon/img/svayarlar.png)
 
  
-## Mağazalar > Amazon
+## Stores > Amazon
 ![Amazon](../amazon/img/svamazon.png)
 
-## Amazon > API Tanımı
+## Amazon > API Definitions
 ![AmazonAPI](../amazon/img/svamazonapi.png)
 
 
 ## Merchant Token Almak İçin
 
-Merchant Token Almak İçin
-https://sellercentral.amazon.com/hz/sc/account-information sayfasında “**Business Information > Merchant Token**” alanına girerek bu bilgiyi ShopiVerse panelindeki ilgili alana girmemiz gerekiyor. 
+To Get Merchant Tokens
+On the https://sellercentral.amazon.com/hz/sc/account-information page, we need to enter this information in the "**Business Information > Merchant Token**" field and enter this information in the relevant field in the ShopiVerse panel.
 
-Daha sonra “*Durum*” kısmını tikleyerek “*Kaydet*” diyoruz ve sayfa yeniden yüklendiğinde oluşacak “**Yetki Talep Et**” butonu ile Amazon paneline giderek kullanıcı girişi yapıp, istenilen bilgilere izin veriliyor ve Amazon ile api entegrasyon bağlantımız tamamlanmış oluyor. 
+Then by clicking on the "*Status*" section, we click "*Save*" and when the page is reloaded, the "**Request Authorization**" button will be created, by going to the Amazon panel, the user is logged in, the requested information is allowed and our api integration connection with Amazon is completed. .
 
 :::caution
 
-Dikkat edilmesi gereken nokta, yetki talep edilirken ShopiVerse panelindeki dil seçeneği Türkçe olarak seçili olmalı.
+The point to be noted is that the language option in the ShopiVerse panel must be selected as Turkish when requesting authorization.
 
-Not: Her amazon ülkesi için ayrı bir entegrasyon yapılması gerekiyor, dolayısıyla bu api tanımlarını doğru pazaryeri özelinde yapılması çok önemlidir. 
+Note: A separate integration is required for each amazon country, so it is very important to make these api definitions specific to the correct marketplace.
 
 
 :::

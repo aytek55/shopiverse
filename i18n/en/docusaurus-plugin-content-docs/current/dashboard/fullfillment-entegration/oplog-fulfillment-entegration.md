@@ -3,27 +3,27 @@ sidebar_label: 'Oplog'
 sidebar_position: 4
 ---
 
-# Oplog Entegrasyon
+# Oplog Integration
 
-## Parametre
+## Parameter
 
-***Authorization  key ,  X-Tanant Id ve Intagration Id*** **Shopiverse Panel > Ayarlar > Fulfillment**  *Parametre* olarak kaydedilir. 
+***Authorization key , X-Tanant Id and Intagration Id*** **Shopiverse Panel > Settings > Fulfillment** Saved as *Parameter*.
 
-## Ayarlar > Fulfillment
+## Settings > Fulfillment
 
 ![Oplog](../../dashboard/fullfillment-entegration/img/Oplog.png)
 
-## Düzenle
+## Edit
 
 ![OplogEdit](../../dashboard/fullfillment-entegration/img/OplogEdittt.png)
 
-## Parametre
+## Parameter
 
 ![OplogEditParameter](../../dashboard/fullfillment-entegration/img/OplogEdit.png)
 
 :::caution
-***Authorization  key  ve  X-Tanant Id*** **Oplog**  ekibi tarafından size verilir.
-Panelde **Entegrasyonlar ->Entegrasyonlarım -> Shopiverse** ‘ e tıklanırsa açılan ekranda **Integration Id** görünür.
+***Authorization key and X-Tanant Id*** are given to you by the **Oplog** team.
+If **Integrations -> My Integrations -> Shopiverse** is clicked on the panel, **Integration Id** appears on the screen that opens.
 :::
 
 ![OplogEntegration](../fullfillment-entegration/img/OpplogEntegration.png)

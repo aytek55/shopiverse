@@ -1,8 +1,8 @@
 {
-    "label": "İş Planı",
+    "label": "Job Plan",
     "position": 5,
     "link": {
       "type": "generated-index",
-      "description": "Öğrenmek istediğiniz işlemi seçiniz. "
+      "description": "Select the transaction you want to learn. "
     }
   }

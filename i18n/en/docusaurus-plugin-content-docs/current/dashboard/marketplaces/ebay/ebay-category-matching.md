@@ -1,35 +1,34 @@
 ---
-sidebar_label: 'Kategori Eşleştirme'
+sidebar_label: 'Category Matching'
 sidebar_position: 2
 ---
 
 
-# Ebay Kategori Eşleştirme 
+# Ebay Category Matching
 
-**Ürünlerim** sayfasında *Ebay* özelinde satışa açılmasını istediğiniz ürünler seçilir ya da filtrelenir. Daha sonra **Platform İşlemleri** altından “*Seçilen Ürünleri Yayınla*” ya da “*Filtreli Ürünleri Yayınla*” seçeneği seçilerek açılan pop-up sayfasında **Ebay** seçilir ve **Kaydet** yapılır. 
+On the **My Products** page, the products you want to be sold on *Ebay* are selected or filtered. Then, under **Platform Operations**, “*Publish Selected Products*” or “*Publish Filtered Products*” option is selected and **Ebay** is selected on the pop-up page and **Save** is done.
 
-## Ürünler > Ürünlerim
+## Products > My Products
 ![EbayMyProducts](../ebay/img/EbayFilterProduct.png)
 
-### Seçili/Filtreli Ürünleri Yayınlar
+### Broadcasts Selected/Filtered Products
 
 ![EbayPopup](../ebay/img/ebaypopup.png)
 
-## Platform Eşleştirme
+## Platform Matching
 
 ![EbaySupplierPlatformMatch](../ebay/img/EbaySupplierCategory.png)
 
-Daha sonra **Ürünler > Platform Eşleştirme > Tedarikçi Kategori Eşleştirme** sayfası açılır, Mağaza alanından *Ebay* seçilir ve aşağıda satışa açılabilir olarak seçtiğiniz ürünlerinizin kategorileri listelenir. 
+Then **Products > Platform Matching > Supplier Category Matching** page opens, *Ebay* is selected from the Store field and the categories of your products that you have selected as available for sale are listed below.
 
 ![EbayPlatformMatch](../ebay/img/EbayMatching.png)
 
-İlgili kategorinin sağ tarafında bulunan *düzenle* butonu ile kategori eşleştirme sayfasını açıyoruz. Buradaki *Platform Kategori* alanını *Tedarikçi Kategori* alanında yazan kategorinizin **karşılığı olanı ya da en yakın olan** kategoriyi seçmeniz gerekmektedir.  
+We open the category matching page with the *edit* button on the right side of the relevant category. In the *Platform Category* field here, you must select the **corresponding or closest** category of your category written in the *Supplier Category* field.
 
 ![EbayCategoryMatching](../ebay/img/EbayCategoryMatching.png)
 
-Kategori seçildikten sonra aşağıda Ana Ürün Kodu bazında ürünleriniz ve platformun istediği değer alanları listelenir. Ürünlerinizin satışa açılabilmesi için her Ana Ürün Kodu için karşılık gelen değerlerden “*Zorunlu*” olanları mutlaka doldurmanız gerekmektedir. Bu alanları doldurduktan sonra kaydet diyerek kategori eşleştirmelerini tüm kategori ve ürünlerde tamamlıyoruz. 
+After selecting the category, your products and value fields requested by the platform are listed below on the basis of the Main Product Code. In order for your products to be available for sale, you must fill in the "*Required*" values for each Main Product Code. After filling in these fields, we complete the category matching in all categories and products by clicking save.
 
 ![EbayCategoryExcelMatching](../ebay/img/EbayCategoryExcelMatching.png)
 
-Eşleştirmeleri tek tek yapmak istemediğiniz durumda sağ alandaki excel işlemleri altından “**Excel Şablonu**” indir diyerek zorunlu değer alanlarına excelde bulunan “**Kategori Özellikleri**” sheetindeki “**Özellik Değer Kodu**” altında yazan bilgileri Kategori Eşleştir sheetindeki Ana Ürün Kodlarına karşılık gelen sütunlarda doğru bir şekilde doldurarak kaydetmeniz gerekir. Exceli hazırladıktan sonra ShopiVerse panelinde aynı sayfa üzerinden excel işlemleri altında “**Dosya Seç**” diyerek ilgili exceli seçip “**Excel Şablonu Yükle**” diyerek yükleme işlemini sağlayabilirsiniz. 
-
+In case you do not want to make the matches one by one, click "download **Excel Template**" under excel operations in the right field and enter the information written under the "**Property Value Code**" in the "**Category Properties**" sheet in the required value fields in Excel. You must save by correctly filling them in the columns corresponding to the Main Product Codes. After you have prepared the Excel, you can perform the upload process on the same page in the ShopiVerse panel by saying “**Select File**” under excel operations, selecting the relevant excel and saying “**Upload Excel Template**”.

@@ -1,24 +1,23 @@
 ---
-sidebar_label: 'API Entegrasyon'
+sidebar_label: 'API Integration'
 sidebar_position: 1
 ---
 
-# Shopify API Entegrasyonu
+# Shopify API Integration
 
 
 
-**Shopify** API entegrasyonu için; https://www.shopify.com/partners giriş yapılır.**Sol menüden “App”**, sonra **sağ üstte “Create an app”** *App name* alanına “*ShopiVerse*” yazarak “**Create app**” butonuna tıklanır. Ekranda verilen “**API Key**” ve “**Api Key Secret**” değerleri veri tabanına marketplace parametre olarak kaydedilir.
+For **Shopify** API integration; https://www.shopify.com/partners login.**“App”** from the left menu, then **“Create an app”** at the top right** “*ShopiVerse*” by typing “*ShopiVerse*” in the *App name* field Click on “Create app**” button. The values of “**API Key**” and “**Api Key Secret**” given on the screen are saved in the database as marketplace parameters.
 
 
-ShopiVerse panelinden **Ayarlar > Mağazalar > Shopify >  API Tanımı** alanı altındaki “**Store Name**” alanını doldurmamız gerekiyor. 
+We need to fill in the "**Store Name**" field under **Settings > Stores > Shopify > API Definition** from the ShopiVerse panel.
 
-## Ayarlar
+## Settings
 ![ShopiVerseSetting](../shopify/img/shopiverseSetting.png)
 
  
-## Mağazalar > Shopify
+## Stores > Shopify
 ![Shopif](../shopify/img/shopiverseSettingShopify.png)
 
-## Shopify > API Tanımı
+## Shopify > API Definition
 ![ShopifyAPI](../shopify/img/shopiverseSettingShopifyApi.png)
-

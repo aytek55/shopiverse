@@ -1,25 +1,25 @@
 ---
-sidebar_label: 'Ticari Sistem Tanımları'
+sidebar_label: 'Commercial System Descriptions'
 ---
 
-# Ticari Sistem Tanımları
+# Commercial System Definitions
 
-Yeni bir ticari sistem tanımı yapmak için **ShopiVerse Panel > Ayarlar > Ticari Sistem Tanımları** ekranına gidilir. 
+To define a new commercial system, go to the **ShopiVerse Panel > Settings > Commercial System Definitions** screen.
 
-![CommercialSystem](../img/CommercialSystem.png) 
+![CommercialSystem](../img/CommercialSystem.png)
 
-“**Yeni**” butonuna basılarak açılan sayfada yeni ticari sistem bilgileri girilerek kayıt işlemi yapılır.
+By clicking the "**New**" button, the new commercial system information is entered on the page opened and the registration process is performed.
 
-![CommercialSystemAdd](../img/CommercialSystemAdd.png) 
+![CommercialSystemAdd](../img/CommercialSystemAdd.png)
 
-**Durum bilgisi** ***Aktif/Pasif***  seçilir. **Ticari Sistem Tipi** ***Çalışacağınız Ticari Sistem ismi*** olarak seçilir. Adı alanına da ticari sisteme verilmek istenen isim doldurularak kaydedilir. 
+**Status information** ***Active/Passive*** is selected. **Commercial System Type** is selected as ***Commercial System name***. In the Name field, the name to be given to the commercial system is filled in and saved.
 
 ![CommercialSystemAddSave](../img/CommercialSystemAddSave.png)
 
-Açılan ekranda “**Ticari Sistem Parametre Tanım**” sekmesinde **ShopiVerse ve Çalışacağınız Ticari Sistemin** entegrasyonu için doldurulması gereken alanlar vardır. 
+On the screen that opens, in the "**Commercial System Parameter Definition**" tab, there are fields that must be filled for the integration of **ShopiVerse and the Commercial System you will work with**.
 
 ![CommercialSystemAddSaveSave](../img/CommercialSystemAddSaveSave.png)
 
 :::caution
-Bu Alanları [Ticari Sitem Entegrasyonlarında](/docs/category/ticari-sistem-entegrasyonu) bulabilirsiniz.
+You can find these Fields in [MyCommercialSite Integrations](/docs/category/commercial-system-integration).
 :::
