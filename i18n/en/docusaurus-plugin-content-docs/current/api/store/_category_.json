@@ -1,6 +1,5 @@
 {
     "label": "Stores",
-    "position": 3,
     "link": {
       "type": "generated-index",
       "description": "Select the action you want to do in the Stores API services."

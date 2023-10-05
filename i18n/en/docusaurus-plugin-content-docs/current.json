@@ -11,15 +11,15 @@
 
     "message": "Authorization",
 
-    "description": "The label for category Yetkilendirme in sidebar apiSidebar"
+    "description": "The label for category Authorization in sidebar apiSidebar"
 
   },
-
+  
   "sidebar.apiSidebar.category.Yetkilendirme.link.generated-index.description": {
 
     "message": "Select the action you want to perform in the authorization API services.",
 
-    "description": "The generated-index page description for category Yetkilendirme in sidebar apiSidebar"
+    "description": "The generated-index page description for category Authorization in sidebar apiSidebar"
 
   },
 
@@ -27,7 +27,7 @@
 
     "message": "Orders",
 
-    "description": "The label for category Siparişler in sidebar apiSidebar"
+    "description": "The label for category Orders in sidebar apiSidebar"
 
   },
 
@@ -35,7 +35,7 @@
 
     "message": "Select the action you want to perform in the order API services.",
 
-    "description": "The generated-index page description for category Siparişler in sidebar apiSidebar"
+    "description": "The generated-index page description for category Orders in sidebar apiSidebar"
 
   },
 
@@ -43,7 +43,7 @@
 
     "message": "Stores",
 
-    "description": "The label for category Mağazalar in sidebar apiSidebar"
+    "description": "The label for category Stores in sidebar apiSidebar"
 
   },
 
@@ -51,7 +51,7 @@
 
     "message": "Select the action you want to do in the Stores API services.",
 
-    "description": "The generated-index page description for category Mağazalar in sidebar apiSidebar"
+    "description": "The generated-index page description for category Stores in sidebar apiSidebar"
 
   },
 
@@ -59,7 +59,7 @@
 
     "message": "Panel Narration",
 
-    "description": "The label for category Panel Anlatımı in sidebar dashboardSidebar"
+    "description": "The label for category Panel Narration in sidebar dashboardSidebar"
 
   },
 
@@ -67,7 +67,14 @@
 
     "message": "Sections available in the ShopiVerse Panel. ",
 
-    "description": "The generated-index page description for category Panel Anlatımı in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Panel Narration in sidebar dashboardSidebar"
+
+  },
+  "sidebar.dashboardSidebar.category.Panel Anlatımı.link.generated-index.label": {
+
+    "message": "Panel Narration ",
+
+    "description": "The generated-index page description for category Panel Narration in sidebar dashboardSidebar"
 
   },
 
@@ -75,7 +82,7 @@
 
     "message": "Products",
 
-    "description": "The label for category Ürünler in sidebar dashboardSidebar"
+    "description": "The label for category Products in sidebar dashboardSidebar"
 
   },
 
@@ -83,7 +90,7 @@
 
     "message": "Select the action you want to do on the products. ",
 
-    "description": "The generated-index page description for category Ürünler in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Products in sidebar dashboardSidebar"
 
   },
 
@@ -91,7 +98,7 @@
 
     "message": "Orders",
 
-    "description": "The label for category Siparişler in sidebar dashboardSidebar"
+    "description": "The label for category Orders in sidebar dashboardSidebar"
 
   },
 
@@ -99,7 +106,7 @@
 
     "message": "Select the action you want to make on the orders. ",
 
-    "description": "The generated-index page description for category Siparişler in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Orders in sidebar dashboardSidebar"
 
   },
 
@@ -123,7 +130,7 @@
 
     "message": "Cargo",
 
-    "description": "The label for category Kargo in sidebar dashboardSidebar"
+    "description": "The label for category Cargo in sidebar dashboardSidebar"
 
   },
 
@@ -131,7 +138,7 @@
 
     "message": "Select the transaction you want to learn about the cargo. ",
 
-    "description": "The generated-index page description for category Kargo in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Cargo in sidebar dashboardSidebar"
 
   },
 
@@ -147,7 +154,7 @@
 
     "message": "Sections in the settings. ",
 
-    "description": "The generated-index page description for category Ayarlar in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Settings in sidebar dashboardSidebar"
 
   },
 
@@ -155,7 +162,7 @@
 
     "message": "Suppliers",
 
-    "description": "The label for category Tedarikçiler in sidebar dashboardSidebar"
+    "description": "The label for category Suppliers in sidebar dashboardSidebar"
 
   },
 
@@ -163,7 +170,7 @@
 
     "message": "Select the transaction you want to learn. ",
 
-    "description": "The generated-index page description for category Tedarikçiler in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Suppliers in sidebar dashboardSidebar"
 
   },
 
@@ -171,7 +178,7 @@
 
     "message": "Stores",
 
-    "description": "The label for category Mağazalar in sidebar dashboardSidebar"
+    "description": "The label for category Stores in sidebar dashboardSidebar"
 
   },
 
@@ -179,7 +186,7 @@
 
     "message": "Select the transaction you want to learn. ",
 
-    "description": "The generated-index page description for category Mağazalar in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Stores in sidebar dashboardSidebar"
 
   },
 
@@ -187,7 +194,7 @@
 
     "message": "Cargo Company Definitions",
 
-    "description": "The label for category Kargo Firma Tanımları in sidebar dashboardSidebar"
+    "description": "The label for category Cargo Company Definitions in sidebar dashboardSidebar"
 
   },
 
@@ -195,7 +202,7 @@
 
     "message": "Select the transaction you want to learn. ",
 
-    "description": "The generated-index page description for category Kargo Firma Tanımları in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Cargo Company Definitions in sidebar dashboardSidebar"
 
   },
 
@@ -203,7 +210,7 @@
 
     "message": "Job Plan",
 
-    "description": "The label for category İş Planı in sidebar dashboardSidebar"
+    "description": "The label for category Job Plan in sidebar dashboardSidebar"
 
   },
 
@@ -211,7 +218,7 @@
 
     "message": "Select the transaction you want to learn.",
 
-    "description": "The generated-index page description for category İş Planı in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Job Plan in sidebar dashboardSidebar"
 
   },
 
@@ -219,7 +226,7 @@
 
     "message": "Commercial System Definitions",
 
-    "description": "The label for category Ticari Sistem Tanımları in sidebar dashboardSidebar"
+    "description": "The label for category Commercial System Definitions in sidebar dashboardSidebar"
 
   },
 
@@ -227,7 +234,7 @@
 
     "message": "Select the transaction you want to learn. ",
 
-    "description": "The generated-index page description for category Ticari Sistem Tanımları in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Commercial System Definitions in sidebar dashboardSidebar"
 
   },
 
@@ -235,7 +242,7 @@
 
     "message": "Marketplaces",
 
-    "description": "The label for category Pazaryerleri in sidebar dashboardSidebar"
+    "description": "The label for category Marketplaces in sidebar dashboardSidebar"
 
   },
 
@@ -243,7 +250,7 @@
 
     "message": "Select the marketplace to learn about integrations. ",
 
-    "description": "The generated-index page description for category Pazaryerleri in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Marketplaces in sidebar dashboardSidebar"
 
   },
 
@@ -427,7 +434,7 @@
 
     "message": "Cargo Integrations",
 
-    "description": "The label for category Kargo Entegrasyon in sidebar dashboardSidebar"
+    "description": "The label for category Cargo Integrations in sidebar dashboardSidebar"
 
   },
 
@@ -435,7 +442,7 @@
 
     "message": "Select Cargo Company to learn about integrations. ",
 
-    "description": "The generated-index page description for category Kargo Entegrasyon in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Cargo Integrations in sidebar dashboardSidebar"
 
   },
 
@@ -443,7 +450,7 @@
 
     "message": "FulFillment Integrations",
 
-    "description": "The label for category FulFillment Entegrasyon in sidebar dashboardSidebar"
+    "description": "The label for category FulFillment Integrations in sidebar dashboardSidebar"
 
   },
 
@@ -451,7 +458,7 @@
 
     "message": "Select Fulfillment to learn about integrations. ",
 
-    "description": "The generated-index page description for category FulFillment Entegrasyon in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category FulFillment Integrations in sidebar dashboardSidebar"
 
   },
 
@@ -459,7 +466,7 @@
 
     "message": "Commercial System Integrations",
 
-    "description": "The label for category Ticari Sistem Entegrasyonu in sidebar dashboardSidebar"
+    "description": "The label for category Commercial System Integrations in sidebar dashboardSidebar"
 
   },
 
@@ -467,7 +474,7 @@
 
     "message": "Select Commercial System to learn about integrations. ",
 
-    "description": "The generated-index page description for category Ticari Sistem Entegrasyonu in sidebar dashboardSidebar"
+    "description": "The generated-index page description for category Commercial System Integrations in sidebar dashboardSidebar"
 
   }
 }
