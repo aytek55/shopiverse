@@ -6,6 +6,14 @@
     "description": "The label for version current"
 
   },
+
+    "version.Sublabel": {
+  
+      "message": "Next",
+  
+      "description": "The label for version current"
+  
+    },
   
   "sidebar.apiSidebar.category.Yetkilendirme": {
 
