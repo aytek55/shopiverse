@@ -1,27 +1,29 @@
 ---
-sidebar_label: 'Product Content and Price Customization'
+sidebar_label: 'Product Content and Price Customisation'
 sidebar_position: 4
 ---
 
 
-# Etsy Product Content and Price Customization
+# Etsy Product Content and Price Customisation 
 
 ## Products > Excel Operations
 
-![EtsyCustomization](../etsy/img/EtsyProductCustomization.png)
+![EtsyCustomisation](../etsy/img/EtsyProductCustomization.png)
 
-On the *Products* page, under **Excel Transactions**, in the "**Translate Product Information**" field, "**Source Language (whichever language the products are in)**" and "**Target Language (to which language the products are intended to be translated)** ” options are selected and “*Download by Translating*” is selected and you will receive the translated version of your product information with an excel output by clicking the download template button.
+On the *Products* page, under **Excel Operations**, in the "**Translate Product Information**" field, "**Source Language (in which language the products are in)**" and "**Target Language (in which language the products are to be translated)**" options are selected and "*Download by Translating*" is selected and you will receive the translated version of your product information with excel output with the template download button. 
 
-![EtsyCustomizationExcel](../etsy/img/EtsyProductCustomizationExcel.png)
+***Product names and descriptions must be entered in English for products. In the same way, product size information must also be entered.
 
-If there are any edits you want to make in this excel, the downloaded template will be restored by saying “*Choose File*” and “*Upload*” from the same place by making them, and your product information in the raw data will also contain information about the translated language.
+![EtsyCustomisationExcel](../etsy/img/EtsyProductCustomizationExcel.png)
+
+If there are any edits you want to make in this excel, by making them, the downloaded template is restored by saying "*Select File*" and "*Load*" from the same place and the information of the translated language is also formed in your product information in the raw data. 
 
 ## Parameters
 
-![EtsyCustomizationExcelParameter](../etsy/img/EtsyProductCustomizationExcelParameter.png)
+![EtsyCustomisationExcelParameter](../etsy/img/EtsyProductCustomizationExcelParameter.png)
 
-Then, under **Settings > Stores > Etsy > Parameter** page, “*Store Product Language*” is selected in English.
+Then under **Settings > Stores > Etsy > Parameter** page "*Store Product Language*" is selected as English. 
 
-![EtsyCustomizationExcelParameterlanguage](../etsy/img/EtsyProductCustomizationExcelParameterLanguage.png)
+![EtsyCustomisationExcelParameterlanguage](../etsy/img/EtsyProductCustomizationExcelParameterLanguage.png)
 
-After doing this, you can upload your excel from the same field by updating your price information and currency on excel by saying *Download Template* from Excel Transactions > Store Product Excel** section under **Products page.
+After doing this process, you can upload your excel from the same area by updating your price information and currency on the excel by saying *Download Template* from the **Excel Operations > Store Product Excel** section under the **Products** page.

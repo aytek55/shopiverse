@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Attribute Match'
+sidebar_label: 'Attribute Matching'
 sidebar_position: 3
 ---
 
@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## Attribute Matching
 
-After the *Category matching* is completed, the **Products > Platform Matching > Attribute Matching** page opens. Joom is selected from the store area and color and size information with attribute values are listed below.
+After *category matching* is completed, the **Products > Platform Matching > Attribute Matching** page opens. Joom is selected from the Store area and color and size information with attribute values are listed below.
 
 ![JoomQualification](../joom/img/JoomQualificationMatching.png)
 
@@ -16,6 +16,6 @@ We open the attribute matching page with the **edit** button on the right side o
 
 ![JoomQualificationColor](../joom/img/JoomQualificationMatchingColor.png)
 
-On the page opened with the edit button corresponding to the Attribute Value field here, reset the values with the "**Clear**" button and say "**Search**" and select the appropriate value from the corresponding attribute value offered by the platform, and this is done for each attribute value.
+On the page opened with the edit button corresponding to the Attribute Value field, the values are reset with the "**Clear**" button and the appropriate one is selected from the attribute value equivalents offered by the platform by clicking "**Search**" and this is done for each attribute value. You can match the color values by typing "as the picture". After this process, you can put your products on sale with the "As in the picture" option in different visual / color variations to be published on Joom.
 
 ![JoomQualificationColorSearch](../joom/img/JoomQualificationMatchingColorSearch.png)

@@ -5,6 +5,11 @@ sidebar_position: 1
 
 # Fruugo API Entegrasyonu
 
+## Entegrasyon Süreci Öncesinde Yapılması Gerekenler ve Önemli Bilgiler
+
+Fruugo’da ürün listelemeye başlamadan önce panel üzerinde Shipping Method ayarlamalarının yapılması gerekmektedir.
+Ürünlerinizi hangi **currency (para birimi)** ile satmak istiyorsanız bunun bildirimini ve ilgili currency’e göre banka bilgilerinizin tanımlamalarını yapmanız gerekmektedir.
+
 **Fruugo** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Fruugo >  API Tanımı** alanı altındaki “`Kullanıcı Adı`” ve “`Şifre`” bilgilerinizi girerek sipariş entegrasyonunu sağlıyoruz.
 
 ## Ayarlar
@@ -23,8 +28,10 @@ sidebar_position: 1
 
 :::caution
 
-Not: Burada ilk ürün gönderimlerini yapabilmek için; pazaryeri hesap açılışı yapılırken “Number of products to list on Fruugo” alanına kaç sku girildiyse bu rakamın en az %50’si kadar olacak şekilde ürün aktarımı yapılmasını istiyorlar. Buna göre işlem sağlamanız gerekmektedir. 
-
+**Merchant Code**: Fruugo Retail ID bilginizi bu alana girmeniz gerekmektedir. Bu bilgiyi Fruugo panelinde “Account Settings > Company Details” sayfası altında bulabilirsiniz.
+**Kullanıcı Adı**: Fruugo hesabınıza giriş yaptığınız mail adresi
+**Kullanıcı Şifresi**: Fruugo hesabınıza giriş yaptığınız şifre bilgisi
+Bu bilgileri girdikten sonra Kaydet butonuna tıklayarak işlemi tamamlayabilirsiniz. Sonrasında ShopiVerse, Fruugo teknik ekibine webhook linki ileterek entegrasyon bağlantısını sağlamış olacaktır.
 
 :::
 

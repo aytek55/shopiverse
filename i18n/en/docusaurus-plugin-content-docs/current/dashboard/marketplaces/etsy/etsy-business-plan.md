@@ -4,22 +4,30 @@ sidebar_position: 5
 ---
 
 
-# Etsy Business Plans
+# Etsy Business Plans 
 
-## Settings > Stores
+## Settings > Stores 
 
-For *Etsy*, after *category matching, variant matching, product content and price adjustments* are made, on **Settings > Stores > Etsy > Business Plan** page, ***related business plans*** are set as *Manual/Automatic* and activated you need to make it.
+After *category matching, variant matching, product content and price edits* are made for *Etsy*, you need to determine and activate the ***related business plans*** as *Manual/Automatic* on the **Settings > Stores > Etsy > Business Plan** page. 
 
 ![EtsyBusinessPlan](../etsy/img/EtsyBusinessPlanOto.png)
 
-## Settings > Business Plan
+## Settings > Work Plan
 
-After doing this, the business plan “*Send Products* to Marketplace*” under the Etsy tab under **Settings > Business Plan** is run with the run button with the *side triangle symbol*. After this business plan is completed, the "**Marketplace Stock/Price Update**" business plan is run in the same way.
+After doing this process, the "*Marketplace Send Product*" business plan under the Etsy tab under **Settings > Business Plan** is run with the run button with *side triangle symbol*. After this business plan is completed, the "**Marketplace Stock/Price Update**" business plan is run in the same way. 
 
 ![EtsyBusinessPlanOtoProduct](../etsy/img/EtsyBusinessPlanOtoProduct.png)
 
-:::caution
-As a result of the work plans, you should review the product-based error messages that are given as errors or warnings and make the necessary corrections and run the work plan again.
+## Etsy Product Matching
 
-After these processes, the products that are sent successfully according to the results of the business plans are successfully opened for sale on Etsy.
+If you already have products listed in Etsy, integration connection can be provided by matching these products with your products listed in ShopiVerse.
+The sku's of your products in Etsy and the **stock codes** of the products listed in ShopiVerse must be exactly the same.
+If this condition is met; **Settings > Business Plans > Etsy > Marketplace Product SKU** You can match the products by running the Fetch task.
+
+![EtsyBusinessPlanSku](../etsy/img/EtsyProductSkuJob.png)
+
+:::caution
+As a result of the business plans, you need to re-run the business plan by examining the product-based error messages given in the form of errors or warnings and making the necessary corrections. 
+
+After these processes, the products that are successfully sent according to the results of the business plans are successfully opened for sale on Etsy. 
 :::

@@ -8,18 +8,18 @@ sidebar_position: 4
 
 ## Excel Operations
 
-In the "**Translate Product Information**" field under Excel Transactions on the *Products* page, the "**Source Language (in which language the products are in)**" and "**Target Language (whichever language the products are intended to be translated into)**" options are selected, and You will get the translated version of your product information with an excel output by selecting “*Download by Translating*” and clicking the download template button.
+In the "**Translate Product Information**" field under Excel Transactions on the *Products* page, the "**Source Language (whatever language the products are in)**" and "**Target Language (whatever language the products want to be translated into)**" options are selected and By selecting “*Download by Translating*” and clicking the download template button, you will receive the translated version of your product information as an Excel printout.
 
 ![JoomProductPrice](../joom/img/JoomProductPrice.png)
 
-If there are any edits you want to make in this excel, the downloaded template will be restored by saying “*Choose File*” and “*Upload*” from the same place by making them, and your product information in the raw data will also contain information about the translated language.
+If there are any edits you want to make in this Excel, you can make them and click "*Select File*" and "*Upload*" in the same place. The downloaded template will be restored and the product information in the raw data will also contain information about the translated language.
 
 ## Parameter
 
-Then, under **Settings > Stores > Joom > Parameter** page, “*Store Product Language*” is selected in English.
+Then, under the **Settings > Stores > Joom > Parameter** page, “*Shop Product Language*” is selected as English.
 
 ![JoomProductPriceLanguage](../joom/img/JoomProductPriceLanguage.png)
 
-After doing this, you can upload your excel from the same field by updating your price information and currency on excel by saying *Download Template* from Excel Transactions > Store Product Excel** section under **Products page.
+After completing this process, you can update your price information and currency on Excel by clicking *Download Template* from the **Excel Transactions > Store Product Excel** section under the Products page and upload your Excel from the same area. It is important to enter product measurement information correctly in the product contents. According to this information, Joom determines the sales price by subtracting a shipping cost and adding the shipping cost to the sales price you set for the product.
 
 ![JoomProductPriceLanguageExcel](../joom/img/JoomProductPriceLanguageExcel.png)

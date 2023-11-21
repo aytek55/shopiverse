@@ -20,7 +20,7 @@ Daha sonra **Ayarlar > Mağazalar > Joom > Parametre** sayfası altında “*Ma�
 
 ![JoomProductPriceLanguage](../joom/img/JoomProductPriceLanguage.png)
 
-Bu işlemi yaptıktan sonra yine **Ürünler sayfası altında Excel İşlemleri > Mağaza Ürün Excel** kısmından *Şablon İndir* diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. 
+Bu işlemi yaptıktan sonra yine **Ürünler sayfası altında Excel İşlemleri > Mağaza Ürün Excel** kısmından *Şablon İndir* diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. Ürün içeriklerinde ürün ölçü bilgilerinini doğru şekilde girilmesi önemlidir. Bu bilgilere göre Joom bir kargo maliyeti çıkararak, ürün için belirlediğiniz satış fiyatının üzerine kargo maliyetini de ekleyerek satış fiyatını belirlemektedir.
 
 ![JoomProductPriceLanguageExcel](../joom/img/JoomProductPriceLanguageExcel.png)
 

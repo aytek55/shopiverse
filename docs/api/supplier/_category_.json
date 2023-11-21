@@ -1,0 +1,8 @@
+{
+    "label": "Tedarikçiler",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Tedarikçiler API servislerinde yapmak istediğiniz işlemi seçiniz."
+    }
+  }

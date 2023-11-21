@@ -31,6 +31,54 @@
 
   },
 
+  "sidebar.apiSidebar.category.Görevler": {
+
+    "message": "Tasks",
+
+    "description": "The label for category Authorization in sidebar apiSidebar"
+
+  },
+  
+  "sidebar.apiSidebar.category.Görevler.link.generated-index.description": {
+
+    "message": "Select the action you want to perform in the tasks API services.",
+
+    "description": "The generated-index page description for category Authorization in sidebar apiSidebar"
+
+  },
+
+  "sidebar.apiSidebar.category.Tedarikçiler": {
+
+    "message": "Suppliers",
+
+    "description": "The label for category Authorization in sidebar apiSidebar"
+
+  },
+  
+  "sidebar.apiSidebar.category.Tedarikçiler.link.generated-index.description": {
+
+    "message": "Select the action you want to perform in the suppliers API services.",
+
+    "description": "The generated-index page description for category Authorization in sidebar apiSidebar"
+
+  },
+
+  "sidebar.apiSidebar.category.Depo Bilgileri": {
+
+    "message": "Warehouse",
+
+    "description": "The label for category Authorization in sidebar apiSidebar"
+
+  },
+  
+  "sidebar.apiSidebar.category.Depo Bilgileri.link.generated-index.description": {
+
+    "message": "Select the action you want to perform in the warehouse API services.",
+
+    "description": "The generated-index page description for category Authorization in sidebar apiSidebar"
+
+  },
+
   "sidebar.apiSidebar.category.Siparişler": {
 
     "message": "Orders",
@@ -74,13 +122,6 @@
   "sidebar.dashboardSidebar.category.Panel Anlatımı.link.generated-index.description": {
 
     "message": "Sections available in the ShopiVerse Panel. ",
-
-    "description": "The generated-index page description for category Panel Narration in sidebar dashboardSidebar"
-
-  },
-  "sidebar.dashboardSidebar.category.Panel Anlatımı.link.generated-index.label": {
-
-    "message": "Panel Narration ",
 
     "description": "The generated-index page description for category Panel Narration in sidebar dashboardSidebar"
 

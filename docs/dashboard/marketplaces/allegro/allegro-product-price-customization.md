@@ -28,6 +28,6 @@ Daha sonra **Ayarlar > Mağazalar > Allegro > Parametre**sayfası altında “*M
 
 ![AllegroShopExcelProduct](../allegro/img/allegroshopexcelproduct.png)
 
-Bu işlemi yaptıktan sonra yine **Ürünler sayfası altında Excel İşlemleri > Mağaza Ürün Excel** kısmından *Şablon İndir* diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. 
+Bu işlemi yaptıktan sonra yine **Ürünler sayfası altında Excel İşlemleri > Mağaza Ürün Excel** kısmından *Şablon İndir* diyerek excel üzerinde fiyat bilgilerinizi ve para birimini güncelleyerek yine aynı alandan excelinizi yükleyebilirsiniz. Allegro PLN para birimi ile fiyatları kabul etmektedir, bu doğrultuda fiyatlarını belirlemeniz gerekmektedir.
 
 

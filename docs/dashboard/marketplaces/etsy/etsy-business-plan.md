@@ -18,6 +18,14 @@ Bu işlemi yaptıktan sonra **Ayarlar > İş Planı** altından Etsy tab’i alt
 
 ![EtsyBusinessPlanOtoProduct](../etsy/img/EtsyBusinessPlanOtoProduct.png)
 
+## Etsy Ürün Eşleştirme
+
+Etsy’de hali hazırda listelenmiş ürünleriniz var ise bu ürünler ile ShopiVerse’de listelenmiş ürünlerinizi eşleştirerek entegrasyon bağlantısı sağlanabilir.
+Etsy’deki ürünlerinizin sku’ları ile ShopiVerse’de listelenen ürünlerin **stok kodları** birebir aynı olması gerekmektedir.
+Eğer bu koşul sağlanıyorsa; **Ayarlar > İş Planları > Etsy > Pazaryeri Ürün SKU** Getir görevini çalıştırarak ürünleri eşleştirebilirsiniz.
+
+![EtsyBusinessPlanSku](../etsy/img/EtsyProductSkuJob.png)
+
 :::caution
 İş planları sonucunda hatalı ya da uyarı şeklinde verilen ürün bazlı hata mesajlarını inceleyip gerekli düzeltmeleri yaparak iş planını tekrardan çalıştırmanız gereklidir. 
 

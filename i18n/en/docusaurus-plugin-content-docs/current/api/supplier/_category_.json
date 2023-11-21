@@ -1,0 +1,7 @@
+{
+    "label": "Orders",
+    "link": {
+      "type": "generated-index",
+      "description": "Select the action you want to perform in the order API services."
+    }
+  }

@@ -1,20 +1,21 @@
 ---
-sidebar_label: 'Attribute Match'
+sidebar_label: 'Variant Matching'
 sidebar_position: 3
 ---
 
-# Ozone Attribute Matching
+# Ozone Variant Matching
 
-## Attribute Matching
+## Variant Matching
 
-![OzonQualification](../ozon/img/OzonQualification.png)
+![OzonQualification](../ozon/img/OzonVariantMatch.png)
 
-After the *Category matching* is completed, the **Products > Platform Matching > Attribute Matching** page opens. Joom is selected from the store area and color and size information with attribute values are listed below.
+After *category matching* is completed, the **Products > Variant Matching** page opens.
 
-![OzonQualificationView](../ozon/img/OzonQualificationView.png)
+![OzonQualificationView](../ozon/img/OzonVariantMatchView.png)
 
 ## Edit
+Ozon is selected from the Store area and the information of the categories for which you made category matches is listed below.
 
-We open the attribute matching page with the edit button on the right of the relevant attribute value. On the page opened with the edit button corresponding to the Attribute Value field here, reset the values with the "**Clear**" button and say "**Search**" and select the appropriate value from the corresponding attribute value offered by the platform, and this is done for each attribute value.
+We open the attribute matching page with the edit button on the right side of the relevant variant value. On the page that opens with the edit button corresponding to the Attribute Value field, the values are reset with the "**Clear**" button and the appropriate one is selected from the attribute value equivalents offered by the platform by clicking "** Search**" and this is done for each attribute value.
 
-![OzonQualificationViewSearch](../ozon/img/OzonQualificationViewSearch.png)
+![OzonQualificationViewSearch](../ozon/img/OzonVariantMatchViewSearch.png)
