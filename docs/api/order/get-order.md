@@ -6,6 +6,12 @@ sidebar_label: 'Sipariş Getirme'
 
 ### Request Body
 
+![GetOrdersRequest](../order/img/GetOrdersParameters.png)
+
+:::note
+X-Client Key   Shopiverse panelde Api Tanımlarında bulunan APİ-Key bilgisidir. Api İstek limiti **dakikada 2 istek** olarak sabitlenmiştir.
+:::
+
 ```json
 {
   "pageCount": 0,

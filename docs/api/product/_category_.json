@@ -1,0 +1,8 @@
+{
+    "label": "Ürün Stock-Fiyat",
+    "position": 7,
+    "link": {
+      "type": "generated-index",
+      "description": "Ürün API servislerinde yapmak istediğiniz işlemi seçiniz."
+    }
+  }

@@ -6,6 +6,8 @@ sidebar_label: 'Order Fetch'
 
 ### Request Body
 
+![GetOrdersRequest](../order/img/GetOrdersParameters.png)
+
 ```json
 {
   "pageCount": 0,
@@ -21,6 +23,9 @@ sidebar_label: 'Order Fetch'
   "generalStatus": "string"
 }
 ```
+:::note
+X-Client Key is the API-Key information found in the Api Definitions in the Shopiverse panel. Api Request limit is fixed as **2 requests per minute**.
+:::
 
 :::note
 In order to withdraw your orders on Shopiverse, you can try the **[Order Api GetOrders](https://api.shopiverse.com/swagger/index.html "Order Api GetOrders")** method by entering the necessary information as above and creating the request via ShopiVerse Api.

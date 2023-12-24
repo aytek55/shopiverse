@@ -6,6 +6,13 @@ sidebar_label: 'Görevleri Getirme'
 
 ### Parametre
 
+
+![GetTasksRequest](../tasks/img/GetTasksRequest.png)
+
+:::note
+X-Client Key   Shopiverse panelde Api Tanımlarında bulunan APİ-Key bilgisidir.Api İstek limiti **dakikada 2 istek** olarak sabitlenmiştir.
+:::
+
 ```json
  taskcode : string 
 ```

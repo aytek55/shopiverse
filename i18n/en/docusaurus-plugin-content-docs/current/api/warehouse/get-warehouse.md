@@ -6,10 +6,16 @@ sidebar_label: 'Get Warehouse'
 
 ### Parameter
 
+![GetWarehouseRequest](../warehouse/img/GetWarehousesRequest.png)
+
 ```json
  Status : string Aktif(1) , Pasif(0)
  Name : string
 ```
+
+:::note
+X-Client Key is the API-Key information found in the Api Definitions in the Shopiverse panel. Api Request limit is fixed as **2 requests per minute**.
+:::
 
 :::note
 To attract suppliers on Shopiverse, you can try the **[Warehouse Api GetWarehouse](https://api.shopiverse.com/swagger/index.html "Warehouse Api GetWarehouse")** method by entering the necessary information via the ShopiVerse Api as above and creating the necessary request. .

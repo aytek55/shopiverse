@@ -6,6 +6,12 @@ sidebar_label: 'Mağazaları Getirme'
 
 ### Request Body
 
+![GetstoresRequest](../store/img/GetStoresRequest.png)
+
+:::note
+X-Client Key   Shopiverse panelde Api Tanımlarında bulunan APİ-Key bilgisidir.Api İstek limiti **dakikada 2 istek** olarak sabitlenmiştir.
+:::
+
 ```json
 {
   "status": 0,

@@ -6,6 +6,13 @@ sidebar_label: 'Tedarikçileri Getirme'
 
 ### Parametre
 
+
+![GetSuppliersRequest](../supplier/img/GetSuppliersRequest.png)
+
+:::note
+X-Client Key   Shopiverse panelde Api Tanımlarında bulunan APİ-Key bilgisidir.Api İstek limiti **dakikada 2 istek** olarak sabitlenmiştir.
+:::
+
 ```json
  Status : string Aktif(1) , Pasif(0)
  Name : string

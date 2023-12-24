@@ -6,6 +6,13 @@ sidebar_label: 'Mağaza Ürün Fiyat Gönderme'
 
 ### Request Body
 
+
+![SetstorePriceRequest](../store/img/SetStoresPrice.png)
+
+:::note
+X-Client Key   Shopiverse panelde Api Tanımlarında bulunan APİ-Key bilgisidir.Api İstek limiti **dakikada 2 istek** olarak sabitlenmiştir.
+:::
+
 ```json
 [
   {

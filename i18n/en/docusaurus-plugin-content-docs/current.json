@@ -79,6 +79,22 @@
 
   },
 
+  "sidebar.apiSidebar.category.Ürün Stock-Fiyat": {
+
+    "message": "Product Stock-Price",
+
+    "description": "The label for category Authorization in sidebar apiSidebar"
+
+  },
+  
+  "sidebar.apiSidebar.category.Ürün Stock-Fiyat.link.generated-index.description": {
+
+    "message": "Select the action you want to perform in the Product API services.",
+
+    "description": "The generated-index page description for category Authorization in sidebar apiSidebar"
+
+  },
+
   "sidebar.apiSidebar.category.Siparişler": {
 
     "message": "Orders",

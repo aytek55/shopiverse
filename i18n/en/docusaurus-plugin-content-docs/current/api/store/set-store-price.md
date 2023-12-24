@@ -6,6 +6,8 @@ sidebar_label: 'Send Store Product Price'
 
 ### Request Body
 
+![SetstorePriceRequest](../store/img/SetStoresPrice.png)
+
 ```json
 [
   {
@@ -17,6 +19,9 @@ sidebar_label: 'Send Store Product Price'
   }
 ]
 ```
+:::note
+X-Client Key is the API-Key information found in the Api Definitions in the Shopiverse panel. Api Request limit is fixed as **2 requests per minute**.
+:::
 
 :::note
 To pull your stores on Shopiverse, you can try the **[Store Api SetStorProductPrice](https://api.shopiverse.com/swagger/index.html "Store Api SetStoreProductPrice")** method by entering the necessary information as above through the ShopiVerse Api and creating the necessary request. .
