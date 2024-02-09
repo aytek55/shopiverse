@@ -11,6 +11,8 @@ sidebar_position: 1
 Joom’da görseller kare olmalıdır. Dikdörtgen görseller kabul edilebilir ancak ebatları **1:11 ve 3:4** arasında olmalıdır.
 Ürün ölçü bilgilerinin (En x Boy x Yükseklik x Ağırlık) doğru bir şekilde ShopiVerse’deki ürünler üzerinde girilmiş olması lazım. Joom kargo ve gümrük maliyetlerini direkt müşteriden almaktadır, burada girilen bilgilere göre kargo maliyeti oluşturarak ürün fiyatının üzerine ekleme yapmaktadır.
 
+## Joom API Entegrasyonu
+
 **Joom** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Joom >  API Tanımı** alanı altındaki “`Secret Key`” ve “`Client ID`” ve “`Store ID`” bilgilerini doldurmamız gerekiyor. 
 
 

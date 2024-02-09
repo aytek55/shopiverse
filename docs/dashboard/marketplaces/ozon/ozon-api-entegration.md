@@ -10,6 +10,8 @@ Ozon hesabınız açılıp ürün yükleme süreçlerine başlamadan önce Marka
 
 Ürün ölçü bilgilerinin *(En x Boy x Yükseklik x Ağırlık)* doğru bir şekilde ShopiVerse’deki ürünler üzerinde girilmiş olması lazım. **Ölçü bilgileri olmadan ürünler Ozon’a aktarılamamaktadır.** 
 
+## Ozon API Entegrasyonu
+
 **Ozon** API entegrasyonu için; ShopiVerse panelinden **Ayarlar > Mağazalar > Ozon >  API Tanımı** alanı altındaki “`Client ID`” ve “`Api Key`” bilgilerini doldurmamız gerekiyor. 
 **Ozon API entegrasyonu** için; ShopiVerse panelinden **Ayarlar > Mağazalar > Ozon >  API Tanım** alanı altında “*Client ID*” ve “*API Key*” bilgilerini doldurmamız gerekiyor. 
 Ozon mağazanız görünmüyorsa **Yeni** menüsünden Ozon pazaryerini ekleyebilirsiniz. 

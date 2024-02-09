@@ -4,8 +4,6 @@ sidebar_position: 1
 ---
 
 
-
-
 # Wayfair API Entegrasyonu
 
 **Wayfair** panelinde ***Developer > Applications*** sayfasına gidilir.

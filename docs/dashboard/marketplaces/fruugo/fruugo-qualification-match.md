@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## Nitelik Eşleştirme
 
-*Kategori eşleştirmeleri* tamamlandıktan sonra **Ürünler > Platform Eşleştirme > Nitelik Eşleştirme** sayfası açılır. Mağaza alanından Joom seçilir ve aşağıda nitelik değerleri olan renk ve beden bilgileri listelenir. 
+*Kategori eşleştirmeleri* tamamlandıktan sonra **Ürünler > Platform Eşleştirme > Nitelik Eşleştirme** sayfası açılır. Mağaza alanından **Fruugo** seçilir ve aşağıda nitelik değerleri olan *renk ve beden* bilgileri listelenir. 
 
 ![JoomQualification](../joom/img/JoomQualificationMatching.png)
 

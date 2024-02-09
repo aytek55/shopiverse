@@ -11,6 +11,8 @@ sidebar_position: 1
 Images in Joom must be square. Rectangular images are acceptable, but their size must be between **1:11 and 3:4**.
 Product measurement information (Width x Length x Height x Weight) must be entered correctly on the products in ShopiVerse. Joom collects shipping and customs costs directly from the customer, and adds the shipping cost to the product price according to the information entered here.
 
+## Joom API Integration
+
 For **Joom** API integration; We need to fill in the "`Secret Key`", "`Client ID`" and "`Store ID`" information under the **Settings > Stores > Joom > API Definition** field from the ShopiVerse panel.
 
 

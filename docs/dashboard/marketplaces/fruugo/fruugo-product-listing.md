@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ![EtsyMyProducts](../etsy/img/EtsyMyProducts.png)
 
-Ürünlerim sayfasında *Etsy* özelinde satışa açılmasını istediğiniz ürünler seçilir ya da filtrelenir. Daha sonra **Platform İşlemleri** altından “**Seçilen Ürünleri Yayınla**” ya da “**Filtreli Ürünleri Yayınla**” seçeneği seçilerek açılan pop-up sayfasında **Fruugo** seçilir ve *Kaydet* yapılır. 
+Ürünlerim sayfasında *Fruugo* özelinde satışa açılmasını istediğiniz ürünler seçilir ya da filtrelenir. Daha sonra **Platform İşlemleri** altından “**Seçilen Ürünleri Yayınla**” ya da “**Filtreli Ürünleri Yayınla**” seçeneği seçilerek açılan pop-up sayfasında **Fruugo** seçilir ve *Kaydet* yapılır. 
 
 ![EtsyMyProductsSelected](../etsy/img/EtsyMyProductsSelected.png)
 

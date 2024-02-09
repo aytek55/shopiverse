@@ -19,9 +19,8 @@ For **Amazon** API integration; We need to fill in the "**Merchant Token**" fiel
 ![AmazonAPI](../amazon/img/svamazonapi.png)
 
 
-## Merchant Token Almak İçin
+## To Get Merchant Tokens
 
-To Get Merchant Tokens
 On the https://sellercentral.amazon.com/hz/sc/account-information page, we need to enter this information in the "**Business Information > Merchant Token**" field and enter this information in the relevant field in the ShopiVerse panel.
 
 Then by clicking on the "*Status*" section, we click "*Save*" and when the page is reloaded, the "**Request Authorization**" button will be created, by going to the Amazon panel, the user is logged in, the requested information is allowed and our api integration connection with Amazon is completed. .

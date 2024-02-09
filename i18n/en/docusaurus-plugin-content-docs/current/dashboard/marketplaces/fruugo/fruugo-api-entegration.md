@@ -10,6 +10,8 @@ sidebar_position: 1
 Before you start listing products on Fruugo, Shipping Method settings must be made on the panel.
 You must declare the currency you want to sell your products in and define your bank information according to the relevant currency.
 
+## Fruugo API Integration
+
 **Fruugo** For API integration; We ensure order integration by entering your "Username" and "Password" information under the **Settings > Stores > Fruugo > API Definition** field from the ShopiVerse panel.
 
 ## Settings
@@ -20,6 +22,7 @@ You must declare the currency you want to sell your products in and define your 
 ![Fruugo](../fruugo/img/svfruugo.png)
 
 ## Fruugo > API Description
+For **Fruugo API integration**; The following fields must be filled in under **Settings > Stores > Fruugo > API Definition** from the ShopiVerse panel.
 ![FruugoAPI](../fruugo/img/svfruugoapi.png)
 
 

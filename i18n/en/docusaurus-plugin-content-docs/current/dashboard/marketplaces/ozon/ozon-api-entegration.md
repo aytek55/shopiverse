@@ -10,6 +10,8 @@ Before opening your Ozon account and starting the product upload process, you mu
 
 Product measurement information *(Width x Length x Height x Weight)* must be entered correctly on the products in ShopiVerse. **Products cannot be transferred to Ozon without measurement information.**
 
+## Ozone API Integration
+
 **Ozon** For API integration; We need to fill in the “`Client ID`” and “`Api Key`” information under the **Settings > Stores > Ozon > API Definition** field from the ShopiVerse panel.
 For **Ozone API integration**; We need to fill in the “*Client ID*” and “*API Key*” information under the **Settings > Stores > Ozon > API Definition** field from the ShopiVerse panel.
 If your Ozon store is not visible, you can add the Ozon marketplace from the **New** menu.

@@ -9,6 +9,7 @@ sidebar_position: 1
 
 Before starting the Allegro integration process, you need to define your brand. To do this, you need to open a ticket on Allegro with the category codes in which you want to list your products and request to add a brand.
 
+## Allegro API Integration
 
 From the ShopiVerse panel, you need to click on the "*Status*" section under the **Settings > Stores > Allegro > API Definition** field, enter the "*Client ID*" and "*Secret Key*" information and click save first, then " You must complete the action with the "Request Authorization" button.
 

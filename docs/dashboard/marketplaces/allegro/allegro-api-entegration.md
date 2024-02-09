@@ -9,6 +9,7 @@ sidebar_position: 1
 
 Allegro entegrasyon sürecine başlamadan önce marka tanımlamanızı yapmanız gerekmektedir. Bunun için Allegro tarafına ürünlerinizi listelemek istediğiniz kategori kodları ile birlikte ticket açmanız ve marka ekleme talebinde bulunmanız gerekmektedir.
 
+## Allegro API Entegrasyonu
 
 ShopiVerse panelinden **Ayarlar > Mağazalar > Allegro >  API Tanım** alanı altında “*Durum*” kısmı tikleyip, “*Client ID*” ve “*Secret Key*” bilgilerini girerek ilk önce kaydet demeniz gerekiyor, daha sonra yenilenen ekranda “Yetki Talep Et” butonu ile işlem sağlamanız gerekmektedir.
 
